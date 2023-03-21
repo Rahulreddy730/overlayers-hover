@@ -1,0 +1,6512 @@
+[
+    {
+        "Lat": 29.793432,
+        "Lon": -92.143226,
+        "Name": "Abbeville LA-Martin"
+    },
+    {
+        "Lat": 33.841801,
+        "Lon": -88.543022,
+        "Name": "Aberdeen MS-ERPC"
+    },
+    {
+        "Lat": 45.429975,
+        "Lon": -98.51543,
+        "Name": "Aberdeen SD-Nustar"
+    },
+    {
+        "Lat": 33.833527,
+        "Lon": -101.84449,
+        "Name": "Abernathy TX-Nustar"
+    },
+    {
+        "Lat": 32.451897,
+        "Lon": -99.73262,
+        "Name": "Abilene TX-Delek"
+    },
+    {
+        "Lat": 41.098438,
+        "Lon": -81.487259,
+        "Name": "Akron OH-Sunoco"
+    },
+    {
+        "Lat": 41.098438,
+        "Lon": -81.487259,
+        "Name": "Akron OH-Sunoco"
+    },
+    {
+        "Lat": 32.813161,
+        "Lon": -105.97916,
+        "Name": "Alamogordo NM-Epic Midstream"
+    },
+    {
+        "Lat": 31.579348,
+        "Lon": -84.183807,
+        "Name": "Albany GA-Saratoga"
+    },
+    {
+        "Lat": 42.618227,
+        "Lon": -73.763851,
+        "Name": "Albany NY-Buckeye"
+    },
+    {
+        "Lat": 42.632568,
+        "Lon": -73.756665,
+        "Name": "Albany NY-Global"
+    },
+    {
+        "Lat": 35.04596,
+        "Lon": -106.64563,
+        "Name": "Albuquerque NM-Musket"
+    },
+    {
+        "Lat": 34.987282,
+        "Lon": -106.654791,
+        "Name": "Albuquerque NM-Nustar"
+    },
+    {
+        "Lat": 34.98961,
+        "Lon": -106.66069,
+        "Name": "Albuquerque NM-Phillips 66"
+    },
+    {
+        "Lat": 35.04586,
+        "Lon": -106.64811,
+        "Name": "Albuquerque NM-Western"
+    },
+    {
+        "Lat": 32.730658,
+        "Lon": -97.621929,
+        "Name": "Aledo TX-Magellan"
+    },
+    {
+        "Lat": 32.730658,
+        "Lon": -97.621929,
+        "Name": "Aledo TX-Magellan"
+    },
+    {
+        "Lat": 45.894238,
+        "Lon": -95.389565,
+        "Name": "Alexandria MN-Magellan"
+    },
+    {
+        "Lat": 40.628687,
+        "Lon": -75.431217,
+        "Name": "Allentown PA-Lucknow"
+    },
+    {
+        "Lat": 41.65669,
+        "Lon": -87.70577,
+        "Name": "Alsip IL-Valero"
+    },
+    {
+        "Lat": 40.456745,
+        "Lon": -78.43137,
+        "Name": "Altoona PA-Lucknow"
+    },
+    {
+        "Lat": 40.466201,
+        "Lon": -78.434472,
+        "Name": "Altoona PA-Sunoco"
+    },
+    {
+        "Lat": 40.466519,
+        "Lon": -78.426186,
+        "Name": "Altoona PA-Zenith Energy"
+    },
+    {
+        "Lat": 35.20039,
+        "Lon": -101.740837,
+        "Name": "Amarillo TX-BNSF"
+    },
+    {
+        "Lat": 35.26509,
+        "Lon": -101.88681,
+        "Name": "Amarillo TX-Nustar"
+    },
+    {
+        "Lat": 35.264923,
+        "Lon": -101.89111,
+        "Name": "Amarillo TX-Phillips 66"
+    },
+    {
+        "Lat": 29.671523,
+        "Lon": -91.164725,
+        "Name": "Amelia LA-Martin"
+    },
+    {
+        "Lat": 32.070534,
+        "Lon": -84.232132,
+        "Name": "Americus GA-TransMontaigne"
+    },
+    {
+        "Lat": 48.46268,
+        "Lon": -122.565554,
+        "Name": "Anacortes WA-Marathon"
+    },
+    {
+        "Lat": 33.86653,
+        "Lon": -117.83863,
+        "Name": "Anaheim CA-Torrance Logistics"
+    },
+    {
+        "Lat": 61.23038,
+        "Lon": -149.89012,
+        "Name": "Anchorage AK-Crowley Fuels"
+    },
+    {
+        "Lat": 61.208786,
+        "Lon": -149.862595,
+        "Name": "Anchorage AK-Frosty Fuels"
+    },
+    {
+        "Lat": 61.229808,
+        "Lon": -149.890956,
+        "Name": "Anchorage AK-Tesoro(1076 ODock"
+    },
+    {
+        "Lat": 61.23427,
+        "Lon": -149.88883,
+        "Name": "Anchorage AK-Tesoro(1522 Port)"
+    },
+    {
+        "Lat": 33.617485,
+        "Lon": -85.776285,
+        "Name": "Anniston AL-Murphy"
+    },
+    {
+        "Lat": 35.718552,
+        "Lon": -78.815346,
+        "Name": "Apex NC-Motiva"
+    },
+    {
+        "Lat": 27.91357,
+        "Lon": -97.162163,
+        "Name": "Aransas Pass TX-Martin"
+    },
+    {
+        "Lat": 32.563699,
+        "Lon": -92.955705,
+        "Name": "Arcadia LA-Chevron"
+    },
+    {
+        "Lat": 32.563699,
+        "Lon": -92.955705,
+        "Name": "Arcadia LA-Sunoco"
+    },
+    {
+        "Lat": 34.20278,
+        "Lon": -97.11191,
+        "Name": "Ardmore OK-Valero"
+    },
+    {
+        "Lat": 42.023237,
+        "Lon": -87.951105,
+        "Name": "Arlingtn Hghts IL-WShore(Badgr"
+    },
+    {
+        "Lat": 42.027952,
+        "Lon": -87.958339,
+        "Name": "Arlingtn Hghts IL-WShore(Busse"
+    },
+    {
+        "Lat": 42.023521,
+        "Lon": -87.947053,
+        "Name": "Arlington Heights IL-ExxonMobl"
+    },
+    {
+        "Lat": 42.02716,
+        "Lon": -87.9559,
+        "Name": "Arlington Heights IL-Marathon"
+    },
+    {
+        "Lat": 42.030037,
+        "Lon": -87.945985,
+        "Name": "Arlington Heights IL-Shell Oil"
+    },
+    {
+        "Lat": 42.02565,
+        "Lon": -87.94796,
+        "Name": "Arlington Hts IL-CIT 2304 Term"
+    },
+    {
+        "Lat": 42.02565,
+        "Lon": -87.94796,
+        "Name": "Arlington Hts IL-CIT 2304 Term"
+    },
+    {
+        "Lat": 42.024555,
+        "Lon": -87.948754,
+        "Name": "Arlington Hts IL-CIT 2316 Term"
+    },
+    {
+        "Lat": 42.024555,
+        "Lon": -87.948754,
+        "Name": "Arlington Hts IL-CIT 2316 Term"
+    },
+    {
+        "Lat": 32.84267,
+        "Lon": -104.39082,
+        "Name": "Artesia NM-Holly Energy"
+    },
+    {
+        "Lat": 40.866755,
+        "Lon": -87.86544,
+        "Name": "Ashkum IL-Growmark"
+    },
+    {
+        "Lat": 39.857101,
+        "Lon": -75.426964,
+        "Name": "Aston PA-Sunoco"
+    },
+    {
+        "Lat": 39.857101,
+        "Lon": -75.426964,
+        "Name": "Aston PA-Sunoco"
+    },
+    {
+        "Lat": 34.276105,
+        "Lon": -83.821558,
+        "Name": "Athens GA-Kinder Morgan"
+    },
+    {
+        "Lat": 34.294506,
+        "Lon": -83.829329,
+        "Name": "Athens GA-TransMontaigne"
+    },
+    {
+        "Lat": 33.80418,
+        "Lon": -84.48523,
+        "Name": "Atlanta GA-Kinder Morgan"
+    },
+    {
+        "Lat": 33.80418,
+        "Lon": -84.48523,
+        "Name": "Atlanta GA-Kinder Morgan"
+    },
+    {
+        "Lat": 31.181983,
+        "Lon": -87.439137,
+        "Name": "Atmore AL-Goodway"
+    },
+    {
+        "Lat": 39.76004,
+        "Lon": -104.81416,
+        "Name": "Aurora CO-Magellan"
+    },
+    {
+        "Lat": 39.76004,
+        "Lon": -104.81416,
+        "Name": "Aurora CO-Magellan"
+    },
+    {
+        "Lat": 41.303791,
+        "Lon": -81.366943,
+        "Name": "Aurora OH-Guttman Realty"
+    },
+    {
+        "Lat": 41.303791,
+        "Lon": -81.366943,
+        "Name": "Aurora OH-Guttman Realty"
+    },
+    {
+        "Lat": 30.324438,
+        "Lon": -97.628978,
+        "Name": "Austin TX-Flint Hills"
+    },
+    {
+        "Lat": 39.7564,
+        "Lon": -86.37395,
+        "Name": "Avon IN-CSX"
+    },
+    {
+        "Lat": 29.919646,
+        "Lon": -90.195703,
+        "Name": "Avondale LA -IMTT"
+    },
+    {
+        "Lat": 30.903771,
+        "Lon": -84.545174,
+        "Name": "Bainbridge GA-Motiva"
+    },
+    {
+        "Lat": 30.903767,
+        "Lon": -84.542687,
+        "Name": "Bainbridge GA-TransMontaigne"
+    },
+    {
+        "Lat": 35.382083,
+        "Lon": -119.074259,
+        "Name": "Bakersfield CA-Alon"
+    },
+    {
+        "Lat": 35.201576,
+        "Lon": -118.941483,
+        "Name": "Bakersfield CA-Kern"
+    },
+    {
+        "Lat": 35.39536,
+        "Lon": -119.04653,
+        "Name": "Bakersfield CA-San Joaquin Ref"
+    },
+    {
+        "Lat": 29.82453,
+        "Lon": -91.5401,
+        "Name": "Baldwin LA-Five Star"
+    },
+    {
+        "Lat": 39.213317,
+        "Lon": -76.585652,
+        "Name": "Baltimore MD-Buckeye"
+    },
+    {
+        "Lat": 39.24111,
+        "Lon": -76.57719,
+        "Name": "Baltimore MD-Center Point"
+    },
+    {
+        "Lat": 39.228986,
+        "Lon": -76.56837,
+        "Name": "Baltimore MD-CITGO"
+    },
+    {
+        "Lat": 39.20841,
+        "Lon": -76.5866,
+        "Name": "Baltimore MD-Kinder Morgan"
+    },
+    {
+        "Lat": 39.23601,
+        "Lon": -76.56525,
+        "Name": "Baltimore MD-Motiva"
+    },
+    {
+        "Lat": 39.24375,
+        "Lon": -76.57716,
+        "Name": "Baltimore MD-Nustar"
+    },
+    {
+        "Lat": 39.2736,
+        "Lon": -76.56932,
+        "Name": "Baltimore MD-Petro Fuel Clintn"
+    },
+    {
+        "Lat": 39.30368,
+        "Lon": -76.556557,
+        "Name": "Baltimore MD-Petro Fuel Erdman"
+    },
+    {
+        "Lat": 39.22876,
+        "Lon": -76.57136,
+        "Name": "Baltimore MD-Sunoco"
+    },
+    {
+        "Lat": 44.862327,
+        "Lon": -68.83953,
+        "Name": "Bangor ME-Buckeye"
+    },
+    {
+        "Lat": 34.895193,
+        "Lon": -117.047598,
+        "Name": "Barstow CA-BNSF"
+    },
+    {
+        "Lat": 30.477965,
+        "Lon": -91.16869,
+        "Name": "Baton Rouge LA-ExxonMobil"
+    },
+    {
+        "Lat": 43.616528,
+        "Lon": -83.86425,
+        "Name": "Bay City MI-Marathon"
+    },
+    {
+        "Lat": 28.865537,
+        "Lon": -96.026737,
+        "Name": "Bay City TX-Sunoco"
+    },
+    {
+        "Lat": 40.6632,
+        "Lon": -74.10598,
+        "Name": "Bayonne NJ-Buckeye"
+    },
+    {
+        "Lat": 40.657818,
+        "Lon": -74.102494,
+        "Name": "Bayonne NJ-IMTT"
+    },
+    {
+        "Lat": 29.997422,
+        "Lon": -94.069582,
+        "Name": "Beaumont TX-Motiva"
+    },
+    {
+        "Lat": 29.983989,
+        "Lon": -94.060649,
+        "Name": "Beaumont TX-Sunoco"
+    },
+    {
+        "Lat": 34.660772,
+        "Lon": -106.767192,
+        "Name": "Belen NM-BNSF"
+    },
+    {
+        "Lat": 40.123892,
+        "Lon": -79.87581,
+        "Name": "Belle Vernon PA-Guttman Realty"
+    },
+    {
+        "Lat": 41.11611,
+        "Lon": -95.93162,
+        "Name": "Bellevue NE-Magellan"
+    },
+    {
+        "Lat": 41.265325,
+        "Lon": -82.79473,
+        "Name": "Bellevue OH-Marathon"
+    },
+    {
+        "Lat": 34.522316,
+        "Lon": -82.493646,
+        "Name": "Belton SC-Buckeye"
+    },
+    {
+        "Lat": 34.549708,
+        "Lon": -82.492332,
+        "Name": "Belton SC-Marathon"
+    },
+    {
+        "Lat": 38.07516,
+        "Lon": -122.14337,
+        "Name": "Benicia CA-Valero"
+    },
+    {
+        "Lat": 38.07516,
+        "Lon": -122.14337,
+        "Name": "Benicia CA-Valero"
+    },
+    {
+        "Lat": 29.667581,
+        "Lon": -91.238013,
+        "Name": "Berwick LA-Martin"
+    },
+    {
+        "Lat": 41.52355,
+        "Lon": -90.48856,
+        "Name": "Bettendorf IA-Buckeye"
+    },
+    {
+        "Lat": 41.52851,
+        "Lon": -90.46707,
+        "Name": "Bettendorf IA-Magellan"
+    },
+    {
+        "Lat": 41.52335,
+        "Lon": -90.491646,
+        "Name": "Bettendorf IA-US Oil"
+    },
+    {
+        "Lat": 42.12685,
+        "Lon": -76.96274,
+        "Name": "Big Flats NY-Sunoco LLC"
+    },
+    {
+        "Lat": 32.565175,
+        "Lon": -95.137475,
+        "Name": "Big Sandy TX-Delek"
+    },
+    {
+        "Lat": 32.266025,
+        "Lon": -101.420425,
+        "Name": "Big Spring TX-Alon"
+    },
+    {
+        "Lat": 32.266025,
+        "Lon": -101.420425,
+        "Name": "Big Spring TX-Alon"
+    },
+    {
+        "Lat": 45.806385,
+        "Lon": -108.433449,
+        "Name": "Billings MT-ExxonMobil"
+    },
+    {
+        "Lat": 45.780025,
+        "Lon": -108.49432,
+        "Name": "Billings MT-Phillips 66"
+    },
+    {
+        "Lat": 33.47831,
+        "Lon": -86.85429,
+        "Name": "Birmingham AL-Buckeye"
+    },
+    {
+        "Lat": 33.458907,
+        "Lon": -86.87933,
+        "Name": "Birmingham AL-Chevron"
+    },
+    {
+        "Lat": 33.45745,
+        "Lon": -86.87713,
+        "Name": "Birmingham AL-Circle K Termina"
+    },
+    {
+        "Lat": 33.46126,
+        "Lon": -86.87783,
+        "Name": "Birmingham AL-CITGO"
+    },
+    {
+        "Lat": 33.458321,
+        "Lon": -86.880854,
+        "Name": "Birmingham AL-Equilon"
+    },
+    {
+        "Lat": 33.45936,
+        "Lon": -86.87525,
+        "Name": "Birmingham AL-Kinder Morgan"
+    },
+    {
+        "Lat": 33.45999,
+        "Lon": -86.87263,
+        "Name": "Birmingham AL-Magellan"
+    },
+    {
+        "Lat": 33.45439,
+        "Lon": -86.878782,
+        "Name": "Birmingham AL-Marathon"
+    },
+    {
+        "Lat": 48.88449,
+        "Lon": -122.73745,
+        "Name": "Blaine WA-BP West Coast"
+    },
+    {
+        "Lat": 34.060725,
+        "Lon": -117.369832,
+        "Name": "Bloomington CA- P66"
+    },
+    {
+        "Lat": 34.059422,
+        "Lon": -117.36719,
+        "Name": "Bloomington CA-SFPP - KM"
+    },
+    {
+        "Lat": 34.05783,
+        "Lon": -117.3701,
+        "Name": "Bloomington CA-Tesoro"
+    },
+    {
+        "Lat": 41.655591,
+        "Lon": -87.700407,
+        "Name": "Blue Island IL-Nustar"
+    },
+    {
+        "Lat": 25.960594,
+        "Lon": -97.37927,
+        "Name": "Bluewing Royal LLC"
+    },
+    {
+        "Lat": 43.607288,
+        "Lon": -116.251701,
+        "Name": "Boise ID-Marathon"
+    },
+    {
+        "Lat": 43.607161,
+        "Lon": -116.256578,
+        "Name": "Boise ID-Sinclair"
+    },
+    {
+        "Lat": 43.59697,
+        "Lon": -116.197174,
+        "Name": "Boise ID-United Products"
+    },
+    {
+        "Lat": 32.79948,
+        "Lon": -88.051331,
+        "Name": "Boligee AL-ERPC"
+    },
+    {
+        "Lat": 35.96016,
+        "Lon": -90.838,
+        "Name": "Bono AR-Murphy"
+    },
+    {
+        "Lat": 40.05579,
+        "Lon": -74.77534,
+        "Name": "Bordentown NJ-Interstate S&P"
+    },
+    {
+        "Lat": 35.670277,
+        "Lon": -101.391205,
+        "Name": "Borger TX-Chevrn Phillps (119E"
+    },
+    {
+        "Lat": 35.681947,
+        "Lon": -101.378152,
+        "Name": "Borger TX-Phillips 66 (119N)"
+    },
+    {
+        "Lat": 32.55369,
+        "Lon": -93.66926,
+        "Name": "Bossier City LA-ERPC"
+    },
+    {
+        "Lat": 32.55369,
+        "Lon": -93.66926,
+        "Name": "Bossier City LA-ERPC"
+    },
+    {
+        "Lat": 45.69852,
+        "Lon": -111.03887,
+        "Name": "Bozeman MT-ExxonMobil"
+    },
+    {
+        "Lat": 45.698385,
+        "Lon": -111.040951,
+        "Name": "Bozeman MT-Phillips 66"
+    },
+    {
+        "Lat": 41.967096,
+        "Lon": -78.628476,
+        "Name": "Bradford PA-American Refining"
+    },
+    {
+        "Lat": 41.967096,
+        "Lon": -78.628476,
+        "Name": "Bradford PA-American Refining"
+    },
+    {
+        "Lat": 42.23293,
+        "Lon": -70.974762,
+        "Name": "Braintree MA-CITGO"
+    },
+    {
+        "Lat": 29.868706,
+        "Lon": -89.944066,
+        "Name": "Braithwaite LA-Stolthaven"
+    },
+    {
+        "Lat": 41.27795,
+        "Lon": -81.62585,
+        "Name": "Brecksville OH-Marathon"
+    },
+    {
+        "Lat": 41.27795,
+        "Lon": -81.62585,
+        "Name": "Brecksville OH-Marathon"
+    },
+    {
+        "Lat": 33.703014,
+        "Lon": -85.140916,
+        "Name": "Bremen GA-Epic Midstream"
+    },
+    {
+        "Lat": 43.2436,
+        "Lon": -76.14428,
+        "Name": "Brewerton NY-Buckeye"
+    },
+    {
+        "Lat": 43.2436,
+        "Lon": -76.14428,
+        "Name": "Brewerton NY-Buckeye"
+    },
+    {
+        "Lat": 41.168974,
+        "Lon": -73.161305,
+        "Name": "Bridgeport CT-Global"
+    },
+    {
+        "Lat": 41.166222,
+        "Lon": -73.202933,
+        "Name": "Bridgeport CT-Inland Fuel"
+    },
+    {
+        "Lat": 41.170846,
+        "Lon": -73.160748,
+        "Name": "Bridgeport CT-Sprague"
+    },
+    {
+        "Lat": 37.69167,
+        "Lon": -122.39962,
+        "Name": "Brisbane CA-SFPP - KM"
+    },
+    {
+        "Lat": 41.94261,
+        "Lon": -72.52599,
+        "Name": "Broad Brook CT-Taylor Energy"
+    },
+    {
+        "Lat": 40.80518,
+        "Lon": -73.90243,
+        "Name": "Bronx NY-Buckeye"
+    },
+    {
+        "Lat": 40.8391,
+        "Lon": -73.84093,
+        "Name": "Bronx NY-Fred M. Schildwachter"
+    },
+    {
+        "Lat": 40.80189,
+        "Lon": -73.90653,
+        "Name": "Bronx NY-Sprague"
+    },
+    {
+        "Lat": 37.158385,
+        "Lon": -93.42434,
+        "Name": "Brookline (Springfield)MO-MGLN"
+    },
+    {
+        "Lat": 40.71366,
+        "Lon": -73.932,
+        "Name": "Brooklyn NY-Bayside (Grand)"
+    },
+    {
+        "Lat": 40.590814,
+        "Lon": -73.997238,
+        "Name": "Brooklyn NY-Bayside (Shore)"
+    },
+    {
+        "Lat": 40.673859,
+        "Lon": -73.998001,
+        "Name": "Brooklyn NY-Bayside (Smith)"
+    },
+    {
+        "Lat": 40.66893,
+        "Lon": -74.00254,
+        "Name": "Brooklyn NY-Buckeye"
+    },
+    {
+        "Lat": 40.72828,
+        "Lon": -73.93824,
+        "Name": "Brooklyn NY-Kinder Morgan"
+    },
+    {
+        "Lat": 40.73372,
+        "Lon": -73.94253,
+        "Name": "Brooklyn NY-United Metro"
+    },
+    {
+        "Lat": 40.737811,
+        "Lon": -73.951248,
+        "Name": "Brooklyn NY-Zenith Energy"
+    },
+    {
+        "Lat": 25.960454,
+        "Lon": -97.369333,
+        "Name": "Brownsville TX-ABC Gulf Coast"
+    },
+    {
+        "Lat": 25.955192,
+        "Lon": -97.381145,
+        "Name": "Brownsville TX-CITGO"
+    },
+    {
+        "Lat": 25.927073,
+        "Lon": -97.481384,
+        "Name": "Brownsville TX-Maverick"
+    },
+    {
+        "Lat": 25.961526,
+        "Lon": -97.382425,
+        "Name": "Brownsville TX-One Cypress"
+    },
+    {
+        "Lat": 25.947013,
+        "Lon": -97.421956,
+        "Name": "Brownsville TX-TransMontaigne"
+    },
+    {
+        "Lat": 25.95726,
+        "Lon": -97.407523,
+        "Name": "Brownsville TX-TransMontaigne"
+    },
+    {
+        "Lat": 25.957335,
+        "Lon": -97.407275,
+        "Name": "Brownsville TX-TransMontaigne"
+    },
+    {
+        "Lat": 30.419143,
+        "Lon": -81.598355,
+        "Name": "Buckeye Terminals, LLC - Jacksonville"
+    },
+    {
+        "Lat": 44.64694,
+        "Lon": -68.8254,
+        "Name": "Bucksport ME-Webber Tanks"
+    },
+    {
+        "Lat": 30.036918,
+        "Lon": -97.677692,
+        "Name": "Buda TX-Mustang Ridge"
+    },
+    {
+        "Lat": 30.036918,
+        "Lon": -97.677692,
+        "Name": "Buda TX-Mustang Ridge"
+    },
+    {
+        "Lat": 42.862419,
+        "Lon": -78.8312,
+        "Name": "Buffalo NY-Buckeye"
+    },
+    {
+        "Lat": 42.51623,
+        "Lon": -113.71333,
+        "Name": "Burley ID-Marathon"
+    },
+    {
+        "Lat": 42.51608,
+        "Lon": -113.70956,
+        "Name": "Burley ID-Sinclair"
+    },
+    {
+        "Lat": 44.455851,
+        "Lon": -73.221673,
+        "Name": "Burlington VT-Global"
+    },
+    {
+        "Lat": 33.03682,
+        "Lon": -96.19801,
+        "Name": "Caddo Mills TX-JP Energy"
+    },
+    {
+        "Lat": 38.58617,
+        "Lon": -90.179834,
+        "Name": "Cahokia IL-Phillips 66"
+    },
+    {
+        "Lat": 38.58617,
+        "Lon": -90.179834,
+        "Name": "Cahokia IL-Phillips 66"
+    },
+    {
+        "Lat": 40.13504,
+        "Lon": -91.518985,
+        "Name": "Canton MO-Ayers Oil"
+    },
+    {
+        "Lat": 40.7899,
+        "Lon": -81.35729,
+        "Name": "Canton OH-Buckeye"
+    },
+    {
+        "Lat": 40.7899,
+        "Lon": -81.35729,
+        "Name": "Canton OH-Buckeye"
+    },
+    {
+        "Lat": 40.77032,
+        "Lon": -81.41731,
+        "Name": "Canton OH-Canton Ref Gambrinu"
+    },
+    {
+        "Lat": 40.77032,
+        "Lon": -81.41731,
+        "Name": "Canton OH-Canton Ref Gambrinu"
+    },
+    {
+        "Lat": 40.773477,
+        "Lon": -81.420465,
+        "Name": "Canton OH-Mrthn (2419 Gambrins"
+    },
+    {
+        "Lat": 40.773477,
+        "Lon": -81.420465,
+        "Name": "Canton OH-Mrthn (2419 Gambrins"
+    },
+    {
+        "Lat": 28.414427,
+        "Lon": -80.615456,
+        "Name": "Cape Canaveral FL-Seaport"
+    },
+    {
+        "Lat": 28.40458,
+        "Lon": -80.60315,
+        "Name": "Cape Canaveral FL-TransMontaig"
+    },
+    {
+        "Lat": 37.28524,
+        "Lon": -89.52835,
+        "Name": "Cape Girardeau MO-TransMontaig"
+    },
+    {
+        "Lat": 39.358509,
+        "Lon": -93.49649,
+        "Name": "Carrollton MO-Sinclair"
+    },
+    {
+        "Lat": 33.80283,
+        "Lon": -118.231382,
+        "Name": "Carson CA-Kinder Morgan"
+    },
+    {
+        "Lat": 33.84292,
+        "Lon": -118.24165,
+        "Name": "Carson CA-Shell Oil"
+    },
+    {
+        "Lat": 33.80909,
+        "Lon": -118.23119,
+        "Name": "Carson CA-Tesoro"
+    },
+    {
+        "Lat": 33.833171,
+        "Lon": -118.290666,
+        "Name": "Carson CA-Torrance"
+    },
+    {
+        "Lat": 40.592072,
+        "Lon": -74.223564,
+        "Name": "Carteret NJ-Kinder (Lafayette)"
+    },
+    {
+        "Lat": 40.592072,
+        "Lon": -74.223564,
+        "Name": "Carteret NJ-Kinder (Lafayette)"
+    },
+    {
+        "Lat": 40.59006,
+        "Lon": -74.22517,
+        "Name": "Carteret NJ-Kinder (Roosevelt)"
+    },
+    {
+        "Lat": 40.59006,
+        "Lon": -74.22517,
+        "Name": "Carteret NJ-Kinder (Roosevelt)"
+    },
+    {
+        "Lat": 42.862491,
+        "Lon": -106.38949,
+        "Name": "Casper  WY-Sinclair"
+    },
+    {
+        "Lat": 42.862491,
+        "Lon": -106.38949,
+        "Name": "Casper WY-Sinclair"
+    },
+    {
+        "Lat": 38.383646,
+        "Lon": -82.599665,
+        "Name": "Catlettsburg KY-C-burg Refing"
+    },
+    {
+        "Lat": 38.325062,
+        "Lon": -82.579971,
+        "Name": "Catlettsburg KY-Marathon"
+    },
+    {
+        "Lat": 37.75334,
+        "Lon": -113.24252,
+        "Name": "Cedar City  UT-UNEV"
+    },
+    {
+        "Lat": 30.10607,
+        "Lon": -97.41698,
+        "Name": "Cedar Creek TX-Flint Hills"
+    },
+    {
+        "Lat": 31.79738,
+        "Lon": -94.14378,
+        "Name": "Center TX-Sunoco"
+    },
+    {
+        "Lat": 29.933423,
+        "Lon": -89.967648,
+        "Name": "Chalmette LA-PBF Chalmette Ref"
+    },
+    {
+        "Lat": 40.111523,
+        "Lon": -88.314567,
+        "Name": "Champaign IL-Marathon"
+    },
+    {
+        "Lat": 41.419491,
+        "Lon": -88.194054,
+        "Name": "Channahon IL-IMTT"
+    },
+    {
+        "Lat": 29.76751,
+        "Lon": -95.10286,
+        "Name": "Channelview TX-K-Solv"
+    },
+    {
+        "Lat": 29.76143,
+        "Lon": -95.10387,
+        "Name": "Channelview TX-Targa"
+    },
+    {
+        "Lat": 32.82401,
+        "Lon": -79.94775,
+        "Name": "Charleston SC-Kinder Morgan"
+    },
+    {
+        "Lat": 38.342285,
+        "Lon": -81.63403,
+        "Name": "Charleston WV-Marathon"
+    },
+    {
+        "Lat": 35.281265,
+        "Lon": -80.934797,
+        "Name": "Charlotte NC-CITGO"
+    },
+    {
+        "Lat": 35.280495,
+        "Lon": -80.936874,
+        "Name": "Charlotte NC-Colonial"
+    },
+    {
+        "Lat": 35.27819,
+        "Lon": -80.93901,
+        "Name": "Charlotte NC-KM (Freedom)"
+    },
+    {
+        "Lat": 35.27739,
+        "Lon": -80.92832,
+        "Name": "Charlotte NC-KM (Mt Holly)"
+    },
+    {
+        "Lat": 35.28552,
+        "Lon": -80.9387,
+        "Name": "Charlotte NC-KM (Sadler)"
+    },
+    {
+        "Lat": 35.27942,
+        "Lon": -80.94051,
+        "Name": "Charlotte NC-Motiva (Freedom)"
+    },
+    {
+        "Lat": 35.28203,
+        "Lon": -80.9376,
+        "Name": "Charlotte NC-Motiva (Tom Sadlr"
+    },
+    {
+        "Lat": 35.27693,
+        "Lon": -80.93097,
+        "Name": "Charlotte NC-Mrthn 7401 MHolly"
+    },
+    {
+        "Lat": 35.28106,
+        "Lon": -80.94074,
+        "Name": "Charlotte NC-Mrthn 8035 MHolly"
+    },
+    {
+        "Lat": 35.27795,
+        "Lon": -80.9341,
+        "Name": "Charlotte NC-TransMontaigne"
+    },
+    {
+        "Lat": 35.067719,
+        "Lon": -85.194435,
+        "Name": "Chattanooga TN-CITGO"
+    },
+    {
+        "Lat": 35.066894,
+        "Lon": -85.199756,
+        "Name": "Chattanooga TN-Colonial"
+    },
+    {
+        "Lat": 35.07272,
+        "Lon": -85.19516,
+        "Name": "Chattanooga TN-Kinder Morgan"
+    },
+    {
+        "Lat": 45.64862,
+        "Lon": -84.4697,
+        "Name": "Cheboygan MI-US Oil"
+    },
+    {
+        "Lat": 42.386781,
+        "Lon": -71.043491,
+        "Name": "Chelsea MA-Global"
+    },
+    {
+        "Lat": 42.39477,
+        "Lon": -71.021101,
+        "Name": "Chelsea MA-Gulf Oil LP"
+    },
+    {
+        "Lat": 36.78364,
+        "Lon": -76.29873,
+        "Name": "Chesapeake VA-Buckeye"
+    },
+    {
+        "Lat": 36.80496,
+        "Lon": -76.28721,
+        "Name": "Chesapeake VA-Center Point"
+    },
+    {
+        "Lat": 36.78771,
+        "Lon": -76.29811,
+        "Name": "Chesapeake VA-CITGO"
+    },
+    {
+        "Lat": 36.77681,
+        "Lon": -76.31425,
+        "Name": "Chesapeake VA-Gas Supply Rsrcs"
+    },
+    {
+        "Lat": 36.7753,
+        "Lon": -76.30489,
+        "Name": "Chesapeake VA-IMTT"
+    },
+    {
+        "Lat": 36.784657,
+        "Lon": -76.296789,
+        "Name": "Chesapeake VA-Kinder M (Buell)"
+    },
+    {
+        "Lat": 36.792507,
+        "Lon": -76.28717,
+        "Name": "Chesapeake VA-Kinder M (Hill)"
+    },
+    {
+        "Lat": 36.81893,
+        "Lon": -76.28528,
+        "Name": "Chesapeake VA-TransMontaigne"
+    },
+    {
+        "Lat": 36.820914,
+        "Lon": -76.285334,
+        "Name": "Chesapeake VA-Zenith Energy"
+    },
+    {
+        "Lat": 41.12504,
+        "Lon": -104.79711,
+        "Name": "Cheyenne WY-Holly Energy"
+    },
+    {
+        "Lat": 41.107925,
+        "Lon": -104.828917,
+        "Name": "Cheyenne WY-Magellan"
+    },
+    {
+        "Lat": 30.76312,
+        "Lon": -88.05236,
+        "Name": "Chichasaw AL-Center Point"
+    },
+    {
+        "Lat": 39.7079,
+        "Lon": -121.81246,
+        "Name": "Chico CA-SFPP - KM"
+    },
+    {
+        "Lat": 44.877498,
+        "Lon": -91.430242,
+        "Name": "Chippewa Falls WI-CHS"
+    },
+    {
+        "Lat": 44.89547,
+        "Lon": -91.41434,
+        "Name": "Chippewa Falls WI-US Oil"
+    },
+    {
+        "Lat": 39.0899,
+        "Lon": -84.64376,
+        "Name": "Cincinnati OH-Buckeye"
+    },
+    {
+        "Lat": 39.17025,
+        "Lon": -84.48234,
+        "Name": "Cincinnati OH-Kinder Morgan"
+    },
+    {
+        "Lat": 39.076502,
+        "Lon": -84.608386,
+        "Name": "Cincinnati OH-Marathon"
+    },
+    {
+        "Lat": 43.137695,
+        "Lon": -93.354652,
+        "Name": "Clear Lake (Mason) IA-Magellan"
+    },
+    {
+        "Lat": 41.48796,
+        "Lon": -81.68435,
+        "Name": "Cleveland OH-Buckeye"
+    },
+    {
+        "Lat": 41.464905,
+        "Lon": -81.667831,
+        "Name": "Cleveland OH-Sunoco"
+    },
+    {
+        "Lat": 41.497131,
+        "Lon": -81.700249,
+        "Name": "Cleveland OH-Zenith Energy"
+    },
+    {
+        "Lat": 37.049065,
+        "Lon": -95.605045,
+        "Name": "Coffeyville KS-Cofeyville Term"
+    },
+    {
+        "Lat": 40.77837,
+        "Lon": -73.84833,
+        "Name": "College Point NY-Energy Consv"
+    },
+    {
+        "Lat": 31.63275,
+        "Lon": -89.557861,
+        "Name": "Collins MS-Chevron"
+    },
+    {
+        "Lat": 31.62312,
+        "Lon": -89.54111,
+        "Name": "Collins MS-Equilon"
+    },
+    {
+        "Lat": 31.623159,
+        "Lon": -89.541,
+        "Name": "Collins MS-Kinder Morgan"
+    },
+    {
+        "Lat": 31.643425,
+        "Lon": -89.55623,
+        "Name": "Collins MS-TransMontaigne"
+    },
+    {
+        "Lat": 31.640386,
+        "Lon": -89.507211,
+        "Name": "Colonial Pipeline Company - Collins"
+    },
+    {
+        "Lat": 35.551523,
+        "Lon": -78.307736,
+        "Name": "Colonial Pipeline Company - Selma"
+    },
+    {
+        "Lat": 38.783165,
+        "Lon": -104.676605,
+        "Name": "Colorado Springs CO-Nustar"
+    },
+    {
+        "Lat": 34.05913,
+        "Lon": -117.36833,
+        "Name": "Colton CA-Shell Oil"
+    },
+    {
+        "Lat": 38.882156,
+        "Lon": -92.247437,
+        "Name": "Columbia MO-Magellan"
+    },
+    {
+        "Lat": 32.52183,
+        "Lon": -84.9082,
+        "Name": "Columbus GA-Marathon (Miller)"
+    },
+    {
+        "Lat": 32.4478,
+        "Lon": -84.98418,
+        "Name": "Columbus GA-Omega Part(Lumpkin"
+    },
+    {
+        "Lat": 32.522674,
+        "Lon": -84.903302,
+        "Name": "Columbus GA-Omega Part(Miller)"
+    },
+    {
+        "Lat": 32.52404,
+        "Lon": -84.90414,
+        "Name": "Columbus GA-Saratoga RP East"
+    },
+    {
+        "Lat": 41.43058,
+        "Lon": -97.359009,
+        "Name": "Columbus NE-Nustar"
+    },
+    {
+        "Lat": 39.965797,
+        "Lon": -83.111281,
+        "Name": "Columbus OH-BenchMark"
+    },
+    {
+        "Lat": 39.96605,
+        "Lon": -83.0984,
+        "Name": "Columbus OH-Buckeye (Fisher)"
+    },
+    {
+        "Lat": 39.96046,
+        "Lon": -83.09544,
+        "Name": "Columbus OH-Buckeye (Wilson)"
+    },
+    {
+        "Lat": 39.96735,
+        "Lon": -83.10285,
+        "Name": "Columbus OH-Mrthn (3855 Fisher"
+    },
+    {
+        "Lat": 39.96875,
+        "Lon": -83.10957,
+        "Name": "Columbus OH-Mrthn (4125 Fisher"
+    },
+    {
+        "Lat": 39.95355,
+        "Lon": -83.09363,
+        "Name": "Columbus OH-Sunoco (3499 W.Bro"
+    },
+    {
+        "Lat": 39.9683,
+        "Lon": -83.10315,
+        "Name": "Columbus OH-Sunoco (3866 Fishe"
+    },
+    {
+        "Lat": 33.992573,
+        "Lon": -118.143925,
+        "Name": "Commerce CA-BNSF"
+    },
+    {
+        "Lat": 39.79859,
+        "Lon": -104.94392,
+        "Name": "Commerce City CO-Nustar"
+    },
+    {
+        "Lat": 39.796648,
+        "Lon": -104.939937,
+        "Name": "Commerce City CO-Phillips 66"
+    },
+    {
+        "Lat": 39.87282,
+        "Lon": -104.88593,
+        "Name": "Commerce City CO-Sinclair"
+    },
+    {
+        "Lat": 39.87282,
+        "Lon": -104.88593,
+        "Name": "Commerce City CO-Sinclair"
+    },
+    {
+        "Lat": 39.79855,
+        "Lon": -104.951241,
+        "Name": "Commerce City CO-Suncor 5575"
+    },
+    {
+        "Lat": 39.800669,
+        "Lon": -104.946255,
+        "Name": "Commerce City CO-Suncor 5800"
+    },
+    {
+        "Lat": 30.020639,
+        "Lon": -90.829979,
+        "Name": "Convent LA-Equilon"
+    },
+    {
+        "Lat": 41.682703,
+        "Lon": -91.565579,
+        "Name": "Coralville(Iowa City) IA-Mglln"
+    },
+    {
+        "Lat": 41.682703,
+        "Lon": -91.565579,
+        "Name": "Coralville(Iowa City) IA-Mglln"
+    },
+    {
+        "Lat": 40.526986,
+        "Lon": -80.180417,
+        "Name": "Coraopolis PA-Buckeye (Rte 51)"
+    },
+    {
+        "Lat": 40.526986,
+        "Lon": -80.180417,
+        "Name": "Coraopolis PA-Buckeye (Unvrsty"
+    },
+    {
+        "Lat": 40.526986,
+        "Lon": -80.180417,
+        "Name": "Coraopolis PA-Lucknow(TCN 1759"
+    },
+    {
+        "Lat": 40.524963,
+        "Lon": -80.173772,
+        "Name": "Coraopolis PA-Lucknow(TCN 1780"
+    },
+    {
+        "Lat": 27.82912,
+        "Lon": -97.49826,
+        "Name": "Corpus Christi TX-BE (Mrvin B"
+    },
+    {
+        "Lat": 27.8164,
+        "Lon": -97.50565,
+        "Name": "Corpus Christi TX-BE(Sminerals"
+    },
+    {
+        "Lat": 27.806581,
+        "Lon": -97.430644,
+        "Name": "Corpus Christi TX-CITGO"
+    },
+    {
+        "Lat": 27.818859,
+        "Lon": -97.520218,
+        "Name": "Corpus Christi TX-Flint Hills"
+    },
+    {
+        "Lat": 27.811396,
+        "Lon": -97.431737,
+        "Name": "Corpus Christi TX-Magellan"
+    },
+    {
+        "Lat": 27.818872,
+        "Lon": -97.488457,
+        "Name": "Corpus Christi TX-Valero"
+    },
+    {
+        "Lat": 41.29648,
+        "Lon": -73.94507,
+        "Name": "Cortlandt Manor NY-Meenan"
+    },
+    {
+        "Lat": 32.810889,
+        "Lon": -93.420519,
+        "Name": "Cotton Valley LA-Calumet"
+    },
+    {
+        "Lat": 41.213458,
+        "Lon": -95.831507,
+        "Name": "Council Bluffs IA-Buckeye"
+    },
+    {
+        "Lat": 41.217891,
+        "Lon": -95.834371,
+        "Name": "Council Bluffs IA-NuStar"
+    },
+    {
+        "Lat": 39.053013,
+        "Lon": -84.499656,
+        "Name": "Covington KY-Marathon"
+    },
+    {
+        "Lat": 39.07299,
+        "Lon": -84.58691,
+        "Name": "Covington KY-TransMontaigne"
+    },
+    {
+        "Lat": 38.05205,
+        "Lon": -122.24671,
+        "Name": "Crockett CA-Shore"
+    },
+    {
+        "Lat": 41.42702,
+        "Lon": -81.65755,
+        "Name": "Cuyahoga Heights OH-Buckeye"
+    },
+    {
+        "Lat": 34.87608,
+        "Lon": -116.88562,
+        "Name": "Daggett CA-Calnev"
+    },
+    {
+        "Lat": 32.77651,
+        "Lon": -96.88933,
+        "Name": "Dallas TX-Magellan"
+    },
+    {
+        "Lat": 32.77523,
+        "Lon": -96.886642,
+        "Name": "Dallas TX-Motiva"
+    },
+    {
+        "Lat": 26.16771,
+        "Lon": -80.130926,
+        "Name": "Dania Beach FL-Vecenergy (Val)"
+    },
+    {
+        "Lat": 39.78794,
+        "Lon": -84.16054,
+        "Name": "Dayton OH-Buckeye"
+    },
+    {
+        "Lat": 39.78909,
+        "Lon": -84.16426,
+        "Name": "Dayton OH-CITGO"
+    },
+    {
+        "Lat": 39.7856,
+        "Lon": -84.16236,
+        "Name": "Dayton OH-Kinder Morgan"
+    },
+    {
+        "Lat": 39.786926,
+        "Lon": -84.163658,
+        "Name": "Dayton OH-Sunoco"
+    },
+    {
+        "Lat": 42.29459,
+        "Lon": -83.14425,
+        "Name": "Dearborn MI-Waterfront Petrol"
+    },
+    {
+        "Lat": 29.729455,
+        "Lon": -95.090799,
+        "Name": "Deer Park TX-Intercontinental"
+    },
+    {
+        "Lat": 29.70397,
+        "Lon": -95.09324,
+        "Name": "Deer Park TX-Vopak"
+    },
+    {
+        "Lat": 39.581695,
+        "Lon": -75.614902,
+        "Name": "Delaware City DE-De Cty Lgstcs"
+    },
+    {
+        "Lat": 40.402155,
+        "Lon": -79.593445,
+        "Name": "Delmont PA-Lucknow"
+    },
+    {
+        "Lat": 40.428902,
+        "Lon": -79.577176,
+        "Name": "Delmont PA-Sunoco"
+    },
+    {
+        "Lat": 41.60245,
+        "Lon": -93.73387,
+        "Name": "Des Moines IA-Buckeye"
+    },
+    {
+        "Lat": 41.56127,
+        "Lon": -93.52588,
+        "Name": "Des Moines IA-Magellan"
+    },
+    {
+        "Lat": 42.28305,
+        "Lon": -83.14131,
+        "Name": "Detroit MI-Buckeye"
+    },
+    {
+        "Lat": 42.28056,
+        "Lon": -83.15543,
+        "Name": "Detroit MI-Marathon (Fort)"
+    },
+    {
+        "Lat": 42.276205,
+        "Lon": -83.14874,
+        "Name": "Detroit MI-Marathon (Toronto)"
+    },
+    {
+        "Lat": 42.294,
+        "Lon": -83.15448,
+        "Name": "Detroit MI-Sunoco"
+    },
+    {
+        "Lat": 42.304304,
+        "Lon": -83.090947,
+        "Name": "Detroit MI-Waterfront Petrol"
+    },
+    {
+        "Lat": 46.85674,
+        "Lon": -102.89867,
+        "Name": "Dickinson ND-Dakota Prairie"
+    },
+    {
+        "Lat": 40.751026,
+        "Lon": -98.373706,
+        "Name": "Doniphan NE-Magellan"
+    },
+    {
+        "Lat": 33.91091,
+        "Lon": -84.27333,
+        "Name": "Doraville GA-Chevron"
+    },
+    {
+        "Lat": 33.91091,
+        "Lon": -84.27333,
+        "Name": "Doraville GA-Chevron"
+    },
+    {
+        "Lat": 33.90883,
+        "Lon": -84.27489,
+        "Name": "Doraville GA-CITGO"
+    },
+    {
+        "Lat": 33.90883,
+        "Lon": -84.27489,
+        "Name": "Doraville GA-CITGO"
+    },
+    {
+        "Lat": 33.911281,
+        "Lon": -84.2678,
+        "Name": "Doraville GA-KM (Peachtree)"
+    },
+    {
+        "Lat": 33.911281,
+        "Lon": -84.2678,
+        "Name": "Doraville GA-KM (Peachtree)"
+    },
+    {
+        "Lat": 33.91247,
+        "Lon": -84.27337,
+        "Name": "Doraville GA-KM (Winters Chapl"
+    },
+    {
+        "Lat": 33.91247,
+        "Lon": -84.27337,
+        "Name": "Doraville GA-KM (Winters Chapl"
+    },
+    {
+        "Lat": 33.90867,
+        "Lon": -84.27108,
+        "Name": "Doraville GA-Marathon"
+    },
+    {
+        "Lat": 33.90867,
+        "Lon": -84.27108,
+        "Name": "Doraville GA-Marathon"
+    },
+    {
+        "Lat": 33.91429,
+        "Lon": -84.2686,
+        "Name": "Doraville GA-MOT(4127WintrChap"
+    },
+    {
+        "Lat": 33.91429,
+        "Lon": -84.2686,
+        "Name": "Doraville GA-MOT(4127WintrChap"
+    },
+    {
+        "Lat": 33.91526,
+        "Lon": -84.26827,
+        "Name": "Doraville GA-MOT(4143WintrsChp"
+    },
+    {
+        "Lat": 33.91526,
+        "Lon": -84.26827,
+        "Name": "Doraville GA-MOT(4143WintrsChp"
+    },
+    {
+        "Lat": 33.91747,
+        "Lon": -84.2721,
+        "Name": "Doraville GA-TransMontaigne"
+    },
+    {
+        "Lat": 33.91747,
+        "Lon": -84.2721,
+        "Name": "Doraville GA-TransMontaigne"
+    },
+    {
+        "Lat": 43.019664,
+        "Lon": -105.26106,
+        "Name": "Douglas WY-Antelope Refining"
+    },
+    {
+        "Lat": 40.35415,
+        "Lon": -79.88079,
+        "Name": "Dravosburg PA-Watco"
+    },
+    {
+        "Lat": 40.10151,
+        "Lon": -83.19044,
+        "Name": "Dublin OH-CITGO"
+    },
+    {
+        "Lat": 40.10151,
+        "Lon": -83.19044,
+        "Name": "Dublin OH-CITGO"
+    },
+    {
+        "Lat": 42.41239,
+        "Lon": -90.73052,
+        "Name": "Dubuque IA-Magellan"
+    },
+    {
+        "Lat": 29.335101,
+        "Lon": -90.742778,
+        "Name": "Dulac LA-Martin"
+    },
+    {
+        "Lat": 42.468571,
+        "Lon": -93.992188,
+        "Name": "Duncombe IA-Growmark"
+    },
+    {
+        "Lat": 39.84537,
+        "Lon": -104.91559,
+        "Name": "DuPont CO-Magellan"
+    },
+    {
+        "Lat": 41.28747,
+        "Lon": -72.88155,
+        "Name": "E Haven CT-New Havn Term (Frnt"
+    },
+    {
+        "Lat": 40.61925,
+        "Lon": -80.56688,
+        "Name": "E Liverpool OH-TransMontaigne"
+    },
+    {
+        "Lat": 40.61925,
+        "Lon": -80.56688,
+        "Name": "E Liverpool OH-TransMontaigne"
+    },
+    {
+        "Lat": 42.38169,
+        "Lon": -71.02476,
+        "Name": "East Boston MA-Sunoco"
+    },
+    {
+        "Lat": 41.64283,
+        "Lon": -87.46739,
+        "Name": "East Chicago IN-Buckeye"
+    },
+    {
+        "Lat": 41.64283,
+        "Lon": -87.46739,
+        "Name": "East Chicago IN-Buckeye"
+    },
+    {
+        "Lat": 41.627513,
+        "Lon": -87.442138,
+        "Name": "East Chicago IN-CITGO"
+    },
+    {
+        "Lat": 41.627513,
+        "Lon": -87.442138,
+        "Name": "East Chicago IN-CITGO"
+    },
+    {
+        "Lat": 41.77641,
+        "Lon": -72.63982,
+        "Name": "East Hartford CT-Sterling"
+    },
+    {
+        "Lat": 41.786281,
+        "Lon": -71.337361,
+        "Name": "East Providence RI-ExxonMobil"
+    },
+    {
+        "Lat": 41.786281,
+        "Lon": -71.337361,
+        "Name": "East Providence RI-ExxonMobil"
+    },
+    {
+        "Lat": 41.83218,
+        "Lon": -71.37002,
+        "Name": "East Providence RI-Sprague"
+    },
+    {
+        "Lat": 41.83218,
+        "Lon": -71.37002,
+        "Name": "East Providence RI-Sprague"
+    },
+    {
+        "Lat": 44.88678,
+        "Lon": -91.50948,
+        "Name": "Eau Claire WI-Nrthrn State Pwr"
+    },
+    {
+        "Lat": 26.379708,
+        "Lon": -98.145473,
+        "Name": "Edinburg TX-Nustar"
+    },
+    {
+        "Lat": 41.25734,
+        "Lon": -75.9054,
+        "Name": "Edwardsville PA-Sunoco"
+    },
+    {
+        "Lat": 41.25734,
+        "Lon": -75.9054,
+        "Name": "Edwardsville PA-Sunoco"
+    },
+    {
+        "Lat": 39.174905,
+        "Lon": -88.519894,
+        "Name": "Effingham IL-Buckeye"
+    },
+    {
+        "Lat": 33.201383,
+        "Lon": -92.673635,
+        "Name": "El Dorado AR-Delek"
+    },
+    {
+        "Lat": 37.80537,
+        "Lon": -96.88042,
+        "Name": "El Dorado KS-Holly Energy"
+    },
+    {
+        "Lat": 33.566877,
+        "Lon": -112.320683,
+        "Name": "El Mirage  AZ-Pro Petroleum"
+    },
+    {
+        "Lat": 31.77029,
+        "Lon": -106.38748,
+        "Name": "El Paso TX-Holly Energy"
+    },
+    {
+        "Lat": 31.82049,
+        "Lon": -106.21082,
+        "Name": "El Paso TX-Magellan"
+    },
+    {
+        "Lat": 31.772971,
+        "Lon": -106.399843,
+        "Name": "El Paso TX-Marathon"
+    },
+    {
+        "Lat": 31.818978,
+        "Lon": -106.260149,
+        "Name": "El Paso TX-Nustar"
+    },
+    {
+        "Lat": 33.91585,
+        "Lon": -118.41901,
+        "Name": "El Segundo CA-Chevron"
+    },
+    {
+        "Lat": 33.91585,
+        "Lon": -118.41901,
+        "Name": "El Segundo CA-Chevron"
+    },
+    {
+        "Lat": 21.89962,
+        "Lon": -159.585859,
+        "Name": "Eleele HI-IES Downstream"
+    },
+    {
+        "Lat": 42.001945,
+        "Lon": -87.94012,
+        "Name": "Elk Grove Village IL-Kinder M"
+    },
+    {
+        "Lat": 41.66488,
+        "Lon": -86.0177,
+        "Name": "Elkhart IN-Norfolk Southern"
+    },
+    {
+        "Lat": 36.40968,
+        "Lon": -97.836664,
+        "Name": "Enid OK-Magellan"
+    },
+    {
+        "Lat": 44.090969,
+        "Lon": -123.157478,
+        "Name": "Eugene OR-SFPP - KM"
+    },
+    {
+        "Lat": 32.81669,
+        "Lon": -97.0997,
+        "Name": "Euless TX-Flint Hills"
+    },
+    {
+        "Lat": 32.81669,
+        "Lon": -97.0997,
+        "Name": "Euless TX-Flint Hills"
+    },
+    {
+        "Lat": 32.81252,
+        "Lon": -97.09192,
+        "Name": "Euless TX-Sunoco LLC"
+    },
+    {
+        "Lat": 32.81252,
+        "Lon": -97.09192,
+        "Name": "Euless TX-Sunoco LLC"
+    },
+    {
+        "Lat": 40.776755,
+        "Lon": -124.194124,
+        "Name": "Eureka CA-Chevron"
+    },
+    {
+        "Lat": 41.26029,
+        "Lon": -110.80679,
+        "Name": "Evanston WY-Silver Eagle"
+    },
+    {
+        "Lat": 37.970509,
+        "Lon": -87.603035,
+        "Name": "Evansville IN-Marathon"
+    },
+    {
+        "Lat": 37.96721,
+        "Lon": -87.60607,
+        "Name": "Evansville IN-TransMontaigne"
+    },
+    {
+        "Lat": 42.85491,
+        "Lon": -106.24958,
+        "Name": "Evansville WY-Phillips 66"
+    },
+    {
+        "Lat": 42.396755,
+        "Lon": -71.060994,
+        "Name": "Everett MA-ExxonMobil"
+    },
+    {
+        "Lat": 40.02998,
+        "Lon": -75.6147,
+        "Name": "Exton PA-Sunoco"
+    },
+    {
+        "Lat": 40.02998,
+        "Lon": -75.6147,
+        "Name": "Exton PA-Sunoco"
+    },
+    {
+        "Lat": 44.00109,
+        "Lon": -92.25177,
+        "Name": "Eyota MN-Magellan"
+    },
+    {
+        "Lat": 38.84657,
+        "Lon": -77.27795,
+        "Name": "Fairfax VA-Buckeye"
+    },
+    {
+        "Lat": 38.84892,
+        "Lon": -77.27794,
+        "Name": "Fairfax VA-CITGO"
+    },
+    {
+        "Lat": 38.850056,
+        "Lon": -77.271072,
+        "Name": "Fairfax VA-Motiva"
+    },
+    {
+        "Lat": 38.84949,
+        "Lon": -77.27465,
+        "Name": "Fairfax VA-TransMontaigne"
+    },
+    {
+        "Lat": 35.114992,
+        "Lon": -78.917788,
+        "Name": "Fayetteville NC-Motiva"
+    },
+    {
+        "Lat": 48.834047,
+        "Lon": -122.699792,
+        "Name": "Ferndale WA-Petrogas"
+    },
+    {
+        "Lat": 48.82863,
+        "Lon": -122.68813,
+        "Name": "Ferndale WA-Phillips 66"
+    },
+    {
+        "Lat": 43.080593,
+        "Lon": -86.23156,
+        "Name": "Ferrysburg MI-Buckeye"
+    },
+    {
+        "Lat": 43.081963,
+        "Lon": -86.222296,
+        "Name": "Ferrysburg MI-CITGO"
+    },
+    {
+        "Lat": 43.08599,
+        "Lon": -83.67285,
+        "Name": "Flint MI-Buckeye"
+    },
+    {
+        "Lat": 34.983789,
+        "Lon": -85.332994,
+        "Name": "Flintstone GA-TransMontaigne"
+    },
+    {
+        "Lat": 40.767899,
+        "Lon": -73.840371,
+        "Name": "Flushing NY-Lefferts"
+    },
+    {
+        "Lat": 41.804191,
+        "Lon": -87.798622,
+        "Name": "Forest View IL-Kinder Morgan"
+    },
+    {
+        "Lat": 41.805864,
+        "Lon": -87.797491,
+        "Name": "Forest View IL-Petroleum Fuel"
+    },
+    {
+        "Lat": 41.804905,
+        "Lon": -87.80184,
+        "Name": "Forest Vw IL-WShore Pipe"
+    },
+    {
+        "Lat": 39.935146,
+        "Lon": -88.951476,
+        "Name": "Forsyth IL-Buckeye"
+    },
+    {
+        "Lat": 35.309639,
+        "Lon": -94.394081,
+        "Name": "Fort Smith AR-Magellan"
+    },
+    {
+        "Lat": 32.80187,
+        "Lon": -97.30809,
+        "Name": "Fort Worth TX-Motiva"
+    },
+    {
+        "Lat": 32.80187,
+        "Lon": -97.30809,
+        "Name": "Fort Worth TX-Motiva"
+    },
+    {
+        "Lat": 32.789391,
+        "Lon": -97.327141,
+        "Name": "Fort Worth TX-U.S. Oil-South"
+    },
+    {
+        "Lat": 32.789391,
+        "Lon": -97.327141,
+        "Name": "Fort Worth TX-U.S. Oil-South"
+    },
+    {
+        "Lat": 32.81955,
+        "Lon": -97.34847,
+        "Name": "Fort Worth TX-US Oil"
+    },
+    {
+        "Lat": 32.81955,
+        "Lon": -97.34847,
+        "Name": "Fort Worth TX-US Oil"
+    },
+    {
+        "Lat": 38.668264,
+        "Lon": -104.702549,
+        "Name": "Fountain CO-Magellan"
+    },
+    {
+        "Lat": 41.93982,
+        "Lon": -87.89439,
+        "Name": "Franklin Park IL-Magellan"
+    },
+    {
+        "Lat": 39.98188,
+        "Lon": -75.36543,
+        "Name": "Frazer PA-Buckeye"
+    },
+    {
+        "Lat": 38.284781,
+        "Lon": -77.45173,
+        "Name": "Fredericksburg VA-Lincoln"
+    },
+    {
+        "Lat": 38.284781,
+        "Lon": -77.45173,
+        "Name": "Fredericksburg VA-Lincoln"
+    },
+    {
+        "Lat": 30.492424,
+        "Lon": -86.137689,
+        "Name": "Freeport FL-Murphy"
+    },
+    {
+        "Lat": 30.492424,
+        "Lon": -86.137689,
+        "Name": "Freeport FL-Murphy"
+    },
+    {
+        "Lat": 36.675205,
+        "Lon": -119.747955,
+        "Name": "Fresno CA-SFPP - KM"
+    },
+    {
+        "Lat": 39.16957,
+        "Lon": -108.76098,
+        "Name": "Fruita CO-GldnGate/SET (Hwy 6)"
+    },
+    {
+        "Lat": 39.15046,
+        "Lon": -108.663939,
+        "Name": "Fruita CO-GldnGate/SET(21 Road"
+    },
+    {
+        "Lat": 26.09767,
+        "Lon": -80.12764,
+        "Name": "Ft Lauderdale FL-Buckeye"
+    },
+    {
+        "Lat": 26.09179,
+        "Lon": -80.12827,
+        "Name": "Ft Lauderdale FL-Chevron"
+    },
+    {
+        "Lat": 26.08956,
+        "Lon": -80.1347,
+        "Name": "Ft Lauderdale FL-CITGO"
+    },
+    {
+        "Lat": 26.09184,
+        "Lon": -80.13095,
+        "Name": "Ft Lauderdale FL-ExxonMobil"
+    },
+    {
+        "Lat": 26.09167,
+        "Lon": -80.12994,
+        "Name": "Ft Lauderdale FL-MOT(Spangler)"
+    },
+    {
+        "Lat": 26.0886,
+        "Lon": -80.13076,
+        "Name": "Ft Lauderdale FL-Motiva"
+    },
+    {
+        "Lat": 26.09056,
+        "Lon": -80.12761,
+        "Name": "Ft Lauderdale FL-Motiva (26th)"
+    },
+    {
+        "Lat": 26.09771,
+        "Lon": -80.12634,
+        "Name": "Ft Lauderdale FL-Mrthon (20th)"
+    },
+    {
+        "Lat": 26.093133,
+        "Lon": -80.134166,
+        "Name": "Ft Lauderdale FL-Mrthon (24th)"
+    },
+    {
+        "Lat": 26.08603,
+        "Lon": -80.12615,
+        "Name": "Ft Lauderdale FL-PtEv EnrgyCnt"
+    },
+    {
+        "Lat": 26.08994,
+        "Lon": -80.12863,
+        "Name": "Ft Lauderdale FL-TPSI 14th Ave"
+    },
+    {
+        "Lat": 26.09404,
+        "Lon": -80.12475,
+        "Name": "Ft Lauderdale FL-TPSI Eisenhow"
+    },
+    {
+        "Lat": 29.744803,
+        "Lon": -95.209089,
+        "Name": "Galena Park TX-Chevron"
+    },
+    {
+        "Lat": 29.73136,
+        "Lon": -95.23563,
+        "Name": "Galena Park TX-KM(1500 Clinton"
+    },
+    {
+        "Lat": 29.728987,
+        "Lon": -95.227111,
+        "Name": "Galena Park TX-KM(906 Clinton)"
+    },
+    {
+        "Lat": 29.74098,
+        "Lon": -95.212365,
+        "Name": "Galena Park TX-Magellan"
+    },
+    {
+        "Lat": 29.32537,
+        "Lon": -94.78737,
+        "Name": "Galveston TX-Martin"
+    },
+    {
+        "Lat": 30.07649,
+        "Lon": -90.58812,
+        "Name": "Garyville LA-Marathon (Hwy 61)"
+    },
+    {
+        "Lat": 30.070622,
+        "Lon": -90.593908,
+        "Name": "Garyville LA-Mrthn (Sugarcane)"
+    },
+    {
+        "Lat": 30.21656,
+        "Lon": -91.00469,
+        "Name": "Geismar LA-REG"
+    },
+    {
+        "Lat": 30.21656,
+        "Lon": -91.00469,
+        "Name": "Geismar LA-REG"
+    },
+    {
+        "Lat": 40.5853,
+        "Lon": -97.595865,
+        "Name": "Geneva NE-Nustar"
+    },
+    {
+        "Lat": 44.032055,
+        "Lon": -105.465083,
+        "Name": "Gillette WY-Equitable Oil"
+    },
+    {
+        "Lat": 47.172962,
+        "Lon": -104.815231,
+        "Name": "Glendive MT-CHS"
+    },
+    {
+        "Lat": 42.58298,
+        "Lon": -73.7663,
+        "Name": "Glenmont NY-Center Point"
+    },
+    {
+        "Lat": 42.58298,
+        "Lon": -73.7663,
+        "Name": "Glenmont NY-Center Point"
+    },
+    {
+        "Lat": 42.5863,
+        "Lon": -73.76704,
+        "Name": "Glenmont NY-CITGO"
+    },
+    {
+        "Lat": 42.5863,
+        "Lon": -73.76704,
+        "Name": "Glenmont NY-CITGO"
+    },
+    {
+        "Lat": 40.828955,
+        "Lon": -73.647575,
+        "Name": "Glenwood Landing NY-Global"
+    },
+    {
+        "Lat": 29.132824,
+        "Lon": -90.199778,
+        "Name": "Golden Meadow LA-Martin"
+    },
+    {
+        "Lat": 41.30543,
+        "Lon": -82.02065,
+        "Name": "Grafton OH-Buckeye"
+    },
+    {
+        "Lat": 47.933443,
+        "Lon": -97.086226,
+        "Name": "Grand Forks ND-Magellan"
+    },
+    {
+        "Lat": 41.75048,
+        "Lon": -86.11538,
+        "Name": "Granger IN-Buckeye"
+    },
+    {
+        "Lat": 41.75048,
+        "Lon": -86.11538,
+        "Name": "Granger IN-Buckeye"
+    },
+    {
+        "Lat": 41.75048,
+        "Lon": -86.11538,
+        "Name": "Granger IN-Buckeye"
+    },
+    {
+        "Lat": 32.921141,
+        "Lon": -97.11756,
+        "Name": "Grapevine TX-Magellan"
+    },
+    {
+        "Lat": 32.921141,
+        "Lon": -97.11756,
+        "Name": "Grapevine TX-Magellan"
+    },
+    {
+        "Lat": 32.92941,
+        "Lon": -97.1009,
+        "Name": "Grapevine TX-Nustar"
+    },
+    {
+        "Lat": 38.368619,
+        "Lon": -98.691984,
+        "Name": "Great Bend KS-Magellan"
+    },
+    {
+        "Lat": 47.522603,
+        "Lon": -111.290465,
+        "Name": "Great Falls MT-Calumet"
+    },
+    {
+        "Lat": 47.52226,
+        "Lon": -111.22117,
+        "Name": "Great Falls MT-Phillips 66"
+    },
+    {
+        "Lat": 44.53752,
+        "Lon": -88.01824,
+        "Name": "Green Bay WI-CITGO"
+    },
+    {
+        "Lat": 44.54199,
+        "Lon": -88.02182,
+        "Name": "Green Bay WI-Marathon"
+    },
+    {
+        "Lat": 44.53002,
+        "Lon": -88.01134,
+        "Name": "Green Bay WI-US Oil (Broadway)"
+    },
+    {
+        "Lat": 44.54086,
+        "Lon": -88.02342,
+        "Name": "Green Bay WI-US Oil (Hurlbut)"
+    },
+    {
+        "Lat": 44.53346,
+        "Lon": -88.01322,
+        "Name": "Green Bay WI-US Oil (Prairie)"
+    },
+    {
+        "Lat": 44.53213,
+        "Lon": -87.99433,
+        "Name": "Green Bay WI-US Oil (Quincy)"
+    },
+    {
+        "Lat": 44.533318,
+        "Lon": -87.999847,
+        "Name": "Green Bay WI-West Shore Pipeli"
+    },
+    {
+        "Lat": 36.07971,
+        "Lon": -79.92495,
+        "Name": "Greensboro NC-Center Point"
+    },
+    {
+        "Lat": 36.07482,
+        "Lon": -79.93438,
+        "Name": "Greensboro NC-KM (Burnt Poplr)"
+    },
+    {
+        "Lat": 36.0782,
+        "Lon": -79.92647,
+        "Name": "Greensboro NC-KM (Market)"
+    },
+    {
+        "Lat": 36.075737,
+        "Lon": -79.918563,
+        "Name": "Greensboro NC-Motiva"
+    },
+    {
+        "Lat": 36.07667,
+        "Lon": -79.92189,
+        "Name": "Greensboro NC-TransMontaigne"
+    },
+    {
+        "Lat": 40.302898,
+        "Lon": -79.54409,
+        "Name": "Greensburg PA-Buckeye"
+    },
+    {
+        "Lat": 33.425121,
+        "Lon": -91.049667,
+        "Name": "Greenville MS-Scott Petroleum"
+    },
+    {
+        "Lat": 33.40498,
+        "Lon": -91.06912,
+        "Name": "Greenville MS-TPSI (Short Clay"
+    },
+    {
+        "Lat": 33.402992,
+        "Lon": -91.069202,
+        "Name": "Greenville MS-TPSI (Walthall)"
+    },
+    {
+        "Lat": 29.92227,
+        "Lon": -90.05962,
+        "Name": "Gretna LA-John W Stone"
+    },
+    {
+        "Lat": 33.28102,
+        "Lon": -84.26325,
+        "Name": "Griffin GA-TransMontaigne"
+    },
+    {
+        "Lat": 41.51209,
+        "Lon": -87.44696,
+        "Name": "Griffith  IN-Petrogas"
+    },
+    {
+        "Lat": 41.33686,
+        "Lon": -72.07769,
+        "Name": "Groton CT-Buckeye"
+    },
+    {
+        "Lat": 29.894501,
+        "Lon": -93.932354,
+        "Name": "GT Gulfway"
+    },
+    {
+        "Lat": 30.037463,
+        "Lon": -92.637812,
+        "Name": "Gueydan LA-Martin"
+    },
+    {
+        "Lat": 41.587345,
+        "Lon": -73.949765,
+        "Name": "Hamburg NY-Nw Hamburg Term"
+    },
+    {
+        "Lat": 41.607456,
+        "Lon": -87.46682,
+        "Name": "Hammond IN-Buckeye"
+    },
+    {
+        "Lat": 41.634106,
+        "Lon": -87.515778,
+        "Name": "Hammond IN-ExxonMobil"
+    },
+    {
+        "Lat": 41.63753,
+        "Lon": -87.50163,
+        "Name": "Hammond IN-Marathon"
+    },
+    {
+        "Lat": 41.637306,
+        "Lon": -87.504172,
+        "Name": "Hammond IN-Valero"
+    },
+    {
+        "Lat": 41.605419,
+        "Lon": -87.490417,
+        "Name": "Hammond IN-West Shore Pipeline"
+    },
+    {
+        "Lat": 44.77857,
+        "Lon": -68.7837,
+        "Name": "Hampden ME-Coldbrook"
+    },
+    {
+        "Lat": 26.190835,
+        "Lon": -97.647215,
+        "Name": "Harlingen TX-Nustar"
+    },
+    {
+        "Lat": 40.255275,
+        "Lon": -76.801277,
+        "Name": "Harrisburg PA-Lucknow"
+    },
+    {
+        "Lat": 39.840777,
+        "Lon": -89.103907,
+        "Name": "Harristown IL-Buckeye"
+    },
+    {
+        "Lat": 38.83343,
+        "Lon": -90.0894,
+        "Name": "Hartford IL-Buckeye"
+    },
+    {
+        "Lat": 38.84123,
+        "Lon": -90.0967,
+        "Name": "Hartford IL-HWRT"
+    },
+    {
+        "Lat": 38.818371,
+        "Lon": -90.087021,
+        "Name": "Hartford IL-Kinder Morgan"
+    },
+    {
+        "Lat": 38.820862,
+        "Lon": -90.095141,
+        "Name": "Hartford IL-Omega Partners"
+    },
+    {
+        "Lat": 38.81321,
+        "Lon": -90.09522,
+        "Name": "Hartford IL-Phillips 66"
+    },
+    {
+        "Lat": 29.91435,
+        "Lon": -90.07113,
+        "Name": "Harvey LA-IMTT"
+    },
+    {
+        "Lat": 29.90503,
+        "Lon": -90.0831,
+        "Name": "Harvey LA-Retif Oil & Fuel"
+    },
+    {
+        "Lat": 40.16125,
+        "Lon": -75.11625,
+        "Name": "Hatboro PA-Sunoco"
+    },
+    {
+        "Lat": 36.233164,
+        "Lon": -89.741285,
+        "Name": "Hayti MO-Oakmar"
+    },
+    {
+        "Lat": 30.90234,
+        "Lon": -96.606065,
+        "Name": "Hearne TX-Motiva"
+    },
+    {
+        "Lat": 30.858561,
+        "Lon": -96.578006,
+        "Name": "Hearne TX-Sunoco"
+    },
+    {
+        "Lat": 40.029617,
+        "Lon": -82.468361,
+        "Name": "Heath OH-Marathon"
+    },
+    {
+        "Lat": 46.60476,
+        "Lon": -112.08629,
+        "Name": "Helena MT-ExxonMobil"
+    },
+    {
+        "Lat": 46.59328,
+        "Lon": -111.98053,
+        "Name": "Helena MT-Phillips 66"
+    },
+    {
+        "Lat": 37.81579,
+        "Lon": -87.6692,
+        "Name": "Henderson KY-Omega Partners"
+    },
+    {
+        "Lat": 37.87604,
+        "Lon": -87.57349,
+        "Name": "Henderson KY-TransMontaigne"
+    },
+    {
+        "Lat": 40.29973,
+        "Lon": -88.94804,
+        "Name": "Heyworth IL-Magellan"
+    },
+    {
+        "Lat": 19.72769,
+        "Lon": -155.05524,
+        "Name": "Hilo HI-Aloha(661Kalanianaole)"
+    },
+    {
+        "Lat": 19.73034,
+        "Lon": -155.04994,
+        "Name": "Hilo HI-Aloha(999Kalanianaole)"
+    },
+    {
+        "Lat": 19.72601,
+        "Lon": -155.0548,
+        "Name": "Hilo HI-IES Downstream"
+    },
+    {
+        "Lat": 19.72747,
+        "Lon": -155.05571,
+        "Name": "Hilo HI-Tesoro(607Kalanianaole"
+    },
+    {
+        "Lat": 19.72789,
+        "Lon": -155.05483,
+        "Name": "Hilo HI-Tesoro(701Kalanianaole"
+    },
+    {
+        "Lat": 42.738693,
+        "Lon": -86.087418,
+        "Name": "Holland MI-Holland"
+    },
+    {
+        "Lat": 40.81307,
+        "Lon": -73.06574,
+        "Name": "Holtsville NY-Northville Ind"
+    },
+    {
+        "Lat": 21.31283,
+        "Lon": -157.87388,
+        "Name": "Honolulu HI-Aloha"
+    },
+    {
+        "Lat": 21.31551,
+        "Lon": -157.87514,
+        "Name": "Honolulu HI-IES Downstream"
+    },
+    {
+        "Lat": 21.332959,
+        "Lon": -157.922761,
+        "Name": "Honolulu HI-Signature Flight"
+    },
+    {
+        "Lat": 21.3157,
+        "Lon": -157.88937,
+        "Name": "Honolulu HI-Tesoro"
+    },
+    {
+        "Lat": 46.968383,
+        "Lon": -123.845916,
+        "Name": "Hoquiam WA-Reg Grays Harbor"
+    },
+    {
+        "Lat": 29.74915,
+        "Lon": -95.12368,
+        "Name": "Houston TX-Enterprise"
+    },
+    {
+        "Lat": 29.97717,
+        "Lon": -95.39121,
+        "Name": "Houston TX-ERPC"
+    },
+    {
+        "Lat": 29.88656,
+        "Lon": -95.41013,
+        "Name": "Houston TX-ExxonMob(8700 North"
+    },
+    {
+        "Lat": 29.66527,
+        "Lon": -95.39253,
+        "Name": "Houston TX-ExxonMobil (Almeda)"
+    },
+    {
+        "Lat": 29.97525,
+        "Lon": -95.36877,
+        "Name": "Houston TX-Gulf Coast Energy"
+    },
+    {
+        "Lat": 29.79136,
+        "Lon": -95.28526,
+        "Name": "Houston TX-Magellan"
+    },
+    {
+        "Lat": 29.79446,
+        "Lon": -95.34977,
+        "Name": "Houston TX-Petroleum Wholesale"
+    },
+    {
+        "Lat": 29.751219,
+        "Lon": -95.122896,
+        "Name": "Houston TX-Petromax"
+    },
+    {
+        "Lat": 29.94727,
+        "Lon": -95.41724,
+        "Name": "Houston TX-US Oil"
+    },
+    {
+        "Lat": 29.72202,
+        "Lon": -95.25418,
+        "Name": "Houston TX-Valero"
+    },
+    {
+        "Lat": 38.210499,
+        "Lon": -81.376038,
+        "Name": "Hugheston WV-Baker Oil"
+    },
+    {
+        "Lat": 33.70263,
+        "Lon": -118.0008,
+        "Name": "Huntington Beach CA-Chevron"
+    },
+    {
+        "Lat": 40.882675,
+        "Lon": -85.493828,
+        "Name": "Huntington IN-Buckeye"
+    },
+    {
+        "Lat": 40.89358,
+        "Lon": -85.44986,
+        "Name": "Huntington IN-CITGO"
+    },
+    {
+        "Lat": 40.8987,
+        "Lon": -85.44819,
+        "Name": "Huntington IN-Gladieux Trading"
+    },
+    {
+        "Lat": 40.89509,
+        "Lon": -85.45065,
+        "Name": "Huntington IN-Lassus Brothers"
+    },
+    {
+        "Lat": 40.89711,
+        "Lon": -85.45429,
+        "Name": "Huntington IN-Marathon"
+    },
+    {
+        "Lat": 40.8983,
+        "Lon": -85.45051,
+        "Name": "Huntington IN-Sunoco"
+    },
+    {
+        "Lat": 38.043373,
+        "Lon": -97.87495,
+        "Name": "Hutchinson KS-Nustar"
+    },
+    {
+        "Lat": 32.825555,
+        "Lon": -115.564859,
+        "Name": "Imperial CA-SFPP - KM"
+    },
+    {
+        "Lat": 39.8128,
+        "Lon": -86.333,
+        "Name": "Indianapolis IN-Buckey Rcwy Rd"
+    },
+    {
+        "Lat": 39.808974,
+        "Lon": -86.333574,
+        "Name": "Indianapolis IN-Buckeye (300N)"
+    },
+    {
+        "Lat": 39.808974,
+        "Lon": -86.333574,
+        "Name": "Indianapolis IN-Buckeye (300N)"
+    },
+    {
+        "Lat": 39.92491,
+        "Lon": -86.25354,
+        "Name": "Indianapolis IN-Buckeye (96th)"
+    },
+    {
+        "Lat": 39.92491,
+        "Lon": -86.25354,
+        "Name": "Indianapolis IN-Buckeye (96th)"
+    },
+    {
+        "Lat": 39.803719,
+        "Lon": -86.222404,
+        "Name": "Indianapolis IN-Kinder Morgan"
+    },
+    {
+        "Lat": 39.78398,
+        "Lon": -86.22569,
+        "Name": "Indianapolis IN-Marathon (Olin"
+    },
+    {
+        "Lat": 39.78398,
+        "Lon": -86.22569,
+        "Name": "Indianapolis IN-Marathon (Olin"
+    },
+    {
+        "Lat": 39.918239,
+        "Lon": -86.245716,
+        "Name": "Indianapolis IN-Mrthn (Robison"
+    },
+    {
+        "Lat": 39.81473,
+        "Lon": -86.33273,
+        "Name": "Indianapolis IN-US Oil"
+    },
+    {
+        "Lat": 40.565749,
+        "Lon": -79.85943,
+        "Name": "Indianola PA-Buckeye"
+    },
+    {
+        "Lat": 40.626875,
+        "Lon": -73.746429,
+        "Name": "Inwood NY-Global"
+    },
+    {
+        "Lat": 32.83987,
+        "Lon": -96.93535,
+        "Name": "Irving TX-ExxonMobil"
+    },
+    {
+        "Lat": 32.83987,
+        "Lon": -96.93535,
+        "Name": "Irving TX-ExxonMobil"
+    },
+    {
+        "Lat": 42.307987,
+        "Lon": -84.420898,
+        "Name": "Jackson MI-CITGO"
+    },
+    {
+        "Lat": 42.31103,
+        "Lon": -84.42335,
+        "Name": "Jackson MI-Marathon"
+    },
+    {
+        "Lat": 30.41222,
+        "Lon": -81.562575,
+        "Name": "Jacksonville FL-Buckeye"
+    },
+    {
+        "Lat": 30.357731,
+        "Lon": -81.622879,
+        "Name": "Jacksonville FL-Center Point"
+    },
+    {
+        "Lat": 30.415794,
+        "Lon": -81.609413,
+        "Name": "Jacksonville FL-Marathon"
+    },
+    {
+        "Lat": 30.37955,
+        "Lon": -81.63409,
+        "Name": "Jacksonville FL-Sunoco"
+    },
+    {
+        "Lat": 30.37955,
+        "Lon": -81.63409,
+        "Name": "Jacksonville FL-Sunoco"
+    },
+    {
+        "Lat": 30.36045,
+        "Lon": -81.62407,
+        "Name": "Jacksonville FL-TransMontaigne"
+    },
+    {
+        "Lat": 46.86426,
+        "Lon": -98.71266,
+        "Name": "Jamestown ND-Nustar (Hwy 281)"
+    },
+    {
+        "Lat": 46.907799,
+        "Lon": -98.706947,
+        "Name": "Jamestown ND-Nustar (I94 Stand"
+    },
+    {
+        "Lat": 35.479685,
+        "Lon": -108.43389,
+        "Name": "Jamestown NM-Western"
+    },
+    {
+        "Lat": 35.479685,
+        "Lon": -108.43389,
+        "Name": "Jamestown NM-Western"
+    },
+    {
+        "Lat": 37.31345,
+        "Lon": -94.30337,
+        "Name": "Jasper MO-Magellan"
+    },
+    {
+        "Lat": 38.549385,
+        "Lon": -92.214138,
+        "Name": "Jefferson City MO-Phillips 66"
+    },
+    {
+        "Lat": 36.01099,
+        "Lon": -95.996774,
+        "Name": "Jenks OK-Phillips 66"
+    },
+    {
+        "Lat": 31.582564,
+        "Lon": -91.945954,
+        "Name": "Jonesville LA-Archie"
+    },
+    {
+        "Lat": 44.59703,
+        "Lon": -89.77604,
+        "Name": "Junction City WI-Flint Hills"
+    },
+    {
+        "Lat": 20.8932,
+        "Lon": -156.46153,
+        "Name": "Kahului HI-Aloha"
+    },
+    {
+        "Lat": 20.8941,
+        "Lon": -156.46147,
+        "Name": "Kahului HI-IES Downstream"
+    },
+    {
+        "Lat": 20.895542,
+        "Lon": -156.463443,
+        "Name": "Kahului HI-Tesoro"
+    },
+    {
+        "Lat": 20.03766,
+        "Lon": -155.82894,
+        "Name": "Kamuela HI-Midpac"
+    },
+    {
+        "Lat": 41.11982,
+        "Lon": -87.861794,
+        "Name": "Kankakee IL-Buckeye"
+    },
+    {
+        "Lat": 39.07898,
+        "Lon": -94.653894,
+        "Name": "Kansas City KS-BNSF"
+    },
+    {
+        "Lat": 39.13827,
+        "Lon": -94.60253,
+        "Name": "Kansas City KS-Magellan"
+    },
+    {
+        "Lat": 39.12751,
+        "Lon": -94.60968,
+        "Name": "Kansas City KS-Phillips 66"
+    },
+    {
+        "Lat": 39.08719,
+        "Lon": -94.667243,
+        "Name": "Kansas City KS-Sinclair"
+    },
+    {
+        "Lat": 29.541538,
+        "Lon": -92.309634,
+        "Name": "Kaplan LA-Martin"
+    },
+    {
+        "Lat": 21.303131,
+        "Lon": -158.102064,
+        "Name": "Kapolei HI-Aloha"
+    },
+    {
+        "Lat": 21.312688,
+        "Lon": -158.115972,
+        "Name": "Kapolei HI-IES Downstream"
+    },
+    {
+        "Lat": 21.090599,
+        "Lon": -157.021545,
+        "Name": "Kaunakakai HI-Island Petroleum"
+    },
+    {
+        "Lat": 29.986255,
+        "Lon": -90.266685,
+        "Name": "Kenner LA-Equilon"
+    },
+    {
+        "Lat": 29.986255,
+        "Lon": -90.266685,
+        "Name": "Kenner LA-Equilon"
+    },
+    {
+        "Lat": 34.177678,
+        "Lon": -77.951374,
+        "Name": "Kinder Morgan Terminals Wilmington LLC"
+    },
+    {
+        "Lat": 41.92782,
+        "Lon": -73.9627,
+        "Name": "Kingston NY-Heritagenergy"
+    },
+    {
+        "Lat": 35.96138,
+        "Lon": -84.001137,
+        "Name": "Knoxville TN-CITGO"
+    },
+    {
+        "Lat": 35.96243,
+        "Lon": -83.99715,
+        "Name": "Knoxville TN-Equilon"
+    },
+    {
+        "Lat": 35.96272,
+        "Lon": -83.99894,
+        "Name": "Knoxville TN-Kinder Morgan"
+    },
+    {
+        "Lat": 35.96308,
+        "Lon": -84.00299,
+        "Name": "Knoxville TN-Marathon"
+    },
+    {
+        "Lat": 35.95901,
+        "Lon": -83.99788,
+        "Name": "Knoxville TN-PBF (CTI) WEST"
+    },
+    {
+        "Lat": 35.969753,
+        "Lon": -83.936401,
+        "Name": "Knoxville TN-PBF EAST"
+    },
+    {
+        "Lat": 37.99142,
+        "Lon": -103.496903,
+        "Name": "La Junta CO-Phillips 66"
+    },
+    {
+        "Lat": 30.183865,
+        "Lon": -93.32535,
+        "Name": "Lake Charles LA-CITGO"
+    },
+    {
+        "Lat": 30.165649,
+        "Lon": -93.233368,
+        "Name": "Lake Charles LA-Martin"
+    },
+    {
+        "Lat": 40.0671,
+        "Lon": -76.33031,
+        "Name": "Lancaster PA-Lucknow"
+    },
+    {
+        "Lat": 42.782673,
+        "Lon": -84.649483,
+        "Name": "Lansing MI-Marathon"
+    },
+    {
+        "Lat": 27.680496,
+        "Lon": -99.463425,
+        "Name": "Laredo TX-Nustar"
+    },
+    {
+        "Lat": 36.25232,
+        "Lon": -115.0435,
+        "Name": "Las Vegas NV-Kinder Morgan"
+    },
+    {
+        "Lat": 36.249989,
+        "Lon": -115.046417,
+        "Name": "Las Vegas NV-Pro Petroleum"
+    },
+    {
+        "Lat": 36.25247,
+        "Lon": -115.04235,
+        "Name": "Las Vegas NV-Rebel Oil"
+    },
+    {
+        "Lat": 45.65927,
+        "Lon": -108.76334,
+        "Name": "Laurel MT-CHS"
+    },
+    {
+        "Lat": 45.65927,
+        "Lon": -108.76334,
+        "Name": "Laurel MT-CHS"
+    },
+    {
+        "Lat": 40.6336,
+        "Lon": -73.742327,
+        "Name": "Lawrence NY-Equilon"
+    },
+    {
+        "Lat": 40.628279,
+        "Lon": -73.737165,
+        "Name": "Lawrence NY-Sprague"
+    },
+    {
+        "Lat": 42.79964,
+        "Lon": -96.174037,
+        "Name": "Le Mars IA-Nustar"
+    },
+    {
+        "Lat": 42.79964,
+        "Lon": -96.174037,
+        "Name": "Le Mars IA-Nustar"
+    },
+    {
+        "Lat": 40.02592,
+        "Lon": -86.47891,
+        "Name": "Lebanon IN-NGL"
+    },
+    {
+        "Lat": 39.480331,
+        "Lon": -84.223679,
+        "Name": "Lebanon OH-ERPC"
+    },
+    {
+        "Lat": 39.48303,
+        "Lon": -84.21559,
+        "Name": "Lebanon OH-Marathon"
+    },
+    {
+        "Lat": 41.64097,
+        "Lon": -88.048815,
+        "Name": "Lemont IL-CITGO"
+    },
+    {
+        "Lat": 38.06017,
+        "Lon": -84.53998,
+        "Name": "Lexington KY-Marathon"
+    },
+    {
+        "Lat": 38.059521,
+        "Lon": -84.539192,
+        "Name": "Lexington KY-Valero"
+    },
+    {
+        "Lat": 21.95498,
+        "Lon": -159.35709,
+        "Name": "Lihue HI-Aloha"
+    },
+    {
+        "Lat": 21.95569,
+        "Lon": -159.35595,
+        "Name": "Lihue HI-Kauai Petroleum"
+    },
+    {
+        "Lat": 40.71033,
+        "Lon": -84.13106,
+        "Name": "Lima OH-Buckeye (Buckeye Rd)"
+    },
+    {
+        "Lat": 40.72531,
+        "Lon": -84.11689,
+        "Name": "Lima OH-Buckeye (Vine)"
+    },
+    {
+        "Lat": 40.718868,
+        "Lon": -84.123573,
+        "Name": "Lima OH-Lima Refining"
+    },
+    {
+        "Lat": 40.69675,
+        "Lon": -84.12407,
+        "Name": "Lima OH-Marathon"
+    },
+    {
+        "Lat": 40.815247,
+        "Lon": -96.711487,
+        "Name": "Lincoln NE-BNSF"
+    },
+    {
+        "Lat": 40.612548,
+        "Lon": -74.224567,
+        "Name": "Linden NJ-CITGO"
+    },
+    {
+        "Lat": 40.605093,
+        "Lon": -74.236046,
+        "Name": "Linden NJ-Gulf Oil LP"
+    },
+    {
+        "Lat": 40.613005,
+        "Lon": -74.22543,
+        "Name": "Linden NJ-Phillips 66"
+    },
+    {
+        "Lat": 40.599622,
+        "Lon": -74.207595,
+        "Name": "Linden NJ-Phillips 66 TRMLY PT"
+    },
+    {
+        "Lat": 40.61327,
+        "Lon": -74.225924,
+        "Name": "Linden NJ-Sunoco"
+    },
+    {
+        "Lat": 39.16718,
+        "Lon": -75.447995,
+        "Name": "Little Creek DE-Delaware S&P"
+    },
+    {
+        "Lat": 34.71363,
+        "Lon": -92.18056,
+        "Name": "Little Rock  AR-Midcon"
+    },
+    {
+        "Lat": 41.650203,
+        "Lon": -88.041778,
+        "Name": "Lockport IL-ExxonMobil"
+    },
+    {
+        "Lat": 33.87369,
+        "Lon": -118.16217,
+        "Name": "Long Beach CA-Alon"
+    },
+    {
+        "Lat": 33.87369,
+        "Lon": -118.16217,
+        "Name": "Long Beach CA-Alon"
+    },
+    {
+        "Lat": 33.807265,
+        "Lon": -118.226729,
+        "Name": "Long Beach CA-Chemoil"
+    },
+    {
+        "Lat": 33.807265,
+        "Lon": -118.226729,
+        "Name": "Long Beach CA-Chemoil"
+    },
+    {
+        "Lat": 33.862912,
+        "Lon": -118.160546,
+        "Name": "Long Beach CA-Marathon"
+    },
+    {
+        "Lat": 33.862912,
+        "Lon": -118.160546,
+        "Name": "Long Beach CA-Marathon"
+    },
+    {
+        "Lat": 33.782452,
+        "Lon": -118.192245,
+        "Name": "Long Beach CA-Petro-Diamond"
+    },
+    {
+        "Lat": 33.782452,
+        "Lon": -118.192245,
+        "Name": "Long Beach CA-Petro-Diamond"
+    },
+    {
+        "Lat": 38.73411,
+        "Lon": -77.19144,
+        "Name": "Lorton VA-Kinder Morgan"
+    },
+    {
+        "Lat": 33.909023,
+        "Lon": -118.278355,
+        "Name": "Los Angeles CA-Phillips 66"
+    },
+    {
+        "Lat": 38.233569,
+        "Lon": -85.830828,
+        "Name": "Louisville KY-Buckeye"
+    },
+    {
+        "Lat": 38.20715,
+        "Lon": -85.85061,
+        "Name": "Louisville KY-CITGO"
+    },
+    {
+        "Lat": 38.2312,
+        "Lon": -85.82895,
+        "Name": "Louisville KY-Mrthn(Algonquin)"
+    },
+    {
+        "Lat": 38.20582,
+        "Lon": -85.84811,
+        "Name": "Louisville KY-Mrthon (Kramers)"
+    },
+    {
+        "Lat": 38.14017,
+        "Lon": -85.8977,
+        "Name": "Louisville KY-Thornton"
+    },
+    {
+        "Lat": 38.22351,
+        "Lon": -85.84565,
+        "Name": "Louisville KY-TransMontaigne"
+    },
+    {
+        "Lat": 38.22712,
+        "Lon": -85.8326,
+        "Name": "Louisville KY-Valero"
+    },
+    {
+        "Lat": 33.61162,
+        "Lon": -101.882275,
+        "Name": "Lubbock TX-Phillips 66"
+    },
+    {
+        "Lat": 33.610974,
+        "Lon": -101.880955,
+        "Name": "Lubbock TX-Pro Petroleum"
+    },
+    {
+        "Lat": 42.187272,
+        "Lon": -72.501382,
+        "Name": "Ludlow MA-Buckeye"
+    },
+    {
+        "Lat": 35.355305,
+        "Lon": -109.0547,
+        "Name": "Lupton AZ-Lupton"
+    },
+    {
+        "Lat": 32.7367,
+        "Lon": -83.657632,
+        "Name": "Macon GA-Epic Midstream"
+    },
+    {
+        "Lat": 32.743076,
+        "Lon": -83.659946,
+        "Name": "Macon GA-Marathon"
+    },
+    {
+        "Lat": 32.88308,
+        "Lon": -83.7275,
+        "Name": "Macon GA-TransMontaigne"
+    },
+    {
+        "Lat": 32.73829,
+        "Lon": -83.66145,
+        "Name": "Macon GA-Vecenergy"
+    },
+    {
+        "Lat": 40.547627,
+        "Lon": -75.552378,
+        "Name": "Macungie PA-Buckeye (Shipper)"
+    },
+    {
+        "Lat": 40.516155,
+        "Lon": -75.536903,
+        "Name": "Macungie PA-Buckeye Buckeye Rd"
+    },
+    {
+        "Lat": 40.516602,
+        "Lon": -75.557785,
+        "Name": "Macungie PA-Global"
+    },
+    {
+        "Lat": 40.042725,
+        "Lon": -75.518395,
+        "Name": "Malvern PA-Sunoco"
+    },
+    {
+        "Lat": 40.042725,
+        "Lon": -75.518395,
+        "Name": "Malvern PA-Sunoco"
+    },
+    {
+        "Lat": 38.79994,
+        "Lon": -77.504094,
+        "Name": "Manassas VA-Sunoco"
+    },
+    {
+        "Lat": 38.79994,
+        "Lon": -77.504094,
+        "Name": "Manassas VA-Sunoco"
+    },
+    {
+        "Lat": 46.834274,
+        "Lon": -100.893776,
+        "Name": "Mandan ND-BNSF"
+    },
+    {
+        "Lat": 46.84329,
+        "Lon": -100.88086,
+        "Name": "Mandan ND-Marathon"
+    },
+    {
+        "Lat": 44.153889,
+        "Lon": -94.067139,
+        "Name": "Mankato MN-Magellan"
+    },
+    {
+        "Lat": 39.811492,
+        "Lon": -75.414367,
+        "Name": "Marcus Hook PA-Sunoco"
+    },
+    {
+        "Lat": 39.815481,
+        "Lon": -75.420717,
+        "Name": "Marcus Hook PA-Sunoco"
+    },
+    {
+        "Lat": 43.13091,
+        "Lon": -75.25426,
+        "Name": "Marcy NY-Buckeye"
+    },
+    {
+        "Lat": 43.12824,
+        "Lon": -75.24764,
+        "Name": "Marcy NY-Sunoco LLC"
+    },
+    {
+        "Lat": 39.387796,
+        "Lon": -81.487841,
+        "Name": "Marietta OH-Marathon"
+    },
+    {
+        "Lat": 42.249839,
+        "Lon": -84.963841,
+        "Name": "Marshall MI-Buckeye"
+    },
+    {
+        "Lat": 44.450515,
+        "Lon": -95.75076,
+        "Name": "Marshall MN-Magellan"
+    },
+    {
+        "Lat": 38.022871,
+        "Lon": -122.067734,
+        "Name": "Martinez CA-Chevron"
+    },
+    {
+        "Lat": 38.022871,
+        "Lon": -122.067734,
+        "Name": "Martinez CA-Chevron"
+    },
+    {
+        "Lat": 38.027284,
+        "Lon": -122.069484,
+        "Name": "Martinez CA-Marathon"
+    },
+    {
+        "Lat": 38.027284,
+        "Lon": -122.069484,
+        "Name": "Martinez CA-Marathon"
+    },
+    {
+        "Lat": 38.023102,
+        "Lon": -122.125086,
+        "Name": "Martinez CA-PBF"
+    },
+    {
+        "Lat": 38.023102,
+        "Lon": -122.125086,
+        "Name": "Martinez CA-PBF"
+    },
+    {
+        "Lat": 42.8937,
+        "Lon": -82.48868,
+        "Name": "Marysville MI-Mrysv Hydrocarbn"
+    },
+    {
+        "Lat": 39.54772,
+        "Lon": -119.49751,
+        "Name": "McCarran NV-Golden Gate/SET"
+    },
+    {
+        "Lat": 43.03767,
+        "Lon": -89.29787,
+        "Name": "McFarland WI-CHS"
+    },
+    {
+        "Lat": 43.03143,
+        "Lon": -89.30476,
+        "Name": "McFarland WI-CITGO"
+    },
+    {
+        "Lat": 43.033385,
+        "Lon": -89.302403,
+        "Name": "McFarland WI-Flint Hills"
+    },
+    {
+        "Lat": 43.03701,
+        "Lon": -89.304904,
+        "Name": "McFarland WI-US Oil (4306 Term"
+    },
+    {
+        "Lat": 43.03445,
+        "Lon": -89.30493,
+        "Name": "McFarland WI-US Oil (4402 Term"
+    },
+    {
+        "Lat": 43.02774,
+        "Lon": -89.30597,
+        "Name": "McFarland WI-US Oil (Sigglekow"
+    },
+    {
+        "Lat": 43.03238,
+        "Lon": -89.30367,
+        "Name": "McFarland WI-West Shore Pipeli"
+    },
+    {
+        "Lat": 43.038959,
+        "Lon": -89.298084,
+        "Name": "McFarland WI-Zenith Energy"
+    },
+    {
+        "Lat": 38.347141,
+        "Lon": -97.668694,
+        "Name": "McPherson KS-CHS"
+    },
+    {
+        "Lat": 40.222843,
+        "Lon": -77.045662,
+        "Name": "Mechanicsburg PA-Lucknow"
+    },
+    {
+        "Lat": 40.222843,
+        "Lon": -77.045662,
+        "Name": "Mechanicsburg PA-Lucknow"
+    },
+    {
+        "Lat": 40.21966,
+        "Lon": -76.97599,
+        "Name": "Mechanicsburg PA-Sunoco"
+    },
+    {
+        "Lat": 40.22109,
+        "Lon": -76.96911,
+        "Name": "Mechanicsburg PA-Zenith Energy"
+    },
+    {
+        "Lat": 35.06947,
+        "Lon": -89.976606,
+        "Name": "Memphis TN-Buckeye"
+    },
+    {
+        "Lat": 35.114555,
+        "Lon": -90.077253,
+        "Name": "Memphis TN-Center Point"
+    },
+    {
+        "Lat": 35.11935,
+        "Lon": -90.07501,
+        "Name": "Memphis TN-Delek"
+    },
+    {
+        "Lat": 35.12081,
+        "Lon": -90.07685,
+        "Name": "Memphis TN-ExxonMobil"
+    },
+    {
+        "Lat": 35.08597,
+        "Lon": -90.07442,
+        "Name": "Memphis TN-Valero"
+    },
+    {
+        "Lat": 29.93092,
+        "Lon": -89.945188,
+        "Name": "Meraux LA-Valero"
+    },
+    {
+        "Lat": 29.93092,
+        "Lon": -89.945188,
+        "Name": "Meraux LA-Valero"
+    },
+    {
+        "Lat": 32.35473,
+        "Lon": -88.7424,
+        "Name": "Meridian MS-CITGO"
+    },
+    {
+        "Lat": 32.353127,
+        "Lon": -88.746277,
+        "Name": "Meridian MS-MGC"
+    },
+    {
+        "Lat": 32.35072,
+        "Lon": -88.74954,
+        "Name": "Meridian MS-Murphy"
+    },
+    {
+        "Lat": 32.370792,
+        "Lon": -88.744581,
+        "Name": "Meridian MS-TransMontaigne"
+    },
+    {
+        "Lat": 32.060693,
+        "Lon": -96.890731,
+        "Name": "Mertens  TX-Magellan"
+    },
+    {
+        "Lat": 32.060693,
+        "Lon": -96.890731,
+        "Name": "Mertens  TX-Magellan"
+    },
+    {
+        "Lat": 25.762951,
+        "Lon": -80.141838,
+        "Name": "Miami Beach FL-TransMontaigne"
+    },
+    {
+        "Lat": 39.46337,
+        "Lon": -84.39711,
+        "Name": "Middletown OH-ERPC"
+    },
+    {
+        "Lat": 40.22125,
+        "Lon": -76.79095,
+        "Name": "Middletown PA-Lucknow"
+    },
+    {
+        "Lat": 40.22125,
+        "Lon": -76.79095,
+        "Name": "Middletown PA-Lucknow"
+    },
+    {
+        "Lat": 40.630644,
+        "Lon": -80.441228,
+        "Name": "Midland PA-Marathon"
+    },
+    {
+        "Lat": 43.325012,
+        "Lon": -95.152504,
+        "Name": "Milford IA-Magellan"
+    },
+    {
+        "Lat": 43.324144,
+        "Lon": -95.149977,
+        "Name": "Milford IA-Nustar"
+    },
+    {
+        "Lat": 43.18237,
+        "Lon": -88.04665,
+        "Name": "Milwaukee WI-Buckeye"
+    },
+    {
+        "Lat": 43.163044,
+        "Lon": -88.037575,
+        "Name": "Milwaukee WI-CITGO"
+    },
+    {
+        "Lat": 43.187893,
+        "Lon": -88.044816,
+        "Name": "Milwaukee WI-Flint Hills"
+    },
+    {
+        "Lat": 43.013812,
+        "Lon": -87.897288,
+        "Name": "Milwaukee WI-US Oil (S Harbor)"
+    },
+    {
+        "Lat": 43.18476,
+        "Lon": -88.04776,
+        "Name": "Milwaukee WI-US Oil 9125 107th"
+    },
+    {
+        "Lat": 43.190609,
+        "Lon": -88.045087,
+        "Name": "Milwaukee WI-US Oil 9135 107th"
+    },
+    {
+        "Lat": 43.190724,
+        "Lon": -88.044905,
+        "Name": "Milwaukee WI-US Oil 9451 107th"
+    },
+    {
+        "Lat": 43.19086,
+        "Lon": -88.04614,
+        "Name": "Milwaukee WI-US Oil 9521 107th"
+    },
+    {
+        "Lat": 43.188297,
+        "Lon": -88.05143,
+        "Name": "Milwaukee WI-West Shore Pipeli"
+    },
+    {
+        "Lat": 45.048575,
+        "Lon": -93.272327,
+        "Name": "Minneapolis MN-BNSF"
+    },
+    {
+        "Lat": 48.22972,
+        "Lon": -101.29009,
+        "Name": "Minot ND-CHS"
+    },
+    {
+        "Lat": 46.90054,
+        "Lon": -114.03269,
+        "Name": "Missoula MT-CHS"
+    },
+    {
+        "Lat": 46.89746,
+        "Lon": -114.0304,
+        "Name": "Missoula MT-Phillips 66"
+    },
+    {
+        "Lat": 43.70302,
+        "Lon": -97.925785,
+        "Name": "Mitchell SD-Nustar"
+    },
+    {
+        "Lat": 30.696501,
+        "Lon": -88.043404,
+        "Name": "Mobile AL-Alabama Bulk Term"
+    },
+    {
+        "Lat": 30.733351,
+        "Lon": -88.046924,
+        "Name": "Mobile AL-Barcliff (Bay Bridge"
+    },
+    {
+        "Lat": 30.696147,
+        "Lon": -88.031529,
+        "Name": "Mobile AL-Barcliff (Cochran)"
+    },
+    {
+        "Lat": 30.720851,
+        "Lon": -88.035998,
+        "Name": "Mobile AL-Center Point"
+    },
+    {
+        "Lat": 30.720851,
+        "Lon": -88.035998,
+        "Name": "Mobile AL-Center Point"
+    },
+    {
+        "Lat": 30.687345,
+        "Lon": -88.01615,
+        "Name": "Mobile AL-Martin"
+    },
+    {
+        "Lat": 32.41061,
+        "Lon": -92.1052,
+        "Name": "Monroe LA-Monroe"
+    },
+    {
+        "Lat": 34.00562,
+        "Lon": -118.12381,
+        "Name": "Montebello CA-Chevron"
+    },
+    {
+        "Lat": 33.270275,
+        "Lon": -86.80969,
+        "Name": "Montgomery AL-Buckeye"
+    },
+    {
+        "Lat": 32.35571,
+        "Lon": -86.38692,
+        "Name": "Montgomery AL-Epic Midstream"
+    },
+    {
+        "Lat": 32.3251,
+        "Lon": -86.307182,
+        "Name": "Montgomery AL-Marathon"
+    },
+    {
+        "Lat": 32.35441,
+        "Lon": -86.386,
+        "Name": "Montgomery AL-Murphy"
+    },
+    {
+        "Lat": 32.350982,
+        "Lon": -86.384626,
+        "Name": "Montgomery AL-PlantatnTransmix"
+    },
+    {
+        "Lat": 32.35258,
+        "Lon": -86.38322,
+        "Name": "Montgomery AL-Vecenergy"
+    },
+    {
+        "Lat": 41.250042,
+        "Lon": -76.933151,
+        "Name": "Montoursville PA-Superior Plus"
+    },
+    {
+        "Lat": 40.580651,
+        "Lon": -91.429598,
+        "Name": "Montrose IA-Sinclair"
+    },
+    {
+        "Lat": 37.373625,
+        "Lon": -79.702625,
+        "Name": "Montvale VA-Motiva"
+    },
+    {
+        "Lat": 37.387665,
+        "Lon": -79.733814,
+        "Name": "Montvale VA-TM(Lnchbrg Slm TP)"
+    },
+    {
+        "Lat": 37.38383,
+        "Lon": -79.73693,
+        "Name": "Montvale VA-TPSI(Hwy 460E)"
+    },
+    {
+        "Lat": 46.8636,
+        "Lon": -96.74398,
+        "Name": "Moorhead MN-Nustar"
+    },
+    {
+        "Lat": 34.99732,
+        "Lon": -106.02573,
+        "Name": "Moriarty NM-Holly Energy"
+    },
+    {
+        "Lat": 35.81826,
+        "Lon": -78.84227,
+        "Name": "Morrisville NC-R-D Airp Author"
+    },
+    {
+        "Lat": 47.125607,
+        "Lon": -119.274582,
+        "Name": "Moses Lake WA-Phillips 66"
+    },
+    {
+        "Lat": 32.986755,
+        "Lon": -87.638284,
+        "Name": "Moundville AL-Epic Midstream"
+    },
+    {
+        "Lat": 32.986755,
+        "Lon": -87.638284,
+        "Name": "Moundville AL-Epic Midstream"
+    },
+    {
+        "Lat": 43.09138,
+        "Lon": -83.67538,
+        "Name": "Mount Morris MI-Marathon"
+    },
+    {
+        "Lat": 33.157041,
+        "Lon": -94.983247,
+        "Name": "Mount Pleasant TX-Delek"
+    },
+    {
+        "Lat": 37.94164,
+        "Lon": -87.90749,
+        "Name": "Mount Vernon IN-Cntrymrk Coop"
+    },
+    {
+        "Lat": 37.9255,
+        "Lon": -87.90655,
+        "Name": "Mount Vernon IN-Marathon"
+    },
+    {
+        "Lat": 37.097855,
+        "Lon": -93.817169,
+        "Name": "Mount Vernon MO-Phillips 66"
+    },
+    {
+        "Lat": 37.189118,
+        "Lon": -93.777349,
+        "Name": "Mount Vernon MO-TransMontaigne"
+    },
+    {
+        "Lat": 37.189118,
+        "Lon": -93.777349,
+        "Name": "Mount Vernon MO-TransMontaigne"
+    },
+    {
+        "Lat": 40.89625,
+        "Lon": -73.82037,
+        "Name": "Mount Vernon NY-Sprague"
+    },
+    {
+        "Lat": 40.278514,
+        "Lon": -85.365612,
+        "Name": "Muncie IN-Buckeye"
+    },
+    {
+        "Lat": 40.27825,
+        "Lon": -85.36102,
+        "Name": "Muncie IN-Marathon"
+    },
+    {
+        "Lat": 33.59679,
+        "Lon": -81.94946,
+        "Name": "N Augusta SC-Buckeye"
+    },
+    {
+        "Lat": 33.56819,
+        "Lon": -81.93363,
+        "Name": "N Augusta SC-KM (Laurel)"
+    },
+    {
+        "Lat": 33.594031,
+        "Lon": -81.951217,
+        "Name": "N Augusta SC-KM (Sweetwater)"
+    },
+    {
+        "Lat": 36.379906,
+        "Lon": -114.927016,
+        "Name": "N Las Vegas NV  -Holly Energy"
+    },
+    {
+        "Lat": 36.379906,
+        "Lon": -114.927016,
+        "Name": "N Las Vegas NV  -Holly Energy"
+    },
+    {
+        "Lat": 34.75006,
+        "Lon": -92.22295,
+        "Name": "N Little Rock AR-Bruce Oakley"
+    },
+    {
+        "Lat": 34.74921,
+        "Lon": -92.23073,
+        "Name": "N Little Rock AR-Center Point"
+    },
+    {
+        "Lat": 34.77839,
+        "Lon": -92.17498,
+        "Name": "N Little Rock AR-Delek"
+    },
+    {
+        "Lat": 34.77662,
+        "Lon": -92.17523,
+        "Name": "N Little Rock AR-HWRT"
+    },
+    {
+        "Lat": 34.779887,
+        "Lon": -92.177692,
+        "Name": "N Little Rock AR-Mgln(2725Cntr"
+    },
+    {
+        "Lat": 34.778023,
+        "Lon": -92.179466,
+        "Name": "N Little Rock AR-Mgln(3222Cntr"
+    },
+    {
+        "Lat": 34.77233,
+        "Lon": -92.17784,
+        "Name": "N Little Rock AR-Sunoco"
+    },
+    {
+        "Lat": 41.2836,
+        "Lon": -70.095725,
+        "Name": "Nantucket MA-Harbor Fuel Oil"
+    },
+    {
+        "Lat": 42.16541,
+        "Lon": -84.2601,
+        "Name": "Napoleon MI-Buckeye"
+    },
+    {
+        "Lat": 36.161353,
+        "Lon": -86.766923,
+        "Name": "Nashville TN-CITGO"
+    },
+    {
+        "Lat": 36.148079,
+        "Lon": -86.932388,
+        "Name": "Nashville TN-Cumberland"
+    },
+    {
+        "Lat": 36.1825,
+        "Lon": -86.78583,
+        "Name": "Nashville TN-Delek"
+    },
+    {
+        "Lat": 36.16916,
+        "Lon": -86.85947,
+        "Name": "Nashville TN-Equilon"
+    },
+    {
+        "Lat": 36.181129,
+        "Lon": -86.828239,
+        "Name": "Nashville TN-ExxonMobil"
+    },
+    {
+        "Lat": 36.165712,
+        "Lon": -86.849196,
+        "Name": "Nashville TN-Marathon (51st)"
+    },
+    {
+        "Lat": 36.17055,
+        "Lon": -86.77519,
+        "Name": "Nashville TN-Mrthn(Five Main)"
+    },
+    {
+        "Lat": 36.1847,
+        "Lon": -86.83278,
+        "Name": "Nashville TN-Mrthn(Hydes Ferry"
+    },
+    {
+        "Lat": 29.988849,
+        "Lon": -93.976329,
+        "Name": "Nederland TX-Phillips 66"
+    },
+    {
+        "Lat": 38.270897,
+        "Lon": -85.834767,
+        "Name": "New Albany IN-TransMontaigne"
+    },
+    {
+        "Lat": 41.629455,
+        "Lon": -70.920434,
+        "Name": "New Bedford MA-Sprague"
+    },
+    {
+        "Lat": 41.29413,
+        "Lon": -72.90418,
+        "Name": "New Haven CT-400 Waterfront"
+    },
+    {
+        "Lat": 41.300463,
+        "Lon": -72.910353,
+        "Name": "New Haven CT-Buckeye (East St)"
+    },
+    {
+        "Lat": 41.29781,
+        "Lon": -72.90005,
+        "Name": "New Haven CT-Buckeye (Forbes)"
+    },
+    {
+        "Lat": 41.29202,
+        "Lon": -72.9051,
+        "Name": "New Haven CT-Buckeye 280 Water"
+    },
+    {
+        "Lat": 41.286824,
+        "Lon": -72.898422,
+        "Name": "New Haven CT-Equilon"
+    },
+    {
+        "Lat": 41.295354,
+        "Lon": -72.903857,
+        "Name": "New Haven CT-Gulf Oil LP"
+    },
+    {
+        "Lat": 41.290007,
+        "Lon": -72.902954,
+        "Name": "New Haven CT-NH Term 100 Water"
+    },
+    {
+        "Lat": 41.35001,
+        "Lon": -72.09923,
+        "Name": "New London CT-HOP Energy"
+    },
+    {
+        "Lat": 41.479615,
+        "Lon": -74.011215,
+        "Name": "New Windsor NY-Global (1096 R)"
+    },
+    {
+        "Lat": 41.481444,
+        "Lon": -74.013981,
+        "Name": "New Windsor NY-Global (1184 R)"
+    },
+    {
+        "Lat": 41.48684,
+        "Lon": -74.00855,
+        "Name": "New Windsor NY-Global (1281 R)"
+    },
+    {
+        "Lat": 41.48522,
+        "Lon": -74.00862,
+        "Name": "New Windsor NY-Global 1254 Riv"
+    },
+    {
+        "Lat": 40.707092,
+        "Lon": -74.124028,
+        "Name": "Newark NJ-Buckeye"
+    },
+    {
+        "Lat": 40.70976,
+        "Lon": -74.12577,
+        "Name": "Newark NJ-Center Point"
+    },
+    {
+        "Lat": 40.70644,
+        "Lon": -74.121297,
+        "Name": "Newark NJ-Equilon"
+    },
+    {
+        "Lat": 40.71762,
+        "Lon": -74.12509,
+        "Name": "Newark NJ-Sunoco"
+    },
+    {
+        "Lat": 41.56489,
+        "Lon": -73.979367,
+        "Name": "Newburgh NY-Buckeye"
+    },
+    {
+        "Lat": 43.84933,
+        "Lon": -104.215,
+        "Name": "Newcastle WY-Wyoming Refining"
+    },
+    {
+        "Lat": 40.615738,
+        "Lon": -80.599335,
+        "Name": "Newell WV-Ergon"
+    },
+    {
+        "Lat": 40.615738,
+        "Lon": -80.599335,
+        "Name": "Newell WV-Ergon"
+    },
+    {
+        "Lat": 43.108001,
+        "Lon": -70.800681,
+        "Name": "Newington NH-Sprague 194 Shat"
+    },
+    {
+        "Lat": 43.11141,
+        "Lon": -70.81309,
+        "Name": "Newington NH-Sprague 372 Shat"
+    },
+    {
+        "Lat": 38.735355,
+        "Lon": -77.191581,
+        "Name": "Newington VA-Kinder Morgan"
+    },
+    {
+        "Lat": 38.735355,
+        "Lon": -77.191581,
+        "Name": "Newington VA-Kinder Morgan"
+    },
+    {
+        "Lat": 44.87813,
+        "Lon": -93.01117,
+        "Name": "Newport MN-Newport Terminal"
+    },
+    {
+        "Lat": 36.96693,
+        "Lon": -76.41241,
+        "Name": "Newport News VA-PAPCO"
+    },
+    {
+        "Lat": 30.51234,
+        "Lon": -86.48094,
+        "Name": "Niceville FL-CITGO"
+    },
+    {
+        "Lat": 41.790063,
+        "Lon": -86.258474,
+        "Name": "Niles MI-Buckeye (2150 S 3rd)"
+    },
+    {
+        "Lat": 41.78527,
+        "Lon": -86.2538,
+        "Name": "Niles MI-Buckeye (2303 S 3rd)"
+    },
+    {
+        "Lat": 41.78642,
+        "Lon": -86.25363,
+        "Name": "Niles MI-CITGO"
+    },
+    {
+        "Lat": 41.789955,
+        "Lon": -86.256157,
+        "Name": "Niles MI-Marathon (2140 S 3rd)"
+    },
+    {
+        "Lat": 41.788202,
+        "Lon": -86.257164,
+        "Name": "Niles MI-Marathon (2216 S 3rd)"
+    },
+    {
+        "Lat": 41.20221,
+        "Lon": -80.73026,
+        "Name": "Niles OH-Buckeye (Yngstwn Wrrn"
+    },
+    {
+        "Lat": 29.26195,
+        "Lon": -97.78707,
+        "Name": "Nixon TX-Lazarus Energy"
+    },
+    {
+        "Lat": 30.004417,
+        "Lon": -90.392111,
+        "Name": "Norco LA-Diamond Green Diesel"
+    },
+    {
+        "Lat": 29.988201,
+        "Lon": -90.391621,
+        "Name": "Norco LA-Valero"
+    },
+    {
+        "Lat": 42.020385,
+        "Lon": -97.42648,
+        "Name": "Norfolk NE-Nustar"
+    },
+    {
+        "Lat": 37.933352,
+        "Lon": -88.387657,
+        "Name": "Norris City IL-HWRT"
+    },
+    {
+        "Lat": 32.88949,
+        "Lon": -79.97006,
+        "Name": "North Charleston SC-Buckeye"
+    },
+    {
+        "Lat": 41.78294,
+        "Lon": -91.63284,
+        "Name": "North Liberty IA-Buckeye"
+    },
+    {
+        "Lat": 43.26938,
+        "Lon": -86.24447,
+        "Name": "North Muskegon MI-Marathon"
+    },
+    {
+        "Lat": 41.136318,
+        "Lon": -100.763328,
+        "Name": "North Platte NE-Nustar"
+    },
+    {
+        "Lat": 64.73225,
+        "Lon": -147.3482,
+        "Name": "North Pole  AK-Petro Star"
+    },
+    {
+        "Lat": 64.73452,
+        "Lon": -147.350858,
+        "Name": "North Pole AK-Flint Hills"
+    },
+    {
+        "Lat": 40.839883,
+        "Lon": -111.92134,
+        "Name": "North Salt Lake UT-Big West"
+    },
+    {
+        "Lat": 40.86152,
+        "Lon": -111.90604,
+        "Name": "North Salt Lake UT-Phillips 66"
+    },
+    {
+        "Lat": 40.959339,
+        "Lon": -76.591425,
+        "Name": "Northumberland PA-Lucknow"
+    },
+    {
+        "Lat": 40.959339,
+        "Lon": -76.591425,
+        "Name": "Northumberland PA-Sunoco"
+    },
+    {
+        "Lat": 42.47668,
+        "Lon": -83.44734,
+        "Name": "Novi MI-Delta Fuels"
+    },
+    {
+        "Lat": 38.3233,
+        "Lon": -87.38999,
+        "Name": "Oakland City IN-ERPC"
+    },
+    {
+        "Lat": 31.82744,
+        "Lon": -102.33087,
+        "Name": "Odessa TX-Magellan"
+    },
+    {
+        "Lat": 35.473411,
+        "Lon": -97.461631,
+        "Name": "Oklahoma City OK-Magellan"
+    },
+    {
+        "Lat": 35.476203,
+        "Lon": -97.434391,
+        "Name": "Oklahoma City OK-Phillips 66"
+    },
+    {
+        "Lat": 35.47693,
+        "Lon": -97.43445,
+        "Name": "Oklahoma City OK-TransMontaign"
+    },
+    {
+        "Lat": 38.88188,
+        "Lon": -94.74433,
+        "Name": "Olathe KS-Magellan"
+    },
+    {
+        "Lat": 47.457401,
+        "Lon": -122.224456,
+        "Name": "Olympic Pipe Line Company - Renton  "
+    },
+    {
+        "Lat": 45.638196,
+        "Lon": -122.695935,
+        "Name": "Olympic Pipe Line Company - Vancouver"
+    },
+    {
+        "Lat": 45.590426,
+        "Lon": -122.777449,
+        "Name": "Olympic Pipeline Company - Portland "
+    },
+    {
+        "Lat": 41.278764,
+        "Lon": -95.930208,
+        "Name": "Omaha NE-Magellan"
+    },
+    {
+        "Lat": 41.304709,
+        "Lon": -95.879899,
+        "Name": "Omaha NE-Signature Flight"
+    },
+    {
+        "Lat": 41.30551,
+        "Lon": -95.88139,
+        "Name": "Omaha NE-Truman Arnold"
+    },
+    {
+        "Lat": 30.53723,
+        "Lon": -92.081012,
+        "Name": "Opelousas LA-Buckeye"
+    },
+    {
+        "Lat": 33.81084,
+        "Lon": -117.86981,
+        "Name": "Orange CA-SFPP - KM"
+    },
+    {
+        "Lat": 41.6866,
+        "Lon": -83.44865,
+        "Name": "Oregon OH-CITGO"
+    },
+    {
+        "Lat": 41.6866,
+        "Lon": -83.44865,
+        "Name": "Oregon OH-CITGO"
+    },
+    {
+        "Lat": 41.65334,
+        "Lon": -83.45117,
+        "Name": "Oregon OH-Marathon"
+    },
+    {
+        "Lat": 41.65334,
+        "Lon": -83.45117,
+        "Name": "Oregon OH-Marathon"
+    },
+    {
+        "Lat": 28.422202,
+        "Lon": -81.370692,
+        "Name": "Orlando FL-Kinder Morgan"
+    },
+    {
+        "Lat": 41.17804,
+        "Lon": -97.548134,
+        "Name": "Osceola NE-Nustar"
+    },
+    {
+        "Lat": 41.01174,
+        "Lon": -92.48279,
+        "Name": "Ottumwa IA-Buckeye"
+    },
+    {
+        "Lat": 37.79204,
+        "Lon": -87.06637,
+        "Name": "Owensboro KY-Southern States"
+    },
+    {
+        "Lat": 37.77923,
+        "Lon": -87.07264,
+        "Name": "Owensboro KY-TransMontaigne"
+    },
+    {
+        "Lat": 42.997525,
+        "Lon": -84.17251,
+        "Name": "Owosso MI-Sunoco"
+    },
+    {
+        "Lat": 40.874915,
+        "Lon": -73.52634,
+        "Name": "Oyster Bay NY-Global"
+    },
+    {
+        "Lat": 37.022565,
+        "Lon": -88.53099,
+        "Name": "Paducah KY-Marathon"
+    },
+    {
+        "Lat": 37.0716,
+        "Lon": -88.587352,
+        "Name": "Paducah KY-TransMontaigne"
+    },
+    {
+        "Lat": 27.63625,
+        "Lon": -82.55576,
+        "Name": "Palmetto FL-TransMontaigne"
+    },
+    {
+        "Lat": 39.881365,
+        "Lon": -91.545765,
+        "Name": "Palmyra MO-Magellan"
+    },
+    {
+        "Lat": 30.15758,
+        "Lon": -85.66702,
+        "Name": "Panama City FL-Chevron"
+    },
+    {
+        "Lat": 33.898463,
+        "Lon": -118.148566,
+        "Name": "Paramount CA-AltAir Paramount"
+    },
+    {
+        "Lat": 33.898463,
+        "Lon": -118.148566,
+        "Name": "Paramount CA-AltAir Paramount"
+    },
+    {
+        "Lat": 34.002053,
+        "Lon": -114.226562,
+        "Name": "Parker AZ-Liquidtitan"
+    },
+    {
+        "Lat": 29.689573,
+        "Lon": -95.171215,
+        "Name": "Pasadena TX-Enterprise"
+    },
+    {
+        "Lat": 29.689573,
+        "Lon": -95.171215,
+        "Name": "Pasadena TX-Enterprise"
+    },
+    {
+        "Lat": 29.73317,
+        "Lon": -95.16452,
+        "Name": "Pasadena TX-Intercontinental"
+    },
+    {
+        "Lat": 29.73317,
+        "Lon": -95.16452,
+        "Name": "Pasadena TX-Intercontinental"
+    },
+    {
+        "Lat": 29.730358,
+        "Lon": -95.204655,
+        "Name": "Pasadena TX-KM (Witter)"
+    },
+    {
+        "Lat": 29.730358,
+        "Lon": -95.204655,
+        "Name": "Pasadena TX-KM (Witter)"
+    },
+    {
+        "Lat": 29.717382,
+        "Lon": -95.184251,
+        "Name": "Pasadena TX-KM(Jefferson)"
+    },
+    {
+        "Lat": 29.717382,
+        "Lon": -95.184251,
+        "Name": "Pasadena TX-KM(Jefferson)"
+    },
+    {
+        "Lat": 29.713721,
+        "Lon": -95.22541,
+        "Name": "Pasadena TX-Motiva"
+    },
+    {
+        "Lat": 29.713721,
+        "Lon": -95.22541,
+        "Name": "Pasadena TX-Motiva"
+    },
+    {
+        "Lat": 29.648841,
+        "Lon": -95.01515,
+        "Name": "Pasadena TX-Phillips 66"
+    },
+    {
+        "Lat": 29.648841,
+        "Lon": -95.01515,
+        "Name": "Pasadena TX-Phillips 66"
+    },
+    {
+        "Lat": 30.354392,
+        "Lon": -88.49415,
+        "Name": "Pascagoula MS-Chevron"
+    },
+    {
+        "Lat": 30.354658,
+        "Lon": -88.507896,
+        "Name": "Pascagoula MS-Martin"
+    },
+    {
+        "Lat": 46.259489,
+        "Lon": -119.094258,
+        "Name": "Pasco WA-BNSF"
+    },
+    {
+        "Lat": 46.215133,
+        "Lon": -119.030267,
+        "Name": "Pasco WA-Marathon"
+    },
+    {
+        "Lat": 46.219516,
+        "Lon": -119.026711,
+        "Name": "Pasco WA-Tidewater"
+    },
+    {
+        "Lat": 39.845645,
+        "Lon": -75.249435,
+        "Name": "Paulsboro NJ-Nustar"
+    },
+    {
+        "Lat": 39.846085,
+        "Lon": -75.245145,
+        "Name": "Paulsboro NJ-PBF"
+    },
+    {
+        "Lat": 39.847429,
+        "Lon": -75.24304,
+        "Name": "Paulsboro NJ-Sunoco"
+    },
+    {
+        "Lat": 39.98037,
+        "Lon": -75.06519,
+        "Name": "Pennsauken NJ-Buckeye"
+    },
+    {
+        "Lat": 30.401556,
+        "Lon": -87.224686,
+        "Name": "Pensacola FL-TransMontaigne"
+    },
+    {
+        "Lat": 42.48338,
+        "Lon": -90.78724,
+        "Name": "Peosta IA-BP"
+    },
+    {
+        "Lat": 40.539301,
+        "Lon": -74.266365,
+        "Name": "Perth Amboy NJ-Buckeye (Mauer)"
+    },
+    {
+        "Lat": 40.539301,
+        "Lon": -74.266365,
+        "Name": "Perth Amboy NJ-Buckeye (Mauer)"
+    },
+    {
+        "Lat": 40.51386,
+        "Lon": -74.28697,
+        "Name": "Perth Amboy NJ-Buckeye (SmithC"
+    },
+    {
+        "Lat": 40.51386,
+        "Lon": -74.28697,
+        "Name": "Perth Amboy NJ-Buckeye (SmithC"
+    },
+    {
+        "Lat": 40.52353,
+        "Lon": -74.25945,
+        "Name": "Perth Amboy NJ-Kinder Morgan"
+    },
+    {
+        "Lat": 40.52353,
+        "Lon": -74.25945,
+        "Name": "Perth Amboy NJ-Kinder Morgan"
+    },
+    {
+        "Lat": 40.7466,
+        "Lon": -86.10793,
+        "Name": "Peru IN-Countrymark Coop"
+    },
+    {
+        "Lat": 31.373368,
+        "Lon": -89.266832,
+        "Name": "Petal MS-Lone Star NGL"
+    },
+    {
+        "Lat": 40.01343,
+        "Lon": -89.837421,
+        "Name": "Petersburg IL-Growmark"
+    },
+    {
+        "Lat": 40.01343,
+        "Lon": -89.837421,
+        "Name": "Petersburg IL-Growmark"
+    },
+    {
+        "Lat": 40.013371,
+        "Lon": -75.116356,
+        "Name": "Philadelphia PA-HOP Energy"
+    },
+    {
+        "Lat": 39.916995,
+        "Lon": -75.216215,
+        "Name": "Philadelphia PA-KM (63rd)"
+    },
+    {
+        "Lat": 39.979566,
+        "Lon": -75.093524,
+        "Name": "Philadelphia PA-KM (Delwre Ave"
+    },
+    {
+        "Lat": 40.01208,
+        "Lon": -75.11195,
+        "Name": "Philadelphia PA-Monroe"
+    },
+    {
+        "Lat": 39.93559,
+        "Lon": -75.21023,
+        "Name": "Philadelphia PA-PBF (51st)"
+    },
+    {
+        "Lat": 39.906291,
+        "Lon": -75.223266,
+        "Name": "Philadelphia PA-PBF (67th)"
+    },
+    {
+        "Lat": 39.906505,
+        "Lon": -75.219099,
+        "Name": "Philadelphia PA-PBF (Essington"
+    },
+    {
+        "Lat": 39.92044,
+        "Lon": -75.193,
+        "Name": "Philadelphia PA-Sunoco"
+    },
+    {
+        "Lat": 33.443062,
+        "Lon": -111.998108,
+        "Name": "Phoenix AZ-Arizona Fueling"
+    },
+    {
+        "Lat": 33.44871,
+        "Lon": -112.17694,
+        "Name": "Phoenix AZ-Caljet"
+    },
+    {
+        "Lat": 33.45019,
+        "Lon": -112.17696,
+        "Name": "Phoenix AZ-Circle K Terminal"
+    },
+    {
+        "Lat": 33.44708,
+        "Lon": -112.17102,
+        "Name": "Phoenix AZ-KM (5110 W Madison)"
+    },
+    {
+        "Lat": 33.440387,
+        "Lon": -112.155243,
+        "Name": "Phoenix AZ-Pro Petroleum"
+    },
+    {
+        "Lat": 33.44769,
+        "Lon": -112.17505,
+        "Name": "Phoenix AZ-SFPP - KM"
+    },
+    {
+        "Lat": 34.226835,
+        "Lon": -91.985535,
+        "Name": "Pine Bluff AR-Union Pacific"
+    },
+    {
+        "Lat": 38.153472,
+        "Lon": -76.527683,
+        "Name": "Piney Point MD-Nustar"
+    },
+    {
+        "Lat": 40.55223,
+        "Lon": -74.43381,
+        "Name": "Piscataway NJ-Sunoco"
+    },
+    {
+        "Lat": 40.498896,
+        "Lon": -80.085299,
+        "Name": "Pittsburgh PA-Lucknow (Grand)"
+    },
+    {
+        "Lat": 40.50157,
+        "Lon": -80.09505,
+        "Name": "Pittsburgh PA-Lucknow (Neville"
+    },
+    {
+        "Lat": 40.48541,
+        "Lon": -79.945809,
+        "Name": "Pittsburgh PA-Sunoco (Butler)"
+    },
+    {
+        "Lat": 40.498,
+        "Lon": -79.85476,
+        "Name": "Pittsburgh PA-Sunoco (Freeport"
+    },
+    {
+        "Lat": 40.498,
+        "Lon": -79.85476,
+        "Name": "Pittsburgh PA-Sunoco (Freeport"
+    },
+    {
+        "Lat": 41.31387,
+        "Lon": -75.73951,
+        "Name": "Pittston PA-Lucknow"
+    },
+    {
+        "Lat": 41.31387,
+        "Lon": -75.73951,
+        "Name": "Pittston PA-Lucknow"
+    },
+    {
+        "Lat": 41.312763,
+        "Lon": -75.741306,
+        "Name": "Pittston Township PA-Zenith"
+    },
+    {
+        "Lat": 41.312763,
+        "Lon": -75.741306,
+        "Name": "Pittston Township PA-Zenith"
+    },
+    {
+        "Lat": 41.569218,
+        "Lon": -93.525617,
+        "Name": "Pleasant Hill IA-Phillips 66"
+    },
+    {
+        "Lat": 42.917007,
+        "Lon": -112.534455,
+        "Name": "Pocatello ID-Marathon"
+    },
+    {
+        "Lat": 36.68059,
+        "Lon": -97.05392,
+        "Name": "Ponca City OK-Phillips 66"
+    },
+    {
+        "Lat": 30.476815,
+        "Lon": -91.211244,
+        "Name": "Port Allen LA-Placid"
+    },
+    {
+        "Lat": 30.476815,
+        "Lon": -91.211244,
+        "Name": "Port Allen LA-Placid"
+    },
+    {
+        "Lat": 29.869893,
+        "Lon": -93.996652,
+        "Name": "Port Arthur TX-GT Logistics"
+    },
+    {
+        "Lat": 29.869893,
+        "Lon": -93.996652,
+        "Name": "Port Arthur TX-GT Logistics"
+    },
+    {
+        "Lat": 29.830883,
+        "Lon": -93.967328,
+        "Name": "Port Arthur TX-Martin"
+    },
+    {
+        "Lat": 29.830883,
+        "Lon": -93.967328,
+        "Name": "Port Arthur TX-Martin"
+    },
+    {
+        "Lat": 29.95745,
+        "Lon": -93.8979,
+        "Name": "Port Arthur TX-Total"
+    },
+    {
+        "Lat": 29.95745,
+        "Lon": -93.8979,
+        "Name": "Port Arthur TX-Total"
+    },
+    {
+        "Lat": 40.995886,
+        "Lon": -73.660541,
+        "Name": "Port Chester NY-Westmore"
+    },
+    {
+        "Lat": 29.375868,
+        "Lon": -90.260378,
+        "Name": "Port Fourchon LA-Martin"
+    },
+    {
+        "Lat": 26.197832,
+        "Lon": -97.603517,
+        "Name": "Port Harlingen Terminal"
+    },
+    {
+        "Lat": 40.565667,
+        "Lon": -74.249686,
+        "Name": "Port Reading NJ-Buckeye"
+    },
+    {
+        "Lat": 41.57015,
+        "Lon": -72.64522,
+        "Name": "Portland CT-B and B Petroleum"
+    },
+    {
+        "Lat": 41.57184,
+        "Lon": -72.64609,
+        "Name": "Portland CT-Safety-Kleen"
+    },
+    {
+        "Lat": 45.5958,
+        "Lon": -122.78316,
+        "Name": "Portland OR-BP West Coast"
+    },
+    {
+        "Lat": 45.565268,
+        "Lon": -122.740095,
+        "Name": "Portland OR-Chevron"
+    },
+    {
+        "Lat": 45.565504,
+        "Lon": -122.745274,
+        "Name": "Portland OR-Kinder Morgan"
+    },
+    {
+        "Lat": 45.56162,
+        "Lon": -122.73577,
+        "Name": "Portland OR-McCall"
+    },
+    {
+        "Lat": 45.59042,
+        "Lon": -122.77745,
+        "Name": "Portland OR-Nustar"
+    },
+    {
+        "Lat": 45.562,
+        "Lon": -122.74092,
+        "Name": "Portland OR-Phillips 66"
+    },
+    {
+        "Lat": 45.55035,
+        "Lon": -122.72647,
+        "Name": "Portland OR-Shell Oil"
+    },
+    {
+        "Lat": 45.561733,
+        "Lon": -122.736361,
+        "Name": "Portland OR-Zenith Energy"
+    },
+    {
+        "Lat": 43.09069,
+        "Lon": -70.76707,
+        "Name": "Portsmouth NH-Irving"
+    },
+    {
+        "Lat": 43.09069,
+        "Lon": -70.76707,
+        "Name": "Portsmouth NH-Irving"
+    },
+    {
+        "Lat": 41.69067,
+        "Lon": -73.93847,
+        "Name": "Poughkeepsie NY-Meenan"
+    },
+    {
+        "Lat": 33.86302,
+        "Lon": -84.63047,
+        "Name": "Powder Springs GA-Marathon"
+    },
+    {
+        "Lat": 33.86302,
+        "Lon": -84.63047,
+        "Name": "Powder Springs GA-Marathon"
+    },
+    {
+        "Lat": 32.58902,
+        "Lon": -93.51468,
+        "Name": "Princeton LA-Calumet"
+    },
+    {
+        "Lat": 46.707943,
+        "Lon": -92.287874,
+        "Name": "Proctor MN-Superior (Old Husky"
+    },
+    {
+        "Lat": 41.79941,
+        "Lon": -71.3996,
+        "Name": "Providence RI-Equilon"
+    },
+    {
+        "Lat": 41.795867,
+        "Lon": -71.392985,
+        "Name": "Providence RI-NE Petroleum"
+    },
+    {
+        "Lat": 41.810361,
+        "Lon": -71.40457,
+        "Name": "Providence RI-Sprague"
+    },
+    {
+        "Lat": 26.06195,
+        "Lon": -97.216085,
+        "Name": "Pt Isabel TX-Pt Isabel Logisti"
+    },
+    {
+        "Lat": 42.251129,
+        "Lon": -71.003662,
+        "Name": "Quincy MA-Sprague 740"
+    },
+    {
+        "Lat": 42.251717,
+        "Lon": -70.984367,
+        "Name": "Quincy MA-Sprague 782"
+    },
+    {
+        "Lat": 38.570992,
+        "Lon": -121.3359,
+        "Name": "Rancho Cordova CA-SFPP - KM"
+    },
+    {
+        "Lat": 44.094765,
+        "Lon": -103.163925,
+        "Name": "Rapid City SD-Magellan"
+    },
+    {
+        "Lat": 41.78615,
+        "Lon": -107.237143,
+        "Name": "Rawlins WY-Union Pacific"
+    },
+    {
+        "Lat": 40.379379,
+        "Lon": -75.923988,
+        "Name": "Reading PA-Buckeye"
+    },
+    {
+        "Lat": 37.50268,
+        "Lon": -122.21092,
+        "Name": "Redwood City CA-Seaport Ref"
+    },
+    {
+        "Lat": 39.509623,
+        "Lon": -119.763209,
+        "Name": "Reno NV-Reno FuelingFacilities"
+    },
+    {
+        "Lat": 42.61113,
+        "Lon": -73.75182,
+        "Name": "Rensselaer NY-Buckeye"
+    },
+    {
+        "Lat": 42.61113,
+        "Lon": -73.75182,
+        "Name": "Rensselaer NY-Buckeye"
+    },
+    {
+        "Lat": 42.634432,
+        "Lon": -73.749627,
+        "Name": "Rensselaer NY-IPT"
+    },
+    {
+        "Lat": 42.634432,
+        "Lon": -73.749627,
+        "Name": "Rensselaer NY-IPT"
+    },
+    {
+        "Lat": 42.618872,
+        "Lon": -73.753452,
+        "Name": "Rensselaer NY-Petroleum Fuel"
+    },
+    {
+        "Lat": 42.618872,
+        "Lon": -73.753452,
+        "Name": "Rensselaer NY-Petroleum Fuel"
+    },
+    {
+        "Lat": 42.616495,
+        "Lon": -73.7511,
+        "Name": "Rensselaer NY-Sprague"
+    },
+    {
+        "Lat": 42.616495,
+        "Lon": -73.7511,
+        "Name": "Rensselaer NY-Sprague"
+    },
+    {
+        "Lat": 47.45651,
+        "Lon": -122.22448,
+        "Name": "Renton WA-Phillips 66"
+    },
+    {
+        "Lat": 42.39891,
+        "Lon": -71.00811,
+        "Name": "Revere MA-Global"
+    },
+    {
+        "Lat": 42.39608,
+        "Lon": -71.00901,
+        "Name": "Revere MA-Irving"
+    },
+    {
+        "Lat": 37.935941,
+        "Lon": -122.376102,
+        "Name": "Richmond CA-BNSF"
+    },
+    {
+        "Lat": 37.928257,
+        "Lon": -122.38773,
+        "Name": "Richmond CA-Chevron"
+    },
+    {
+        "Lat": 37.92273,
+        "Lon": -122.36918,
+        "Name": "Richmond CA-IMTT (Cutting)"
+    },
+    {
+        "Lat": 37.91266,
+        "Lon": -122.36626,
+        "Name": "Richmond CA-KM (Canal)"
+    },
+    {
+        "Lat": 37.91578,
+        "Lon": -122.36774,
+        "Name": "Richmond CA-Phillips 66"
+    },
+    {
+        "Lat": 37.91956,
+        "Lon": -122.3644,
+        "Name": "Richmond CA-Plains Products"
+    },
+    {
+        "Lat": 37.50369,
+        "Lon": -77.43011,
+        "Name": "Richmond VA-Buckeye"
+    },
+    {
+        "Lat": 37.52203,
+        "Lon": -77.433755,
+        "Name": "Richmond VA-CITGO"
+    },
+    {
+        "Lat": 37.52266,
+        "Lon": -77.43275,
+        "Name": "Richmond VA-First Energy"
+    },
+    {
+        "Lat": 37.50914,
+        "Lon": -77.41277,
+        "Name": "Richmond VA-IMTT (Osborne)"
+    },
+    {
+        "Lat": 37.479889,
+        "Lon": -77.428291,
+        "Name": "Richmond VA-KM(3302 Deepwater)"
+    },
+    {
+        "Lat": 37.47204,
+        "Lon": -77.42553,
+        "Name": "Richmond VA-KM(4110 Deepwater)"
+    },
+    {
+        "Lat": 37.45875,
+        "Lon": -77.43349,
+        "Name": "Richmond VA-KM(Trenton Ave)"
+    },
+    {
+        "Lat": 37.44532,
+        "Lon": -77.43865,
+        "Name": "Richmond VA-Motiva"
+    },
+    {
+        "Lat": 37.51186,
+        "Lon": -77.42973,
+        "Name": "Richmond VA-TPSI (Goodes)"
+    },
+    {
+        "Lat": 37.51181,
+        "Lon": -77.43086,
+        "Name": "Richmond VA-TPSI(Commerce)"
+    },
+    {
+        "Lat": 26.253242,
+        "Lon": -97.581039,
+        "Name": "Rio Hondo TX-Petro Source"
+    },
+    {
+        "Lat": 42.27666,
+        "Lon": -83.12577,
+        "Name": "River Rouge MI-Buckeye"
+    },
+    {
+        "Lat": 40.97942,
+        "Lon": -72.64659,
+        "Name": "Riverhead NY-United Refining"
+    },
+    {
+        "Lat": 26.767262,
+        "Lon": -80.059928,
+        "Name": "Riviera Beach FL-Vecenergy"
+    },
+    {
+        "Lat": 32.233138,
+        "Lon": -108.962189,
+        "Name": "Road Forks NM-USA Petroleum"
+    },
+    {
+        "Lat": 37.28009,
+        "Lon": -79.92184,
+        "Name": "Roanoke VA-KM (Hollins)"
+    },
+    {
+        "Lat": 37.21253,
+        "Lon": -79.99055,
+        "Name": "Roanoke VA-KM(Terminal Road)"
+    },
+    {
+        "Lat": 39.000304,
+        "Lon": -87.727142,
+        "Name": "Robinson  IL-Mrthn (Mrthn Ave)"
+    },
+    {
+        "Lat": 39.005928,
+        "Lon": -87.712714,
+        "Name": "Robinson IL-Marathon (1050th)"
+    },
+    {
+        "Lat": 40.69925,
+        "Lon": -96.69523,
+        "Name": "Roca NE-Magellan"
+    },
+    {
+        "Lat": 40.6964,
+        "Lon": -96.70195,
+        "Name": "Roca NE-Phillips 66"
+    },
+    {
+        "Lat": 41.913449,
+        "Lon": -89.051618,
+        "Name": "Rochelle IL-Kinder Morgan"
+    },
+    {
+        "Lat": 41.913449,
+        "Lon": -89.051618,
+        "Name": "Rochelle IL-Kinder Morgan"
+    },
+    {
+        "Lat": 43.1638,
+        "Lon": -77.679,
+        "Name": "Rochester NY-Buckeye (Lyell)"
+    },
+    {
+        "Lat": 43.13065,
+        "Lon": -77.65486,
+        "Name": "Rochester NY-Buckeye 675 Brook"
+    },
+    {
+        "Lat": 43.130436,
+        "Lon": -77.654455,
+        "Name": "Rochester NY-Buckeye 754 Brook"
+    },
+    {
+        "Lat": 43.16198,
+        "Lon": -77.67734,
+        "Name": "Rochester NY-Center Point"
+    },
+    {
+        "Lat": 43.164735,
+        "Lon": -77.674931,
+        "Name": "Rochester NY-Sunoco"
+    },
+    {
+        "Lat": 43.15679,
+        "Lon": -77.66835,
+        "Name": "Rochester NY-Superior Plus"
+    },
+    {
+        "Lat": 43.13729,
+        "Lon": -77.6624,
+        "Name": "Rochester NY-United Refining"
+    },
+    {
+        "Lat": 43.43275,
+        "Lon": -96.067925,
+        "Name": "Rock Rapids IA-Nustar"
+    },
+    {
+        "Lat": 41.56719,
+        "Lon": -109.29264,
+        "Name": "Rock Springs WY-Phillips 66"
+    },
+    {
+        "Lat": 42.262924,
+        "Lon": -89.177704,
+        "Name": "Rockford IL-Buckeye"
+    },
+    {
+        "Lat": 42.25853,
+        "Lon": -89.18107,
+        "Name": "Rockford IL-Marathon"
+    },
+    {
+        "Lat": 42.260206,
+        "Lon": -89.178369,
+        "Name": "Rockford IL-West Shore Pipel"
+    },
+    {
+        "Lat": 41.653564,
+        "Lon": -72.630794,
+        "Name": "Rocky Hill CT-CITGO"
+    },
+    {
+        "Lat": 36.35801,
+        "Lon": -94.16104,
+        "Name": "Rogers AR-Magellan"
+    },
+    {
+        "Lat": 45.409276,
+        "Lon": -83.798439,
+        "Name": "Rogers City MI-US Oil"
+    },
+    {
+        "Lat": 34.298402,
+        "Lon": -85.111466,
+        "Name": "Rome GA-TransMontaigne"
+    },
+    {
+        "Lat": 42.233046,
+        "Lon": -83.342627,
+        "Name": "Romulus MI-Delta Fuels"
+    },
+    {
+        "Lat": 42.244694,
+        "Lon": -83.313005,
+        "Name": "Romulus MI-Marathon"
+    },
+    {
+        "Lat": 42.24023,
+        "Lon": -83.32256,
+        "Name": "Romulus MI-Sunoco"
+    },
+    {
+        "Lat": 44.751653,
+        "Lon": -93.037379,
+        "Name": "Rosemount MN-Flint Hills"
+    },
+    {
+        "Lat": 44.751653,
+        "Lon": -93.037379,
+        "Name": "Rosemount MN-Flint Hills"
+    },
+    {
+        "Lat": 44.71816,
+        "Lon": -93.13389,
+        "Name": "Rosemount MN-NGL"
+    },
+    {
+        "Lat": 45.01959,
+        "Lon": -93.19612,
+        "Name": "Roseville MN-Nustar"
+    },
+    {
+        "Lat": 45.01959,
+        "Lon": -93.19612,
+        "Name": "Roseville MN-Nustar"
+    },
+    {
+        "Lat": 45.01959,
+        "Lon": -93.19612,
+        "Name": "Roseville MN-Nustar"
+    },
+    {
+        "Lat": 38.568584,
+        "Lon": -121.514503,
+        "Name": "Sacramento CA-Chevron"
+    },
+    {
+        "Lat": 38.56691,
+        "Lon": -121.51471,
+        "Name": "Sacramento CA-Phillips 66"
+    },
+    {
+        "Lat": 38.39696,
+        "Lon": -81.84752,
+        "Name": "Saint Albans WV-Go-Mart"
+    },
+    {
+        "Lat": 42.813424,
+        "Lon": -82.505982,
+        "Name": "Saint Clair MI-Plains LPG"
+    },
+    {
+        "Lat": 38.581192,
+        "Lon": -90.222258,
+        "Name": "Saint Louis MO-American River"
+    },
+    {
+        "Lat": 38.68043,
+        "Lon": -90.20065,
+        "Name": "Saint Louis MO-Buckeye"
+    },
+    {
+        "Lat": 38.58348,
+        "Lon": -90.21771,
+        "Name": "Saint Louis MO-J D Streett"
+    },
+    {
+        "Lat": 38.57929,
+        "Lon": -90.22362,
+        "Name": "Saint Louis MO-Kinder Morgan"
+    },
+    {
+        "Lat": 39.38772,
+        "Lon": -81.205948,
+        "Name": "Saint Marys WV-St Marys Refin"
+    },
+    {
+        "Lat": 45.0242,
+        "Lon": -93.20039,
+        "Name": "Saint Paul MN-Magellan"
+    },
+    {
+        "Lat": 44.85431,
+        "Lon": -93.004872,
+        "Name": "Saint Paul Park MN-Marathon"
+    },
+    {
+        "Lat": 44.85431,
+        "Lon": -93.004872,
+        "Name": "Saint Paul Park MN-Marathon"
+    },
+    {
+        "Lat": 38.79763,
+        "Lon": -90.58666,
+        "Name": "Saint Peters MO-Magellan"
+    },
+    {
+        "Lat": 29.951268,
+        "Lon": -90.333674,
+        "Name": "Saint Rose LA-IMTT"
+    },
+    {
+        "Lat": 38.8411,
+        "Lon": -97.64201,
+        "Name": "Salina KS-Nustar"
+    },
+    {
+        "Lat": 38.360025,
+        "Lon": -75.620767,
+        "Name": "Salisbury MD-Center Point"
+    },
+    {
+        "Lat": 38.36306,
+        "Lon": -75.6163,
+        "Name": "Salisbury MD-Sunoco"
+    },
+    {
+        "Lat": 38.36306,
+        "Lon": -75.6163,
+        "Name": "Salisbury MD-Sunoco"
+    },
+    {
+        "Lat": 40.822368,
+        "Lon": -111.920892,
+        "Name": "Salt Lake City UT-Chevron"
+    },
+    {
+        "Lat": 40.78922,
+        "Lon": -111.90495,
+        "Name": "Salt Lake City UT-Marathon"
+    },
+    {
+        "Lat": 31.494179,
+        "Lon": -100.373199,
+        "Name": "San Angelo TX-Delek"
+    },
+    {
+        "Lat": 29.436103,
+        "Lon": -98.397164,
+        "Name": "San Antonio TX-CITGO"
+    },
+    {
+        "Lat": 29.44123,
+        "Lon": -98.43488,
+        "Name": "San Antonio TX-ExxonMobil"
+    },
+    {
+        "Lat": 29.44868,
+        "Lon": -98.395574,
+        "Name": "San Antonio TX-FHR(Cornerway)"
+    },
+    {
+        "Lat": 29.42642,
+        "Lon": -98.39332,
+        "Name": "San Antonio TX-FHR(Pop Gunn)"
+    },
+    {
+        "Lat": 29.46088,
+        "Lon": -98.40696,
+        "Name": "San Antonio TX-Motiva"
+    },
+    {
+        "Lat": 29.31114,
+        "Lon": -98.47678,
+        "Name": "San Antonio TX-Nustar (281 S)"
+    },
+    {
+        "Lat": 29.45019,
+        "Lon": -98.39888,
+        "Name": "San Antonio TX-Nustar CornerPW"
+    },
+    {
+        "Lat": 29.3468,
+        "Lon": -98.45945,
+        "Name": "San Antonio TX-TSAR"
+    },
+    {
+        "Lat": 32.703883,
+        "Lon": -117.156073,
+        "Name": "San Diego CA-Buckeye"
+    },
+    {
+        "Lat": 32.69268,
+        "Lon": -117.14056,
+        "Name": "San Diego CA-Chevron"
+    },
+    {
+        "Lat": 32.703883,
+        "Lon": -117.156073,
+        "Name": "San Diego CA-Jankovich"
+    },
+    {
+        "Lat": 32.78982,
+        "Lon": -117.115223,
+        "Name": "San Diego CA-SFPP - KM"
+    },
+    {
+        "Lat": 32.69364,
+        "Lon": -117.14183,
+        "Name": "San Diego CA-Tesoro"
+    },
+    {
+        "Lat": 37.36365,
+        "Lon": -121.88467,
+        "Name": "San Jose CA-Chevron"
+    },
+    {
+        "Lat": 37.39224,
+        "Lon": -121.91242,
+        "Name": "San Jose CA-SFPP - KM"
+    },
+    {
+        "Lat": 37.3945,
+        "Lon": -121.91114,
+        "Name": "San Jose CA-Shell Oil"
+    },
+    {
+        "Lat": 33.730764,
+        "Lon": -118.27602,
+        "Name": "San Pedro CA-Jankovich"
+    },
+    {
+        "Lat": 33.76524,
+        "Lon": -118.29191,
+        "Name": "San Pedro CA-Rancho LPG"
+    },
+    {
+        "Lat": 33.76379,
+        "Lon": -118.24121,
+        "Name": "San Pedro CA-Vopak"
+    },
+    {
+        "Lat": 31.786711,
+        "Lon": -89.033127,
+        "Name": "Sandersville MS-Hunt Refining"
+    },
+    {
+        "Lat": 41.77119,
+        "Lon": -70.49968,
+        "Name": "Sandwich MA-Global"
+    },
+    {
+        "Lat": 31.861043,
+        "Lon": -106.686566,
+        "Name": "Santa Teresa NM-Union Pacific"
+    },
+    {
+        "Lat": 30.798428,
+        "Lon": -88.083076,
+        "Name": "Saraland AL-Shell Chemical"
+    },
+    {
+        "Lat": 30.798428,
+        "Lon": -88.083076,
+        "Name": "Saraland AL-Shell Chemical"
+    },
+    {
+        "Lat": 45.74206,
+        "Lon": -94.97704,
+        "Name": "Sauk Centre MN-Nustar"
+    },
+    {
+        "Lat": 32.082867,
+        "Lon": -81.127419,
+        "Name": "Savannah GA-Colonial"
+    },
+    {
+        "Lat": 32.078331,
+        "Lon": -81.047066,
+        "Name": "Savannah GA-Epic (2 Wahlstrom)"
+    },
+    {
+        "Lat": 32.11111,
+        "Lon": -81.12543,
+        "Name": "Savannah GA-Epic (7 Foundation"
+    },
+    {
+        "Lat": 32.118167,
+        "Lon": -81.149617,
+        "Name": "Savannah GA-Vopak"
+    },
+    {
+        "Lat": 38.598429,
+        "Lon": -100.906016,
+        "Name": "Scott City KS-Magellan"
+    },
+    {
+        "Lat": 37.222887,
+        "Lon": -89.490807,
+        "Name": "Scott City MO-ERPC"
+    },
+    {
+        "Lat": 29.608305,
+        "Lon": -95.027923,
+        "Name": "Seabrook TX-LBC"
+    },
+    {
+        "Lat": 44.459651,
+        "Lon": -68.899364,
+        "Name": "Searsport ME-Irving"
+    },
+    {
+        "Lat": 44.459651,
+        "Lon": -68.899364,
+        "Name": "Searsport ME-Irving"
+    },
+    {
+        "Lat": 44.45355,
+        "Lon": -68.9032,
+        "Name": "Searsport ME-Sprague"
+    },
+    {
+        "Lat": 44.45355,
+        "Lon": -68.9032,
+        "Name": "Searsport ME-Sprague"
+    },
+    {
+        "Lat": 47.582085,
+        "Lon": -122.356606,
+        "Name": "Seattle WA-BP West Coast"
+    },
+    {
+        "Lat": 47.57914,
+        "Lon": -122.35187,
+        "Name": "Seattle WA-Kinder Morgan"
+    },
+    {
+        "Lat": 47.5802,
+        "Lon": -122.35278,
+        "Name": "Seattle WA-Shell Oil"
+    },
+    {
+        "Lat": 47.43227,
+        "Lon": -122.30338,
+        "Name": "Seattle WA-Swissport"
+    },
+    {
+        "Lat": 35.55289,
+        "Lon": -78.30098,
+        "Name": "Selma NC-CITGO"
+    },
+    {
+        "Lat": 35.550289,
+        "Lon": -78.305191,
+        "Name": "Selma NC-KM (2101 West Oak)"
+    },
+    {
+        "Lat": 35.55056,
+        "Lon": -78.2988,
+        "Name": "Selma NC-KM (4086 Buffalo)"
+    },
+    {
+        "Lat": 35.554183,
+        "Lon": -78.3021,
+        "Name": "Selma NC-KM (4383 Buffalo)"
+    },
+    {
+        "Lat": 35.55302,
+        "Lon": -78.30557,
+        "Name": "Selma NC-KM(2200 West Oak)"
+    },
+    {
+        "Lat": 35.54867,
+        "Lon": -78.30639,
+        "Name": "Selma NC-Marathon (Buffalo)"
+    },
+    {
+        "Lat": 35.55197,
+        "Lon": -78.31054,
+        "Name": "Selma NC-Marathon (Oak)"
+    },
+    {
+        "Lat": 35.55406,
+        "Lon": -78.30768,
+        "Name": "Selma NC-TransMontaigne"
+    },
+    {
+        "Lat": 35.55304,
+        "Lon": -78.31262,
+        "Name": "Selma NC-Zenith Energy"
+    },
+    {
+        "Lat": 40.53935,
+        "Lon": -74.25917,
+        "Name": "Sewaren NJ-Equilon"
+    },
+    {
+        "Lat": 39.02381,
+        "Lon": -85.83596,
+        "Name": "Seymour IN-HWRT"
+    },
+    {
+        "Lat": 34.748983,
+        "Lon": -87.715343,
+        "Name": "Sheffield AL-Murphy"
+    },
+    {
+        "Lat": 44.66535,
+        "Lon": -106.903,
+        "Name": "Sheridan WY-Phillips 66"
+    },
+    {
+        "Lat": 32.46631,
+        "Lon": -93.79278,
+        "Name": "Shreveport LA-Shreveport Refin"
+    },
+    {
+        "Lat": 47.76161,
+        "Lon": -104.1091,
+        "Name": "Sidney MT-Hiland Partners"
+    },
+    {
+        "Lat": 41.15062,
+        "Lon": -102.93381,
+        "Name": "Sidney NE-Holly Energy"
+    },
+    {
+        "Lat": 33.800209,
+        "Lon": -118.15169,
+        "Name": "Signal Hill CA-Shell Oil"
+    },
+    {
+        "Lat": 33.800209,
+        "Lon": -118.15169,
+        "Name": "Signal Hill CA-Shell Oil"
+    },
+    {
+        "Lat": 33.801335,
+        "Lon": -118.15836,
+        "Name": "Signal Hill CA-Tesoro"
+    },
+    {
+        "Lat": 41.779566,
+        "Lon": -107.105016,
+        "Name": "Sinclair WY-Sinclair (TCN 4054"
+    },
+    {
+        "Lat": 41.779566,
+        "Lon": -107.105016,
+        "Name": "Sinclair WY-Sinclair (TCN 4057"
+    },
+    {
+        "Lat": 40.320393,
+        "Lon": -76.033669,
+        "Name": "Sinking Spring PA-Lucknow"
+    },
+    {
+        "Lat": 40.314993,
+        "Lon": -76.032538,
+        "Name": "Sinking Spring PA-Sunoco"
+    },
+    {
+        "Lat": 42.538277,
+        "Lon": -96.359779,
+        "Name": "Sioux City IA-Magellan"
+    },
+    {
+        "Lat": 43.54524,
+        "Lon": -96.79578,
+        "Name": "Sioux Falls SD-Magellan"
+    },
+    {
+        "Lat": 43.509252,
+        "Lon": -96.741042,
+        "Name": "Sioux Falls SD-Nustar"
+    },
+    {
+        "Lat": 33.36437,
+        "Lon": -92.71683,
+        "Name": "Smackover AR-Martin"
+    },
+    {
+        "Lat": 37.07002,
+        "Lon": -84.61628,
+        "Name": "Somerset KY-Continental"
+    },
+    {
+        "Lat": 41.628727,
+        "Lon": -86.267714,
+        "Name": "South Bend IN-Buckeye"
+    },
+    {
+        "Lat": 41.628727,
+        "Lon": -86.267714,
+        "Name": "South Bend IN-Buckeye"
+    },
+    {
+        "Lat": 33.95236,
+        "Lon": -118.16738,
+        "Name": "South Gate CA-Marathon"
+    },
+    {
+        "Lat": 33.95236,
+        "Lon": -118.16738,
+        "Name": "South Gate CA-Marathon"
+    },
+    {
+        "Lat": 43.637031,
+        "Lon": -70.285921,
+        "Name": "South Portland ME-Buckeye"
+    },
+    {
+        "Lat": 43.63721,
+        "Lon": -70.26734,
+        "Name": "South Portland ME-CITGO"
+    },
+    {
+        "Lat": 43.6346,
+        "Lon": -70.283744,
+        "Name": "South Portland ME-Global"
+    },
+    {
+        "Lat": 43.65046,
+        "Lon": -70.23861,
+        "Name": "South Portland ME-Gulf Oil LP"
+    },
+    {
+        "Lat": 43.63679,
+        "Lon": -70.28627,
+        "Name": "South Portland ME-Sprague"
+    },
+    {
+        "Lat": 39.53342,
+        "Lon": -119.7494,
+        "Name": "Sparks NV-OP Reno"
+    },
+    {
+        "Lat": 39.533349,
+        "Lon": -119.746925,
+        "Name": "Sparks NV-SFPP - KM"
+    },
+    {
+        "Lat": 34.92548,
+        "Lon": -81.86506,
+        "Name": "Spartanburg SC-Buckeye"
+    },
+    {
+        "Lat": 34.92271,
+        "Lon": -81.87013,
+        "Name": "Spartanburg SC-CITGO"
+    },
+    {
+        "Lat": 34.92798,
+        "Lon": -81.88646,
+        "Name": "Spartanburg SC-Kinder Morgan"
+    },
+    {
+        "Lat": 34.92468,
+        "Lon": -81.87595,
+        "Name": "Spartanburg SC-Motiva"
+    },
+    {
+        "Lat": 34.94561,
+        "Lon": -81.930931,
+        "Name": "Spartanburg SC-TransMontaigne"
+    },
+    {
+        "Lat": 47.67009,
+        "Lon": -117.32061,
+        "Name": "Spokane WA-ExxonMobil"
+    },
+    {
+        "Lat": 47.73011,
+        "Lon": -117.36295,
+        "Name": "Spokane WA-Holly Energy"
+    },
+    {
+        "Lat": 47.668442,
+        "Lon": -117.275833,
+        "Name": "Spokane WA-Phillips 66"
+    },
+    {
+        "Lat": 43.68052,
+        "Lon": -92.3613,
+        "Name": "Spring Valley MN-Kinder Morgan"
+    },
+    {
+        "Lat": 42.11825,
+        "Lon": -72.57672,
+        "Name": "Springfield MA-Albany St Term"
+    },
+    {
+        "Lat": 42.11757,
+        "Lon": -72.57737,
+        "Name": "Springfield MA-Buckeye"
+    },
+    {
+        "Lat": 42.14779,
+        "Lon": -72.53624,
+        "Name": "Springfield MA-Global"
+    },
+    {
+        "Lat": 42.11939,
+        "Lon": -72.57457,
+        "Name": "Springfield MA-Roberts Energy"
+    },
+    {
+        "Lat": 42.1164,
+        "Lon": -72.58149,
+        "Name": "Springfield MA-Sprague 195 Arm"
+    },
+    {
+        "Lat": 42.12561,
+        "Lon": -72.56718,
+        "Name": "Springfield MA-Sprague 615 STJ"
+    },
+    {
+        "Lat": 42.11471,
+        "Lon": -72.57931,
+        "Name": "Springfield MA-Suburban Heatin"
+    },
+    {
+        "Lat": 42.14663,
+        "Lon": -72.54451,
+        "Name": "Springfld MA-Spngfld 1053 Page"
+    },
+    {
+        "Lat": 42.14735,
+        "Lon": -72.54258,
+        "Name": "Springfld MA-Sprfld 1095 Page"
+    },
+    {
+        "Lat": 41.04247,
+        "Lon": -73.54411,
+        "Name": "Stamford CT-Sprague"
+    },
+    {
+        "Lat": 39.660788,
+        "Lon": -79.98951,
+        "Name": "Star City WV-Guttman Realty"
+    },
+    {
+        "Lat": 40.40227,
+        "Lon": -80.62254,
+        "Name": "Steubenville OH-Marathon"
+    },
+    {
+        "Lat": 37.950407,
+        "Lon": -121.291336,
+        "Name": "Stockton CA-Buckeye"
+    },
+    {
+        "Lat": 37.942089,
+        "Lon": -121.334117,
+        "Name": "Stockton CA-Marathon"
+    },
+    {
+        "Lat": 37.94119,
+        "Lon": -121.3321,
+        "Name": "Stockton CA-Nustar"
+    },
+    {
+        "Lat": 37.95171,
+        "Lon": -121.34482,
+        "Name": "Stockton CA-Shell Oil"
+    },
+    {
+        "Lat": 39.12038,
+        "Lon": -94.4448,
+        "Name": "Sugar Creek MO-Buckeye"
+    },
+    {
+        "Lat": 39.12038,
+        "Lon": -94.4448,
+        "Name": "Sugar Creek MO-Buckeye"
+    },
+    {
+        "Lat": 41.7636,
+        "Lon": -87.83469,
+        "Name": "Summit Argo IL-Buckeye"
+    },
+    {
+        "Lat": 41.76883,
+        "Lon": -87.8214,
+        "Name": "Summit Argo IL-Kinder Morgan"
+    },
+    {
+        "Lat": 36.016703,
+        "Lon": -101.824616,
+        "Name": "Sunray TX-Diamond Shamrock"
+    },
+    {
+        "Lat": 35.966164,
+        "Lon": -101.881003,
+        "Name": "Sunray TX-Valero"
+    },
+    {
+        "Lat": 35.966164,
+        "Lon": -101.881003,
+        "Name": "Sunray TX-Valero"
+    },
+    {
+        "Lat": 30.29411,
+        "Lon": -91.15028,
+        "Name": "Sunshine LA-LBC"
+    },
+    {
+        "Lat": 46.690949,
+        "Lon": -92.067274,
+        "Name": "Superior WI-Superior(Old Husky"
+    },
+    {
+        "Lat": 29.042761,
+        "Lon": -95.698067,
+        "Name": "Sweeny TX-Phillips 66"
+    },
+    {
+        "Lat": 39.035122,
+        "Lon": -87.053207,
+        "Name": "Switz City IN-Countrymark Coop"
+    },
+    {
+        "Lat": 47.254383,
+        "Lon": -122.430348,
+        "Name": "Tacoma WA-Phillips 66"
+    },
+    {
+        "Lat": 47.25574,
+        "Lon": -122.39402,
+        "Name": "Tacoma WA-US Oil"
+    },
+    {
+        "Lat": 41.07088,
+        "Lon": -81.39823,
+        "Name": "Tallmadge OH-CITGO"
+    },
+    {
+        "Lat": 40.81199,
+        "Lon": -75.97551,
+        "Name": "Tamaqua PA-Sunoco"
+    },
+    {
+        "Lat": 27.95058,
+        "Lon": -82.43982,
+        "Name": "Tampa FL-Buckeye (19th)"
+    },
+    {
+        "Lat": 27.92997,
+        "Lon": -82.44278,
+        "Name": "Tampa FL-Buckeye (McCloskey)"
+    },
+    {
+        "Lat": 27.85939,
+        "Lon": -82.53771,
+        "Name": "Tampa FL-Chevron"
+    },
+    {
+        "Lat": 27.93214,
+        "Lon": -82.44362,
+        "Name": "Tampa FL-CITGO"
+    },
+    {
+        "Lat": 27.91637,
+        "Lon": -82.43676,
+        "Name": "Tampa FL-Kinder Morgan"
+    },
+    {
+        "Lat": 27.94661,
+        "Lon": -82.438982,
+        "Name": "Tampa FL-Marathon"
+    },
+    {
+        "Lat": 27.90191,
+        "Lon": -82.41581,
+        "Name": "Tampa FL-Martin"
+    },
+    {
+        "Lat": 27.86072,
+        "Lon": -82.54844,
+        "Name": "Tampa FL-Motiva"
+    },
+    {
+        "Lat": 27.922613,
+        "Lon": -82.444374,
+        "Name": "Tampa FL-Murphy"
+    },
+    {
+        "Lat": 27.92447,
+        "Lon": -82.44234,
+        "Name": "Tampa FL-TransMontaigne"
+    },
+    {
+        "Lat": 42.25423,
+        "Lon": -83.27509,
+        "Name": "Taylor MI-Buckeye (24501Ecorse"
+    },
+    {
+        "Lat": 42.25381,
+        "Lon": -83.2781,
+        "Name": "Taylor MI-Buckeye (24801Ecorse"
+    },
+    {
+        "Lat": 42.2449,
+        "Lon": -83.30154,
+        "Name": "Taylor MI-Buckeye (Inkster)"
+    },
+    {
+        "Lat": 42.24653,
+        "Lon": -83.29601,
+        "Name": "Taylor MI-Cousins"
+    },
+    {
+        "Lat": 30.607488,
+        "Lon": -97.462421,
+        "Name": "Taylor TX-Valero"
+    },
+    {
+        "Lat": 31.095106,
+        "Lon": -97.348506,
+        "Name": "Temple TX-BNSF"
+    },
+    {
+        "Lat": 29.364875,
+        "Lon": -94.918955,
+        "Name": "Texas City TX-Oiltanking"
+    },
+    {
+        "Lat": 30.52896,
+        "Lon": -88.10843,
+        "Name": "Theodore AL-Martin"
+    },
+    {
+        "Lat": 28.45829,
+        "Lon": -98.18059,
+        "Name": "Three Rivers TX-Diamond Shmrck"
+    },
+    {
+        "Lat": 48.38733,
+        "Lon": -102.95172,
+        "Name": "Tioga ND-Hess"
+    },
+    {
+        "Lat": 41.67457,
+        "Lon": -71.19327,
+        "Name": "Tiverton RI-Inland Fuel"
+    },
+    {
+        "Lat": 41.67457,
+        "Lon": -71.19327,
+        "Name": "Tiverton RI-Inland Fuel"
+    },
+    {
+        "Lat": 41.63988,
+        "Lon": -83.60418,
+        "Name": "Toledo OH-Buckeye"
+    },
+    {
+        "Lat": 41.65679,
+        "Lon": -83.50411,
+        "Name": "Toledo OH-Delta Fuels"
+    },
+    {
+        "Lat": 41.632957,
+        "Lon": -83.506668,
+        "Name": "Toledo OH-PBF"
+    },
+    {
+        "Lat": 41.67674,
+        "Lon": -83.49531,
+        "Name": "Toledo OH-Zenith Energy"
+    },
+    {
+        "Lat": 42.9912,
+        "Lon": -78.92539,
+        "Name": "Tonawanda NY-Marathon"
+    },
+    {
+        "Lat": 42.9912,
+        "Lon": -78.92539,
+        "Name": "Tonawanda NY-Marathon"
+    },
+    {
+        "Lat": 42.979877,
+        "Lon": -78.924217,
+        "Name": "Tonawanda NY-Sunoco"
+    },
+    {
+        "Lat": 42.979877,
+        "Lon": -78.924217,
+        "Name": "Tonawanda NY-Sunoco"
+    },
+    {
+        "Lat": 42.99578,
+        "Lon": -78.92605,
+        "Name": "Tonawanda NY-United Refining"
+    },
+    {
+        "Lat": 42.99578,
+        "Lon": -78.92605,
+        "Name": "Tonawanda NY-United Refining"
+    },
+    {
+        "Lat": 37.75175,
+        "Lon": -121.34697,
+        "Name": "Tracy CA-Chevron"
+    },
+    {
+        "Lat": 37.75175,
+        "Lon": -121.34697,
+        "Name": "Tracy CA-Chevron"
+    },
+    {
+        "Lat": 40.176198,
+        "Lon": -74.731068,
+        "Name": "Trenton NJ-Buckeye Terminal"
+    },
+    {
+        "Lat": 40.17556,
+        "Lon": -74.72894,
+        "Name": "Trenton NJ-SLF - Consumers Oil"
+    },
+    {
+        "Lat": 32.18155,
+        "Lon": -110.91342,
+        "Name": "Tucson AZ-Holly Energy"
+    },
+    {
+        "Lat": 32.178145,
+        "Lon": -110.911043,
+        "Name": "Tucson AZ-Kinder Morgan"
+    },
+    {
+        "Lat": 32.178145,
+        "Lon": -110.911043,
+        "Name": "Tucson AZ-SFPP - KM"
+    },
+    {
+        "Lat": 40.116352,
+        "Lon": -74.849281,
+        "Name": "Tullytown PA-Meenan"
+    },
+    {
+        "Lat": 36.11249,
+        "Lon": -96.0061,
+        "Name": "Tulsa OK-Holly (East)"
+    },
+    {
+        "Lat": 36.137493,
+        "Lon": -96.011516,
+        "Name": "Tulsa OK-Holly (West)"
+    },
+    {
+        "Lat": 36.13156,
+        "Lon": -96.03165,
+        "Name": "Tulsa OK-Magellan"
+    },
+    {
+        "Lat": 33.200588,
+        "Lon": -87.609314,
+        "Name": "Tuscaloosa AL-Hunt Refining"
+    },
+    {
+        "Lat": 33.200588,
+        "Lon": -87.609314,
+        "Name": "Tuscaloosa AL-Hunt Refining"
+    },
+    {
+        "Lat": 32.45825,
+        "Lon": -99.85289,
+        "Name": "Tye TX-Holly Energy"
+    },
+    {
+        "Lat": 32.355064,
+        "Lon": -95.280311,
+        "Name": "Tyler TX-Delek"
+    },
+    {
+        "Lat": 45.914234,
+        "Lon": -119.283768,
+        "Name": "Umatilla OR-Tidewater"
+    },
+    {
+        "Lat": 43.1084,
+        "Lon": -75.21586,
+        "Name": "Utica NY-Buckeye"
+    },
+    {
+        "Lat": 37.81858,
+        "Lon": -97.36951,
+        "Name": "Valley Center KS-Magellan"
+    },
+    {
+        "Lat": 34.17996,
+        "Lon": -118.46813,
+        "Name": "Van Nuys CA-Chevron"
+    },
+    {
+        "Lat": 34.21783,
+        "Lon": -118.47427,
+        "Name": "Van Nuys CA-Shell Oil"
+    },
+    {
+        "Lat": 45.639881,
+        "Lon": -122.647036,
+        "Name": "Vancouver WA-Marathon"
+    },
+    {
+        "Lat": 45.66158,
+        "Lon": -122.6944,
+        "Name": "Vancouver WA-Nustar(FruitVlly)"
+    },
+    {
+        "Lat": 45.630699,
+        "Lon": -122.674881,
+        "Name": "Vancouver WA-Nustar(Port of V2"
+    },
+    {
+        "Lat": 29.27016,
+        "Lon": -89.351873,
+        "Name": "Venice  LA-Martin"
+    },
+    {
+        "Lat": 34.01027,
+        "Lon": -118.22151,
+        "Name": "Vernon CA-Torrance Logistics"
+    },
+    {
+        "Lat": 34.01027,
+        "Lon": -118.22151,
+        "Name": "Vernon CA-Torrance Logistics"
+    },
+    {
+        "Lat": 42.10059,
+        "Lon": -76.00344,
+        "Name": "Vestal NY-Buckeye"
+    },
+    {
+        "Lat": 42.103159,
+        "Lon": -75.997581,
+        "Name": "Vestal NY-CITGO"
+    },
+    {
+        "Lat": 32.390267,
+        "Lon": -90.889983,
+        "Name": "Vicksburg MS-CITGO"
+    },
+    {
+        "Lat": 32.338104,
+        "Lon": -90.892929,
+        "Name": "Vicksburg MS-Hunt Refining"
+    },
+    {
+        "Lat": 28.80785,
+        "Lon": -96.9807,
+        "Name": "Victoria TX-CITGO"
+    },
+    {
+        "Lat": 30.043733,
+        "Lon": -94.025581,
+        "Name": "Vidor  TX-ERPC"
+    },
+    {
+        "Lat": 31.56258,
+        "Lon": -97.09967,
+        "Name": "Waco TX-Fikes Wholesale"
+    },
+    {
+        "Lat": 31.56657,
+        "Lon": -97.09979,
+        "Name": "Waco TX-Flint Hills"
+    },
+    {
+        "Lat": 31.614934,
+        "Lon": -97.108742,
+        "Name": "Waco TX-Motiva"
+    },
+    {
+        "Lat": 43.098125,
+        "Lon": -76.301438,
+        "Name": "Warners NY-Sunoco"
+    },
+    {
+        "Lat": 43.098125,
+        "Lon": -76.301438,
+        "Name": "Warners NY-Sunoco"
+    },
+    {
+        "Lat": 41.829722,
+        "Lon": -79.124209,
+        "Name": "Warren PA-United Refining"
+    },
+    {
+        "Lat": 32.478046,
+        "Lon": -94.06118,
+        "Name": "Waskom TX-Sunoco"
+    },
+    {
+        "Lat": 42.438342,
+        "Lon": -92.419289,
+        "Name": "Waterloo IA-Magellan"
+    },
+    {
+        "Lat": 44.88875,
+        "Lon": -97.08823,
+        "Name": "Watertown SD-Magellan"
+    },
+    {
+        "Lat": 39.74988,
+        "Lon": -94.92671,
+        "Name": "Wathena KS-Growmark"
+    },
+    {
+        "Lat": 43.632977,
+        "Lon": -88.748816,
+        "Name": "Waupun WI-Flint Hills"
+    },
+    {
+        "Lat": 46.876964,
+        "Lon": -96.882038,
+        "Name": "West Fargo ND-Magellan"
+    },
+    {
+        "Lat": 35.13083,
+        "Lon": -90.17499,
+        "Name": "West Memphis AR-NGL"
+    },
+    {
+        "Lat": 35.14562,
+        "Lon": -90.174615,
+        "Name": "West Memphis AR-Valero"
+    },
+    {
+        "Lat": 38.56846,
+        "Lon": -121.52224,
+        "Name": "West Sacramento CA-Buckeye"
+    },
+    {
+        "Lat": 38.57026,
+        "Lon": -121.52009,
+        "Name": "West Sacramento CA-Shell Oil"
+    },
+    {
+        "Lat": 36.69929,
+        "Lon": -107.97671,
+        "Name": "Western Refining - Bloomfield"
+    },
+    {
+        "Lat": 40.04367,
+        "Lon": -86.22278,
+        "Name": "Westfield IN-Countrymark Coop"
+    },
+    {
+        "Lat": 30.24399,
+        "Lon": -93.26951,
+        "Name": "Westlake LA-Phillips 66"
+    },
+    {
+        "Lat": 30.24399,
+        "Lon": -93.26951,
+        "Name": "Westlake LA-Phillips 66"
+    },
+    {
+        "Lat": 39.867172,
+        "Lon": -75.155042,
+        "Name": "Westville NJ-Sunoco"
+    },
+    {
+        "Lat": 41.719622,
+        "Lon": -72.649349,
+        "Name": "Wethersfield CT-Buckeye"
+    },
+    {
+        "Lat": 41.71682,
+        "Lon": -72.64803,
+        "Name": "Wethersfield CT-Global"
+    },
+    {
+        "Lat": 40.646294,
+        "Lon": -75.484587,
+        "Name": "Whitehall PA-Lucknow"
+    },
+    {
+        "Lat": 40.646294,
+        "Lon": -75.484587,
+        "Name": "Whitehall PA-Lucknow"
+    },
+    {
+        "Lat": 40.643604,
+        "Lon": -75.480377,
+        "Name": "Whitehall PA-Sunoco"
+    },
+    {
+        "Lat": 40.643604,
+        "Lon": -75.480377,
+        "Name": "Whitehall PA-Sunoco"
+    },
+    {
+        "Lat": 41.668161,
+        "Lon": -87.487936,
+        "Name": "Whiting IN-BP"
+    },
+    {
+        "Lat": 33.93676,
+        "Lon": -98.49275,
+        "Name": "Wichita Falls TX-Holly Energy"
+    },
+    {
+        "Lat": 37.75709,
+        "Lon": -97.30654,
+        "Name": "Wichita KS-P66 (East 37th)"
+    },
+    {
+        "Lat": 37.650075,
+        "Lon": -97.244297,
+        "Name": "Wichita KS-P66 (Oak Knoll)"
+    },
+    {
+        "Lat": 41.23911,
+        "Lon": -76.96216,
+        "Name": "Williamsport PA-Buckeye"
+    },
+    {
+        "Lat": 41.242145,
+        "Lon": -76.983371,
+        "Name": "Williamsport PA-Zenith Energy"
+    },
+    {
+        "Lat": 33.790948,
+        "Lon": -118.238808,
+        "Name": "Wilmington CA-Marathon"
+    },
+    {
+        "Lat": 33.78986,
+        "Lon": -118.263222,
+        "Name": "Wilmington CA-Shore"
+    },
+    {
+        "Lat": 33.78108,
+        "Lon": -118.23374,
+        "Name": "Wilmington CA-Ultramar"
+    },
+    {
+        "Lat": 33.765552,
+        "Lon": -118.259267,
+        "Name": "Wilmington CA-Vopak"
+    },
+    {
+        "Lat": 39.711823,
+        "Lon": -75.529872,
+        "Name": "Wilmington DE-Magellan"
+    },
+    {
+        "Lat": 34.18744,
+        "Lon": -77.9538,
+        "Name": "Wilmington NC-Apex Oil"
+    },
+    {
+        "Lat": 34.218712,
+        "Lon": -77.950218,
+        "Name": "Wilmington NC-Buckeye"
+    },
+    {
+        "Lat": 34.22179,
+        "Lon": -77.94787,
+        "Name": "Wilmington NC-CTI"
+    },
+    {
+        "Lat": 34.209502,
+        "Lon": -77.950845,
+        "Name": "Wilmington NC-Kinder Morgan"
+    },
+    {
+        "Lat": 44.40424,
+        "Lon": -98.474975,
+        "Name": "Wolsey SD-Nustar"
+    },
+    {
+        "Lat": 39.82043,
+        "Lon": -75.17988,
+        "Name": "Woodbury-Thorofare NJ-Gulf Oil"
+    },
+    {
+        "Lat": 39.82043,
+        "Lon": -75.17988,
+        "Name": "Woodbury-Thorofare NJ-Gulf Oil"
+    },
+    {
+        "Lat": 39.82043,
+        "Lon": -75.17988,
+        "Name": "Woodbury-Thorofare NJ-Gulf Oil"
+    },
+    {
+        "Lat": 42.139451,
+        "Lon": -83.24786,
+        "Name": "Woodhaven MI-Buckeye"
+    },
+    {
+        "Lat": 40.88654,
+        "Lon": -111.90142,
+        "Name": "Woods Cross UT-Holly Energy"
+    },
+    {
+        "Lat": 40.88654,
+        "Lon": -111.90142,
+        "Name": "Woods Cross UT-HollyFrontier"
+    },
+    {
+        "Lat": 40.86631,
+        "Lon": -111.9115,
+        "Name": "Woods Cross UT-Silver Eagle"
+    },
+    {
+        "Lat": 46.632814,
+        "Lon": -92.391525,
+        "Name": "Wrenshall MN-Magellan"
+    },
+    {
+        "Lat": 34.63675,
+        "Lon": -97.167986,
+        "Name": "Wynnewood OK-Wynnewood Energy"
+    },
+    {
+        "Lat": 42.880402,
+        "Lon": -97.349686,
+        "Name": "Yankton SD-Nustar"
+    },
+    {
+        "Lat": 37.227161,
+        "Lon": -76.55278,
+        "Name": "Yorktown VA-Plains Marketing"
+    },
+    {
+        "Lat": 41.087059,
+        "Lon": -80.702309,
+        "Name": "Youngstown OH-Marathon"
+    },
+    {
+        "Lat": 41.03369,
+        "Lon": -80.65524,
+        "Name": "Youngstown OH-Sunoco"
+    }
+]

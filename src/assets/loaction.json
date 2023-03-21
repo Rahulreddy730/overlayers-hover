@@ -1,0 +1,6512 @@
+[
+    [
+        29.793432,
+        -92.143226,
+        "Abbeville LA-Martin"
+    ],
+    [
+        33.841801,
+        -88.543022,
+        "Aberdeen MS-ERPC"
+    ],
+    [
+        45.429975,
+        -98.51543,
+        "Aberdeen SD-Nustar"
+    ],
+    [
+        33.833527,
+        -101.84449,
+        "Abernathy TX-Nustar"
+    ],
+    [
+        32.451897,
+        -99.73262,
+        "Abilene TX-Delek"
+    ],
+    [
+        41.098438,
+        -81.487259,
+        "Akron OH-Sunoco"
+    ],
+    [
+        41.098438,
+        -81.487259,
+        "Akron OH-Sunoco"
+    ],
+    [
+        32.813161,
+        -105.97916,
+        "Alamogordo NM-Epic Midstream"
+    ],
+    [
+        31.579348,
+        -84.183807,
+        "Albany GA-Saratoga"
+    ],
+    [
+        42.618227,
+        -73.763851,
+        "Albany NY-Buckeye"
+    ],
+    [
+        42.632568,
+        -73.756665,
+        "Albany NY-Global"
+    ],
+    [
+        35.04596,
+        -106.64563,
+        "Albuquerque NM-Musket"
+    ],
+    [
+        34.987282,
+        -106.654791,
+        "Albuquerque NM-Nustar"
+    ],
+    [
+        34.98961,
+        -106.66069,
+        "Albuquerque NM-Phillips 66"
+    ],
+    [
+        35.04586,
+        -106.64811,
+        "Albuquerque NM-Western"
+    ],
+    [
+        32.730658,
+        -97.621929,
+        "Aledo TX-Magellan"
+    ],
+    [
+        32.730658,
+        -97.621929,
+        "Aledo TX-Magellan"
+    ],
+    [
+        45.894238,
+        -95.389565,
+        "Alexandria MN-Magellan"
+    ],
+    [
+        40.628687,
+        -75.431217,
+        "Allentown PA-Lucknow"
+    ],
+    [
+        41.65669,
+        -87.70577,
+        "Alsip IL-Valero"
+    ],
+    [
+        40.456745,
+        -78.43137,
+        "Altoona PA-Lucknow"
+    ],
+    [
+        40.466201,
+        -78.434472,
+        "Altoona PA-Sunoco"
+    ],
+    [
+        40.466519,
+        -78.426186,
+        "Altoona PA-Zenith Energy"
+    ],
+    [
+        35.20039,
+        -101.740837,
+        "Amarillo TX-BNSF"
+    ],
+    [
+        35.26509,
+        -101.88681,
+        "Amarillo TX-Nustar"
+    ],
+    [
+        35.264923,
+        -101.89111,
+        "Amarillo TX-Phillips 66"
+    ],
+    [
+        29.671523,
+        -91.164725,
+        "Amelia LA-Martin"
+    ],
+    [
+        32.070534,
+        -84.232132,
+        "Americus GA-TransMontaigne"
+    ],
+    [
+        48.46268,
+        -122.565554,
+        "Anacortes WA-Marathon"
+    ],
+    [
+        33.86653,
+        -117.83863,
+        "Anaheim CA-Torrance Logistics"
+    ],
+    [
+        61.23038,
+        -149.89012,
+        "Anchorage AK-Crowley Fuels"
+    ],
+    [
+        61.208786,
+        -149.862595,
+        "Anchorage AK-Frosty Fuels"
+    ],
+    [
+        61.229808,
+        -149.890956,
+        "Anchorage AK-Tesoro(1076 ODock"
+    ],
+    [
+        61.23427,
+        -149.88883,
+        "Anchorage AK-Tesoro(1522 Port)"
+    ],
+    [
+        33.617485,
+        -85.776285,
+        "Anniston AL-Murphy"
+    ],
+    [
+        35.718552,
+        -78.815346,
+        "Apex NC-Motiva"
+    ],
+    [
+        27.91357,
+        -97.162163,
+        "Aransas Pass TX-Martin"
+    ],
+    [
+        32.563699,
+        -92.955705,
+        "Arcadia LA-Chevron"
+    ],
+    [
+        32.563699,
+        -92.955705,
+        "Arcadia LA-Sunoco"
+    ],
+    [
+        34.20278,
+        -97.11191,
+        "Ardmore OK-Valero"
+    ],
+    [
+        42.023237,
+        -87.951105,
+        "Arlingtn Hghts IL-WShore(Badgr"
+    ],
+    [
+        42.027952,
+        -87.958339,
+        "Arlingtn Hghts IL-WShore(Busse"
+    ],
+    [
+        42.023521,
+        -87.947053,
+        "Arlington Heights IL-ExxonMobl"
+    ],
+    [
+        42.02716,
+        -87.9559,
+        "Arlington Heights IL-Marathon"
+    ],
+    [
+        42.030037,
+        -87.945985,
+        "Arlington Heights IL-Shell Oil"
+    ],
+    [
+        42.02565,
+        -87.94796,
+        "Arlington Hts IL-CIT 2304 Term"
+    ],
+    [
+        42.02565,
+        -87.94796,
+        "Arlington Hts IL-CIT 2304 Term"
+    ],
+    [
+        42.024555,
+        -87.948754,
+        "Arlington Hts IL-CIT 2316 Term"
+    ],
+    [
+        42.024555,
+        -87.948754,
+        "Arlington Hts IL-CIT 2316 Term"
+    ],
+    [
+        32.84267,
+        -104.39082,
+        "Artesia NM-Holly Energy"
+    ],
+    [
+        40.866755,
+        -87.86544,
+        "Ashkum IL-Growmark"
+    ],
+    [
+        39.857101,
+        -75.426964,
+        "Aston PA-Sunoco"
+    ],
+    [
+        39.857101,
+        -75.426964,
+        "Aston PA-Sunoco"
+    ],
+    [
+        34.276105,
+        -83.821558,
+        "Athens GA-Kinder Morgan"
+    ],
+    [
+        34.294506,
+        -83.829329,
+        "Athens GA-TransMontaigne"
+    ],
+    [
+        33.80418,
+        -84.48523,
+        "Atlanta GA-Kinder Morgan"
+    ],
+    [
+        33.80418,
+        -84.48523,
+        "Atlanta GA-Kinder Morgan"
+    ],
+    [
+        31.181983,
+        -87.439137,
+        "Atmore AL-Goodway"
+    ],
+    [
+        39.76004,
+        -104.81416,
+        "Aurora CO-Magellan"
+    ],
+    [
+        39.76004,
+        -104.81416,
+        "Aurora CO-Magellan"
+    ],
+    [
+        41.303791,
+        -81.366943,
+        "Aurora OH-Guttman Realty"
+    ],
+    [
+        41.303791,
+        -81.366943,
+        "Aurora OH-Guttman Realty"
+    ],
+    [
+        30.324438,
+        -97.628978,
+        "Austin TX-Flint Hills"
+    ],
+    [
+        39.7564,
+        -86.37395,
+        "Avon IN-CSX"
+    ],
+    [
+        29.919646,
+        -90.195703,
+        "Avondale LA -IMTT"
+    ],
+    [
+        30.903771,
+        -84.545174,
+        "Bainbridge GA-Motiva"
+    ],
+    [
+        30.903767,
+        -84.542687,
+        "Bainbridge GA-TransMontaigne"
+    ],
+    [
+        35.382083,
+        -119.074259,
+        "Bakersfield CA-A"
+    ],
+    [
+        35.201576,
+        -118.941483,
+        "Bakersfield CA-Kern"
+    ],
+    [
+        35.39536,
+        -119.04653,
+        "Bakersfield CA-San Joaquin Ref"
+    ],
+    [
+        29.82453,
+        -91.5401,
+        "Baldwin LA-Five Star"
+    ],
+    [
+        39.213317,
+        -76.585652,
+        "Baltimore MD-Buckeye"
+    ],
+    [
+        39.24111,
+        -76.57719,
+        "Baltimore MD-Center Point"
+    ],
+    [
+        39.228986,
+        -76.56837,
+        "Baltimore MD-CITGO"
+    ],
+    [
+        39.20841,
+        -76.5866,
+        "Baltimore MD-Kinder Morgan"
+    ],
+    [
+        39.23601,
+        -76.56525,
+        "Baltimore MD-Motiva"
+    ],
+    [
+        39.24375,
+        -76.57716,
+        "Baltimore MD-Nustar"
+    ],
+    [
+        39.2736,
+        -76.56932,
+        "Baltimore MD-Petro Fuel Clintn"
+    ],
+    [
+        39.30368,
+        -76.556557,
+        "Baltimore MD-Petro Fuel Erdman"
+    ],
+    [
+        39.22876,
+        -76.57136,
+        "Baltimore MD-Sunoco"
+    ],
+    [
+        44.862327,
+        -68.83953,
+        "Bangor ME-Buckeye"
+    ],
+    [
+        34.895193,
+        -117.047598,
+        "Barstow CA-BNSF"
+    ],
+    [
+        30.477965,
+        -91.16869,
+        "Baton Rouge LA-ExxonMobil"
+    ],
+    [
+        43.616528,
+        -83.86425,
+        "Bay City MI-Marathon"
+    ],
+    [
+        28.865537,
+        -96.026737,
+        "Bay City TX-Sunoco"
+    ],
+    [
+        40.6632,
+        -74.10598,
+        "Bayonne NJ-Buckeye"
+    ],
+    [
+        40.657818,
+        -74.102494,
+        "Bayonne NJ-IMTT"
+    ],
+    [
+        29.997422,
+        -94.069582,
+        "Beaumont TX-Motiva"
+    ],
+    [
+        29.983989,
+        -94.060649,
+        "Beaumont TX-Sunoco"
+    ],
+    [
+        34.660772,
+        -106.767192,
+        "Belen NM-BNSF"
+    ],
+    [
+        40.123892,
+        -79.87581,
+        "Belle Vernon PA-Guttman Realty"
+    ],
+    [
+        41.11611,
+        -95.93162,
+        "Bellevue NE-Magellan"
+    ],
+    [
+        41.265325,
+        -82.79473,
+        "Bellevue OH-Marathon"
+    ],
+    [
+        34.522316,
+        -82.493646,
+        "Belton SC-Buckeye"
+    ],
+    [
+        34.549708,
+        -82.492332,
+        "Belton SC-Marathon"
+    ],
+    [
+        38.07516,
+        -122.14337,
+        "Benicia CA-Valero"
+    ],
+    [
+        38.07516,
+        -122.14337,
+        "Benicia CA-Valero"
+    ],
+    [
+        29.667581,
+        -91.238013,
+        "Berwick LA-Martin"
+    ],
+    [
+        41.52355,
+        -90.48856,
+        "Bettendorf IA-Buckeye"
+    ],
+    [
+        41.52851,
+        -90.46707,
+        "Bettendorf IA-Magellan"
+    ],
+    [
+        41.52335,
+        -90.491646,
+        "Bettendorf IA-US Oil"
+    ],
+    [
+        42.12685,
+        -76.96274,
+        "Big Fs NY-Sunoco LLC"
+    ],
+    [
+        32.565175,
+        -95.137475,
+        "Big Sandy TX-Delek"
+    ],
+    [
+        32.266025,
+        -101.420425,
+        "Big Spring TX-A"
+    ],
+    [
+        32.266025,
+        -101.420425,
+        "Big Spring TX-A"
+    ],
+    [
+        45.806385,
+        -108.433449,
+        "Billings MT-ExxonMobil"
+    ],
+    [
+        45.780025,
+        -108.49432,
+        "Billings MT-Phillips 66"
+    ],
+    [
+        33.47831,
+        -86.85429,
+        "Birmingham AL-Buckeye"
+    ],
+    [
+        33.458907,
+        -86.87933,
+        "Birmingham AL-Chevron"
+    ],
+    [
+        33.45745,
+        -86.87713,
+        "Birmingham AL-Circle K Termina"
+    ],
+    [
+        33.46126,
+        -86.87783,
+        "Birmingham AL-CITGO"
+    ],
+    [
+        33.458321,
+        -86.880854,
+        "Birmingham AL-Equi"
+    ],
+    [
+        33.45936,
+        -86.87525,
+        "Birmingham AL-Kinder Morgan"
+    ],
+    [
+        33.45999,
+        -86.87263,
+        "Birmingham AL-Magellan"
+    ],
+    [
+        33.45439,
+        -86.878782,
+        "Birmingham AL-Marathon"
+    ],
+    [
+        48.88449,
+        -122.73745,
+        "Blaine WA-BP West Coast"
+    ],
+    [
+        34.060725,
+        -117.369832,
+        "Bloomington CA- P66"
+    ],
+    [
+        34.059422,
+        -117.36719,
+        "Bloomington CA-SFPP - KM"
+    ],
+    [
+        34.05783,
+        -117.3701,
+        "Bloomington CA-Tesoro"
+    ],
+    [
+        41.655591,
+        -87.700407,
+        "Blue Island IL-Nustar"
+    ],
+    [
+        25.960594,
+        -97.37927,
+        "Bluewing Royal LLC"
+    ],
+    [
+        43.607288,
+        -116.251701,
+        "Boise ID-Marathon"
+    ],
+    [
+        43.607161,
+        -116.256578,
+        "Boise ID-Sinclair"
+    ],
+    [
+        43.59697,
+        -116.197174,
+        "Boise ID-United Products"
+    ],
+    [
+        32.79948,
+        -88.051331,
+        "Boligee AL-ERPC"
+    ],
+    [
+        35.96016,
+        -90.838,
+        "Bono AR-Murphy"
+    ],
+    [
+        40.05579,
+        -74.77534,
+        "Bordentown NJ-Interstate S&P"
+    ],
+    [
+        35.670277,
+        -101.391205,
+        "Borger TX-Chevrn Phillps (119E"
+    ],
+    [
+        35.681947,
+        -101.378152,
+        "Borger TX-Phillips 66 (119N)"
+    ],
+    [
+        32.55369,
+        -93.66926,
+        "Bossier City LA-ERPC"
+    ],
+    [
+        32.55369,
+        -93.66926,
+        "Bossier City LA-ERPC"
+    ],
+    [
+        45.69852,
+        -111.03887,
+        "Bozeman MT-ExxonMobil"
+    ],
+    [
+        45.698385,
+        -111.040951,
+        "Bozeman MT-Phillips 66"
+    ],
+    [
+        41.967096,
+        -78.628476,
+        "Bradford PA-American Refining"
+    ],
+    [
+        41.967096,
+        -78.628476,
+        "Bradford PA-American Refining"
+    ],
+    [
+        42.23293,
+        -70.974762,
+        "Braintree MA-CITGO"
+    ],
+    [
+        29.868706,
+        -89.944066,
+        "Braithwaite LA-Stolthaven"
+    ],
+    [
+        41.27795,
+        -81.62585,
+        "Brecksville OH-Marathon"
+    ],
+    [
+        41.27795,
+        -81.62585,
+        "Brecksville OH-Marathon"
+    ],
+    [
+        33.703014,
+        -85.140916,
+        "Bremen GA-Epic Midstream"
+    ],
+    [
+        43.2436,
+        -76.14428,
+        "Brewerton NY-Buckeye"
+    ],
+    [
+        43.2436,
+        -76.14428,
+        "Brewerton NY-Buckeye"
+    ],
+    [
+        41.168974,
+        -73.161305,
+        "Bridgeport CT-Global"
+    ],
+    [
+        41.166222,
+        -73.202933,
+        "Bridgeport CT-Inland Fuel"
+    ],
+    [
+        41.170846,
+        -73.160748,
+        "Bridgeport CT-Sprague"
+    ],
+    [
+        37.69167,
+        -122.39962,
+        "Brisbane CA-SFPP - KM"
+    ],
+    [
+        41.94261,
+        -72.52599,
+        "Broad Brook CT-Taylor Energy"
+    ],
+    [
+        40.80518,
+        -73.90243,
+        "Bronx NY-Buckeye"
+    ],
+    [
+        40.8391,
+        -73.84093,
+        "Bronx NY-Fred M. Schildwachter"
+    ],
+    [
+        40.80189,
+        -73.90653,
+        "Bronx NY-Sprague"
+    ],
+    [
+        37.158385,
+        -93.42434,
+        "Brookline (Springfield)MO-MGLN"
+    ],
+    [
+        40.71366,
+        -73.932,
+        "Brooklyn NY-Bayside (Grand)"
+    ],
+    [
+        40.590814,
+        -73.997238,
+        "Brooklyn NY-Bayside (Shore)"
+    ],
+    [
+        40.673859,
+        -73.998001,
+        "Brooklyn NY-Bayside (Smith)"
+    ],
+    [
+        40.66893,
+        -74.00254,
+        "Brooklyn NY-Buckeye"
+    ],
+    [
+        40.72828,
+        -73.93824,
+        "Brooklyn NY-Kinder Morgan"
+    ],
+    [
+        40.73372,
+        -73.94253,
+        "Brooklyn NY-United Metro"
+    ],
+    [
+        40.737811,
+        -73.951248,
+        "Brooklyn NY-Zenith Energy"
+    ],
+    [
+        25.960454,
+        -97.369333,
+        "Brownsville TX-ABC Gulf Coast"
+    ],
+    [
+        25.955192,
+        -97.381145,
+        "Brownsville TX-CITGO"
+    ],
+    [
+        25.927073,
+        -97.481384,
+        "Brownsville TX-Maverick"
+    ],
+    [
+        25.961526,
+        -97.382425,
+        "Brownsville TX-One Cypress"
+    ],
+    [
+        25.947013,
+        -97.421956,
+        "Brownsville TX-TransMontaigne"
+    ],
+    [
+        25.95726,
+        -97.407523,
+        "Brownsville TX-TransMontaigne"
+    ],
+    [
+        25.957335,
+        -97.407275,
+        "Brownsville TX-TransMontaigne"
+    ],
+    [
+        30.419143,
+        -81.598355,
+        "Buckeye Terminals, LLC - Jacksonville"
+    ],
+    [
+        44.64694,
+        -68.8254,
+        "Bucksport ME-Webber Tanks"
+    ],
+    [
+        30.036918,
+        -97.677692,
+        "Buda TX-Mustang Ridge"
+    ],
+    [
+        30.036918,
+        -97.677692,
+        "Buda TX-Mustang Ridge"
+    ],
+    [
+        42.862419,
+        -78.8312,
+        "Buffalo NY-Buckeye"
+    ],
+    [
+        42.51623,
+        -113.71333,
+        "Burley ID-Marathon"
+    ],
+    [
+        42.51608,
+        -113.70956,
+        "Burley ID-Sinclair"
+    ],
+    [
+        44.455851,
+        -73.221673,
+        "Burlington VT-Global"
+    ],
+    [
+        33.03682,
+        -96.19801,
+        "Caddo Mills TX-JP Energy"
+    ],
+    [
+        38.58617,
+        -90.179834,
+        "Cahokia IL-Phillips 66"
+    ],
+    [
+        38.58617,
+        -90.179834,
+        "Cahokia IL-Phillips 66"
+    ],
+    [
+        40.13504,
+        -91.518985,
+        "Canton MO-Ayers Oil"
+    ],
+    [
+        40.7899,
+        -81.35729,
+        "Canton OH-Buckeye"
+    ],
+    [
+        40.7899,
+        -81.35729,
+        "Canton OH-Buckeye"
+    ],
+    [
+        40.77032,
+        -81.41731,
+        "Canton OH-Canton Ref Gambrinu"
+    ],
+    [
+        40.77032,
+        -81.41731,
+        "Canton OH-Canton Ref Gambrinu"
+    ],
+    [
+        40.773477,
+        -81.420465,
+        "Canton OH-Mrthn (2419 Gambrins"
+    ],
+    [
+        40.773477,
+        -81.420465,
+        "Canton OH-Mrthn (2419 Gambrins"
+    ],
+    [
+        28.414427,
+        -80.615456,
+        "Cape Canaveral FL-Seaport"
+    ],
+    [
+        28.40458,
+        -80.60315,
+        "Cape Canaveral FL-TransMontaig"
+    ],
+    [
+        37.28524,
+        -89.52835,
+        "Cape Girardeau MO-TransMontaig"
+    ],
+    [
+        39.358509,
+        -93.49649,
+        "Carrollton MO-Sinclair"
+    ],
+    [
+        33.80283,
+        -118.231382,
+        "Carson CA-Kinder Morgan"
+    ],
+    [
+        33.84292,
+        -118.24165,
+        "Carson CA-Shell Oil"
+    ],
+    [
+        33.80909,
+        -118.23119,
+        "Carson CA-Tesoro"
+    ],
+    [
+        33.833171,
+        -118.290666,
+        "Carson CA-Torrance"
+    ],
+    [
+        40.592072,
+        -74.223564,
+        "Carteret NJ-Kinder (Lafayette)"
+    ],
+    [
+        40.592072,
+        -74.223564,
+        "Carteret NJ-Kinder (Lafayette)"
+    ],
+    [
+        40.59006,
+        -74.22517,
+        "Carteret NJ-Kinder (Roosevelt)"
+    ],
+    [
+        40.59006,
+        -74.22517,
+        "Carteret NJ-Kinder (Roosevelt)"
+    ],
+    [
+        42.862491,
+        -106.38949,
+        "Casper  WY-Sinclair"
+    ],
+    [
+        42.862491,
+        -106.38949,
+        "Casper WY-Sinclair"
+    ],
+    [
+        38.383646,
+        -82.599665,
+        "Catlettsburg KY-C-burg Refing"
+    ],
+    [
+        38.325062,
+        -82.579971,
+        "Catlettsburg KY-Marathon"
+    ],
+    [
+        37.75334,
+        -113.24252,
+        "Cedar City  UT-UNEV"
+    ],
+    [
+        30.10607,
+        -97.41698,
+        "Cedar Creek TX-Flint Hills"
+    ],
+    [
+        31.79738,
+        -94.14378,
+        "Center TX-Sunoco"
+    ],
+    [
+        29.933423,
+        -89.967648,
+        "Chalmette LA-PBF Chalmette Ref"
+    ],
+    [
+        40.111523,
+        -88.314567,
+        "Champaign IL-Marathon"
+    ],
+    [
+        41.419491,
+        -88.194054,
+        "Channahon IL-IMTT"
+    ],
+    [
+        29.76751,
+        -95.10286,
+        "Channelview TX-K-Solv"
+    ],
+    [
+        29.76143,
+        -95.10387,
+        "Channelview TX-Targa"
+    ],
+    [
+        32.82401,
+        -79.94775,
+        "Charleston SC-Kinder Morgan"
+    ],
+    [
+        38.342285,
+        -81.63403,
+        "Charleston WV-Marathon"
+    ],
+    [
+        35.281265,
+        -80.934797,
+        "Charlotte NC-CITGO"
+    ],
+    [
+        35.280495,
+        -80.936874,
+        "Charlotte NC-Coial"
+    ],
+    [
+        35.27819,
+        -80.93901,
+        "Charlotte NC-KM (Freedom)"
+    ],
+    [
+        35.27739,
+        -80.92832,
+        "Charlotte NC-KM (Mt Holly)"
+    ],
+    [
+        35.28552,
+        -80.9387,
+        "Charlotte NC-KM (Sadler)"
+    ],
+    [
+        35.27942,
+        -80.94051,
+        "Charlotte NC-Motiva (Freedom)"
+    ],
+    [
+        35.28203,
+        -80.9376,
+        "Charlotte NC-Motiva (Tom Sadlr"
+    ],
+    [
+        35.27693,
+        -80.93097,
+        "Charlotte NC-Mrthn 7401 MHolly"
+    ],
+    [
+        35.28106,
+        -80.94074,
+        "Charlotte NC-Mrthn 8035 MHolly"
+    ],
+    [
+        35.27795,
+        -80.9341,
+        "Charlotte NC-TransMontaigne"
+    ],
+    [
+        35.067719,
+        -85.194435,
+        "Chattanooga TN-CITGO"
+    ],
+    [
+        35.066894,
+        -85.199756,
+        "Chattanooga TN-Coial"
+    ],
+    [
+        35.07272,
+        -85.19516,
+        "Chattanooga TN-Kinder Morgan"
+    ],
+    [
+        45.64862,
+        -84.4697,
+        "Cheboygan MI-US Oil"
+    ],
+    [
+        42.386781,
+        -71.043491,
+        "Chelsea MA-Global"
+    ],
+    [
+        42.39477,
+        -71.021101,
+        "Chelsea MA-Gulf Oil LP"
+    ],
+    [
+        36.78364,
+        -76.29873,
+        "Chesapeake VA-Buckeye"
+    ],
+    [
+        36.80496,
+        -76.28721,
+        "Chesapeake VA-Center Point"
+    ],
+    [
+        36.78771,
+        -76.29811,
+        "Chesapeake VA-CITGO"
+    ],
+    [
+        36.77681,
+        -76.31425,
+        "Chesapeake VA-Gas Supply Rsrcs"
+    ],
+    [
+        36.7753,
+        -76.30489,
+        "Chesapeake VA-IMTT"
+    ],
+    [
+        36.784657,
+        -76.296789,
+        "Chesapeake VA-Kinder M (Buell)"
+    ],
+    [
+        36.792507,
+        -76.28717,
+        "Chesapeake VA-Kinder M (Hill)"
+    ],
+    [
+        36.81893,
+        -76.28528,
+        "Chesapeake VA-TransMontaigne"
+    ],
+    [
+        36.820914,
+        -76.285334,
+        "Chesapeake VA-Zenith Energy"
+    ],
+    [
+        41.12504,
+        -104.79711,
+        "Cheyenne WY-Holly Energy"
+    ],
+    [
+        41.107925,
+        -104.828917,
+        "Cheyenne WY-Magellan"
+    ],
+    [
+        30.76312,
+        -88.05236,
+        "Chichasaw AL-Center Point"
+    ],
+    [
+        39.7079,
+        -121.81246,
+        "Chico CA-SFPP - KM"
+    ],
+    [
+        44.877498,
+        -91.430242,
+        "Chippewa Falls WI-CHS"
+    ],
+    [
+        44.89547,
+        -91.41434,
+        "Chippewa Falls WI-US Oil"
+    ],
+    [
+        39.0899,
+        -84.64376,
+        "Cincinnati OH-Buckeye"
+    ],
+    [
+        39.17025,
+        -84.48234,
+        "Cincinnati OH-Kinder Morgan"
+    ],
+    [
+        39.076502,
+        -84.608386,
+        "Cincinnati OH-Marathon"
+    ],
+    [
+        43.137695,
+        -93.354652,
+        "Clear Lake (Mason) IA-Magellan"
+    ],
+    [
+        41.48796,
+        -81.68435,
+        "Cleveland OH-Buckeye"
+    ],
+    [
+        41.464905,
+        -81.667831,
+        "Cleveland OH-Sunoco"
+    ],
+    [
+        41.497131,
+        -81.700249,
+        "Cleveland OH-Zenith Energy"
+    ],
+    [
+        37.049065,
+        -95.605045,
+        "Coffeyville KS-Cofeyville Term"
+    ],
+    [
+        40.77837,
+        -73.84833,
+        "College Point NY-Energy Consv"
+    ],
+    [
+        31.63275,
+        -89.557861,
+        "Collins MS-Chevron"
+    ],
+    [
+        31.62312,
+        -89.54111,
+        "Collins MS-Equi"
+    ],
+    [
+        31.623159,
+        -89.541,
+        "Collins MS-Kinder Morgan"
+    ],
+    [
+        31.643425,
+        -89.55623,
+        "Collins MS-TransMontaigne"
+    ],
+    [
+        31.640386,
+        -89.507211,
+        "Coial Pipeline Company - Collins"
+    ],
+    [
+        35.551523,
+        -78.307736,
+        "Coial Pipeline Company - Selma"
+    ],
+    [
+        38.783165,
+        -104.676605,
+        "Colorado Springs CO-Nustar"
+    ],
+    [
+        34.05913,
+        -117.36833,
+        "Colton CA-Shell Oil"
+    ],
+    [
+        38.882156,
+        -92.247437,
+        "Columbia MO-Magellan"
+    ],
+    [
+        32.52183,
+        -84.9082,
+        "Columbus GA-Marathon (Miller)"
+    ],
+    [
+        32.4478,
+        -84.98418,
+        "Columbus GA-Omega Part(Lumpkin"
+    ],
+    [
+        32.522674,
+        -84.903302,
+        "Columbus GA-Omega Part(Miller)"
+    ],
+    [
+        32.52404,
+        -84.90414,
+        "Columbus GA-Saratoga RP East"
+    ],
+    [
+        41.43058,
+        -97.359009,
+        "Columbus NE-Nustar"
+    ],
+    [
+        39.965797,
+        -83.111281,
+        "Columbus OH-BenchMark"
+    ],
+    [
+        39.96605,
+        -83.0984,
+        "Columbus OH-Buckeye (Fisher)"
+    ],
+    [
+        39.96046,
+        -83.09544,
+        "Columbus OH-Buckeye (Wilson)"
+    ],
+    [
+        39.96735,
+        -83.10285,
+        "Columbus OH-Mrthn (3855 Fisher"
+    ],
+    [
+        39.96875,
+        -83.10957,
+        "Columbus OH-Mrthn (4125 Fisher"
+    ],
+    [
+        39.95355,
+        -83.09363,
+        "Columbus OH-Sunoco (3499 W.Bro"
+    ],
+    [
+        39.9683,
+        -83.10315,
+        "Columbus OH-Sunoco (3866 Fishe"
+    ],
+    [
+        33.992573,
+        -118.143925,
+        "Commerce CA-BNSF"
+    ],
+    [
+        39.79859,
+        -104.94392,
+        "Commerce City CO-Nustar"
+    ],
+    [
+        39.796648,
+        -104.939937,
+        "Commerce City CO-Phillips 66"
+    ],
+    [
+        39.87282,
+        -104.88593,
+        "Commerce City CO-Sinclair"
+    ],
+    [
+        39.87282,
+        -104.88593,
+        "Commerce City CO-Sinclair"
+    ],
+    [
+        39.79855,
+        -104.951241,
+        "Commerce City CO-Suncor 5575"
+    ],
+    [
+        39.800669,
+        -104.946255,
+        "Commerce City CO-Suncor 5800"
+    ],
+    [
+        30.020639,
+        -90.829979,
+        "Convent LA-Equi"
+    ],
+    [
+        41.682703,
+        -91.565579,
+        "Coralville(Iowa City) IA-Mglln"
+    ],
+    [
+        41.682703,
+        -91.565579,
+        "Coralville(Iowa City) IA-Mglln"
+    ],
+    [
+        40.526986,
+        -80.180417,
+        "Coraopolis PA-Buckeye (Rte 51)"
+    ],
+    [
+        40.526986,
+        -80.180417,
+        "Coraopolis PA-Buckeye (Unvrsty"
+    ],
+    [
+        40.526986,
+        -80.180417,
+        "Coraopolis PA-Lucknow(TCN 1759"
+    ],
+    [
+        40.524963,
+        -80.173772,
+        "Coraopolis PA-Lucknow(TCN 1780"
+    ],
+    [
+        27.82912,
+        -97.49826,
+        "Corpus Christi TX-BE (Mrvin B"
+    ],
+    [
+        27.8164,
+        -97.50565,
+        "Corpus Christi TX-BE(Sminerals"
+    ],
+    [
+        27.806581,
+        -97.430644,
+        "Corpus Christi TX-CITGO"
+    ],
+    [
+        27.818859,
+        -97.520218,
+        "Corpus Christi TX-Flint Hills"
+    ],
+    [
+        27.811396,
+        -97.431737,
+        "Corpus Christi TX-Magellan"
+    ],
+    [
+        27.818872,
+        -97.488457,
+        "Corpus Christi TX-Valero"
+    ],
+    [
+        41.29648,
+        -73.94507,
+        "Cortlandt Manor NY-Meenan"
+    ],
+    [
+        32.810889,
+        -93.420519,
+        "Cotton Valley LA-Calumet"
+    ],
+    [
+        41.213458,
+        -95.831507,
+        "Council Bluffs IA-Buckeye"
+    ],
+    [
+        41.217891,
+        -95.834371,
+        "Council Bluffs IA-NuStar"
+    ],
+    [
+        39.053013,
+        -84.499656,
+        "Covington KY-Marathon"
+    ],
+    [
+        39.07299,
+        -84.58691,
+        "Covington KY-TransMontaigne"
+    ],
+    [
+        38.05205,
+        -122.24671,
+        "Crockett CA-Shore"
+    ],
+    [
+        41.42702,
+        -81.65755,
+        "Cuyahoga Heights OH-Buckeye"
+    ],
+    [
+        34.87608,
+        -116.88562,
+        "Daggett CA-Calnev"
+    ],
+    [
+        32.77651,
+        -96.88933,
+        "Dallas TX-Magellan"
+    ],
+    [
+        32.77523,
+        -96.886642,
+        "Dallas TX-Motiva"
+    ],
+    [
+        26.16771,
+        -80.130926,
+        "Dania Beach FL-Vecenergy (Val)"
+    ],
+    [
+        39.78794,
+        -84.16054,
+        "Dayton OH-Buckeye"
+    ],
+    [
+        39.78909,
+        -84.16426,
+        "Dayton OH-CITGO"
+    ],
+    [
+        39.7856,
+        -84.16236,
+        "Dayton OH-Kinder Morgan"
+    ],
+    [
+        39.786926,
+        -84.163658,
+        "Dayton OH-Sunoco"
+    ],
+    [
+        42.29459,
+        -83.14425,
+        "Dearborn MI-Waterfront Petrol"
+    ],
+    [
+        29.729455,
+        -95.090799,
+        "Deer Park TX-Intercontinental"
+    ],
+    [
+        29.70397,
+        -95.09324,
+        "Deer Park TX-Vopak"
+    ],
+    [
+        39.581695,
+        -75.614902,
+        "Delaware City DE-De Cty Lgstcs"
+    ],
+    [
+        40.402155,
+        -79.593445,
+        "Delmont PA-Lucknow"
+    ],
+    [
+        40.428902,
+        -79.577176,
+        "Delmont PA-Sunoco"
+    ],
+    [
+        41.60245,
+        -93.73387,
+        "Des Moines IA-Buckeye"
+    ],
+    [
+        41.56127,
+        -93.52588,
+        "Des Moines IA-Magellan"
+    ],
+    [
+        42.28305,
+        -83.14131,
+        "Detroit MI-Buckeye"
+    ],
+    [
+        42.28056,
+        -83.15543,
+        "Detroit MI-Marathon (Fort)"
+    ],
+    [
+        42.276205,
+        -83.14874,
+        "Detroit MI-Marathon (Toronto)"
+    ],
+    [
+        42.294,
+        -83.15448,
+        "Detroit MI-Sunoco"
+    ],
+    [
+        42.304304,
+        -83.090947,
+        "Detroit MI-Waterfront Petrol"
+    ],
+    [
+        46.85674,
+        -102.89867,
+        "Dickinson ND-Dakota Prairie"
+    ],
+    [
+        40.751026,
+        -98.373706,
+        "Doniphan NE-Magellan"
+    ],
+    [
+        33.91091,
+        -84.27333,
+        "Doraville GA-Chevron"
+    ],
+    [
+        33.91091,
+        -84.27333,
+        "Doraville GA-Chevron"
+    ],
+    [
+        33.90883,
+        -84.27489,
+        "Doraville GA-CITGO"
+    ],
+    [
+        33.90883,
+        -84.27489,
+        "Doraville GA-CITGO"
+    ],
+    [
+        33.911281,
+        -84.2678,
+        "Doraville GA-KM (Peachtree)"
+    ],
+    [
+        33.911281,
+        -84.2678,
+        "Doraville GA-KM (Peachtree)"
+    ],
+    [
+        33.91247,
+        -84.27337,
+        "Doraville GA-KM (Winters Chapl"
+    ],
+    [
+        33.91247,
+        -84.27337,
+        "Doraville GA-KM (Winters Chapl"
+    ],
+    [
+        33.90867,
+        -84.27108,
+        "Doraville GA-Marathon"
+    ],
+    [
+        33.90867,
+        -84.27108,
+        "Doraville GA-Marathon"
+    ],
+    [
+        33.91429,
+        -84.2686,
+        "Doraville GA-MOT(4127WintrChap"
+    ],
+    [
+        33.91429,
+        -84.2686,
+        "Doraville GA-MOT(4127WintrChap"
+    ],
+    [
+        33.91526,
+        -84.26827,
+        "Doraville GA-MOT(4143WintrsChp"
+    ],
+    [
+        33.91526,
+        -84.26827,
+        "Doraville GA-MOT(4143WintrsChp"
+    ],
+    [
+        33.91747,
+        -84.2721,
+        "Doraville GA-TransMontaigne"
+    ],
+    [
+        33.91747,
+        -84.2721,
+        "Doraville GA-TransMontaigne"
+    ],
+    [
+        43.019664,
+        -105.26106,
+        "Douglas WY-Antelope Refining"
+    ],
+    [
+        40.35415,
+        -79.88079,
+        "Dravosburg PA-Watco"
+    ],
+    [
+        40.10151,
+        -83.19044,
+        "Dublin OH-CITGO"
+    ],
+    [
+        40.10151,
+        -83.19044,
+        "Dublin OH-CITGO"
+    ],
+    [
+        42.41239,
+        -90.73052,
+        "Dubuque IA-Magellan"
+    ],
+    [
+        29.335101,
+        -90.742778,
+        "Dulac LA-Martin"
+    ],
+    [
+        42.468571,
+        -93.992188,
+        "Duncombe IA-Growmark"
+    ],
+    [
+        39.84537,
+        -104.91559,
+        "DuPont CO-Magellan"
+    ],
+    [
+        41.28747,
+        -72.88155,
+        "E Haven CT-New Havn Term (Frnt"
+    ],
+    [
+        40.61925,
+        -80.56688,
+        "E Liverpool OH-TransMontaigne"
+    ],
+    [
+        40.61925,
+        -80.56688,
+        "E Liverpool OH-TransMontaigne"
+    ],
+    [
+        42.38169,
+        -71.02476,
+        "East Boston MA-Sunoco"
+    ],
+    [
+        41.64283,
+        -87.46739,
+        "East Chicago IN-Buckeye"
+    ],
+    [
+        41.64283,
+        -87.46739,
+        "East Chicago IN-Buckeye"
+    ],
+    [
+        41.627513,
+        -87.442138,
+        "East Chicago IN-CITGO"
+    ],
+    [
+        41.627513,
+        -87.442138,
+        "East Chicago IN-CITGO"
+    ],
+    [
+        41.77641,
+        -72.63982,
+        "East Hartford CT-Sterling"
+    ],
+    [
+        41.786281,
+        -71.337361,
+        "East Providence RI-ExxonMobil"
+    ],
+    [
+        41.786281,
+        -71.337361,
+        "East Providence RI-ExxonMobil"
+    ],
+    [
+        41.83218,
+        -71.37002,
+        "East Providence RI-Sprague"
+    ],
+    [
+        41.83218,
+        -71.37002,
+        "East Providence RI-Sprague"
+    ],
+    [
+        44.88678,
+        -91.50948,
+        "Eau Claire WI-Nrthrn State Pwr"
+    ],
+    [
+        26.379708,
+        -98.145473,
+        "Edinburg TX-Nustar"
+    ],
+    [
+        41.25734,
+        -75.9054,
+        "Edwardsville PA-Sunoco"
+    ],
+    [
+        41.25734,
+        -75.9054,
+        "Edwardsville PA-Sunoco"
+    ],
+    [
+        39.174905,
+        -88.519894,
+        "Effingham IL-Buckeye"
+    ],
+    [
+        33.201383,
+        -92.673635,
+        "El Dorado AR-Delek"
+    ],
+    [
+        37.80537,
+        -96.88042,
+        "El Dorado KS-Holly Energy"
+    ],
+    [
+        33.566877,
+        -112.320683,
+        "El Mirage  AZ-Pro Petroleum"
+    ],
+    [
+        31.77029,
+        -106.38748,
+        "El Paso TX-Holly Energy"
+    ],
+    [
+        31.82049,
+        -106.21082,
+        "El Paso TX-Magellan"
+    ],
+    [
+        31.772971,
+        -106.399843,
+        "El Paso TX-Marathon"
+    ],
+    [
+        31.818978,
+        -106.260149,
+        "El Paso TX-Nustar"
+    ],
+    [
+        33.91585,
+        -118.41901,
+        "El Segundo CA-Chevron"
+    ],
+    [
+        33.91585,
+        -118.41901,
+        "El Segundo CA-Chevron"
+    ],
+    [
+        21.89962,
+        -159.585859,
+        "Eleele HI-IES Downstream"
+    ],
+    [
+        42.001945,
+        -87.94012,
+        "Elk Grove Village IL-Kinder M"
+    ],
+    [
+        41.66488,
+        -86.0177,
+        "Elkhart IN-Norfolk Southern"
+    ],
+    [
+        36.40968,
+        -97.836664,
+        "Enid OK-Magellan"
+    ],
+    [
+        44.090969,
+        -123.157478,
+        "Eugene OR-SFPP - KM"
+    ],
+    [
+        32.81669,
+        -97.0997,
+        "Euless TX-Flint Hills"
+    ],
+    [
+        32.81669,
+        -97.0997,
+        "Euless TX-Flint Hills"
+    ],
+    [
+        32.81252,
+        -97.09192,
+        "Euless TX-Sunoco LLC"
+    ],
+    [
+        32.81252,
+        -97.09192,
+        "Euless TX-Sunoco LLC"
+    ],
+    [
+        40.776755,
+        -124.194124,
+        "Eureka CA-Chevron"
+    ],
+    [
+        41.26029,
+        -110.80679,
+        "Evanston WY-Silver Eagle"
+    ],
+    [
+        37.970509,
+        -87.603035,
+        "Evansville IN-Marathon"
+    ],
+    [
+        37.96721,
+        -87.60607,
+        "Evansville IN-TransMontaigne"
+    ],
+    [
+        42.85491,
+        -106.24958,
+        "Evansville WY-Phillips 66"
+    ],
+    [
+        42.396755,
+        -71.060994,
+        "Everett MA-ExxonMobil"
+    ],
+    [
+        40.02998,
+        -75.6147,
+        "Exton PA-Sunoco"
+    ],
+    [
+        40.02998,
+        -75.6147,
+        "Exton PA-Sunoco"
+    ],
+    [
+        44.00109,
+        -92.25177,
+        "Eyota MN-Magellan"
+    ],
+    [
+        38.84657,
+        -77.27795,
+        "Fairfax VA-Buckeye"
+    ],
+    [
+        38.84892,
+        -77.27794,
+        "Fairfax VA-CITGO"
+    ],
+    [
+        38.850056,
+        -77.271072,
+        "Fairfax VA-Motiva"
+    ],
+    [
+        38.84949,
+        -77.27465,
+        "Fairfax VA-TransMontaigne"
+    ],
+    [
+        35.114992,
+        -78.917788,
+        "Fayetteville NC-Motiva"
+    ],
+    [
+        48.834047,
+        -122.699792,
+        "Ferndale WA-Petrogas"
+    ],
+    [
+        48.82863,
+        -122.68813,
+        "Ferndale WA-Phillips 66"
+    ],
+    [
+        43.080593,
+        -86.23156,
+        "Ferrysburg MI-Buckeye"
+    ],
+    [
+        43.081963,
+        -86.222296,
+        "Ferrysburg MI-CITGO"
+    ],
+    [
+        43.08599,
+        -83.67285,
+        "Flint MI-Buckeye"
+    ],
+    [
+        34.983789,
+        -85.332994,
+        "Flintstone GA-TransMontaigne"
+    ],
+    [
+        40.767899,
+        -73.840371,
+        "Flushing NY-Lefferts"
+    ],
+    [
+        41.804191,
+        -87.798622,
+        "Forest View IL-Kinder Morgan"
+    ],
+    [
+        41.805864,
+        -87.797491,
+        "Forest View IL-Petroleum Fuel"
+    ],
+    [
+        41.804905,
+        -87.80184,
+        "Forest Vw IL-WShore Pipe"
+    ],
+    [
+        39.935146,
+        -88.951476,
+        "Forsyth IL-Buckeye"
+    ],
+    [
+        35.309639,
+        -94.394081,
+        "Fort Smith AR-Magellan"
+    ],
+    [
+        32.80187,
+        -97.30809,
+        "Fort Worth TX-Motiva"
+    ],
+    [
+        32.80187,
+        -97.30809,
+        "Fort Worth TX-Motiva"
+    ],
+    [
+        32.789391,
+        -97.327141,
+        "Fort Worth TX-U.S. Oil-South"
+    ],
+    [
+        32.789391,
+        -97.327141,
+        "Fort Worth TX-U.S. Oil-South"
+    ],
+    [
+        32.81955,
+        -97.34847,
+        "Fort Worth TX-US Oil"
+    ],
+    [
+        32.81955,
+        -97.34847,
+        "Fort Worth TX-US Oil"
+    ],
+    [
+        38.668264,
+        -104.702549,
+        "Fountain CO-Magellan"
+    ],
+    [
+        41.93982,
+        -87.89439,
+        "Franklin Park IL-Magellan"
+    ],
+    [
+        39.98188,
+        -75.36543,
+        "Frazer PA-Buckeye"
+    ],
+    [
+        38.284781,
+        -77.45173,
+        "Fredericksburg VA-Lincoln"
+    ],
+    [
+        38.284781,
+        -77.45173,
+        "Fredericksburg VA-Lincoln"
+    ],
+    [
+        30.492424,
+        -86.137689,
+        "Freeport FL-Murphy"
+    ],
+    [
+        30.492424,
+        -86.137689,
+        "Freeport FL-Murphy"
+    ],
+    [
+        36.675205,
+        -119.747955,
+        "Fresno CA-SFPP - KM"
+    ],
+    [
+        39.16957,
+        -108.76098,
+        "Fruita CO-GldnGate/SET (Hwy 6)"
+    ],
+    [
+        39.15046,
+        -108.663939,
+        "Fruita CO-GldnGate/SET(21 Road"
+    ],
+    [
+        26.09767,
+        -80.12764,
+        "Ft Lauderdale FL-Buckeye"
+    ],
+    [
+        26.09179,
+        -80.12827,
+        "Ft Lauderdale FL-Chevron"
+    ],
+    [
+        26.08956,
+        -80.1347,
+        "Ft Lauderdale FL-CITGO"
+    ],
+    [
+        26.09184,
+        -80.13095,
+        "Ft Lauderdale FL-ExxonMobil"
+    ],
+    [
+        26.09167,
+        -80.12994,
+        "Ft Lauderdale FL-MOT(Spangler)"
+    ],
+    [
+        26.0886,
+        -80.13076,
+        "Ft Lauderdale FL-Motiva"
+    ],
+    [
+        26.09056,
+        -80.12761,
+        "Ft Lauderdale FL-Motiva (26th)"
+    ],
+    [
+        26.09771,
+        -80.12634,
+        "Ft Lauderdale FL-Mrthon (20th)"
+    ],
+    [
+        26.093133,
+        -80.134166,
+        "Ft Lauderdale FL-Mrthon (24th)"
+    ],
+    [
+        26.08603,
+        -80.12615,
+        "Ft Lauderdale FL-PtEv EnrgyCnt"
+    ],
+    [
+        26.08994,
+        -80.12863,
+        "Ft Lauderdale FL-TPSI 14th Ave"
+    ],
+    [
+        26.09404,
+        -80.12475,
+        "Ft Lauderdale FL-TPSI Eisenhow"
+    ],
+    [
+        29.744803,
+        -95.209089,
+        "Galena Park TX-Chevron"
+    ],
+    [
+        29.73136,
+        -95.23563,
+        "Galena Park TX-KM(1500 Clinton"
+    ],
+    [
+        29.728987,
+        -95.227111,
+        "Galena Park TX-KM(906 Clinton)"
+    ],
+    [
+        29.74098,
+        -95.212365,
+        "Galena Park TX-Magellan"
+    ],
+    [
+        29.32537,
+        -94.78737,
+        "Galveston TX-Martin"
+    ],
+    [
+        30.07649,
+        -90.58812,
+        "Garyville LA-Marathon (Hwy 61)"
+    ],
+    [
+        30.070622,
+        -90.593908,
+        "Garyville LA-Mrthn (Sugarcane)"
+    ],
+    [
+        30.21656,
+        -91.00469,
+        "Geismar LA-REG"
+    ],
+    [
+        30.21656,
+        -91.00469,
+        "Geismar LA-REG"
+    ],
+    [
+        40.5853,
+        -97.595865,
+        "Geneva NE-Nustar"
+    ],
+    [
+        44.032055,
+        -105.465083,
+        "Gillette WY-Equitable Oil"
+    ],
+    [
+        47.172962,
+        -104.815231,
+        "Glendive MT-CHS"
+    ],
+    [
+        42.58298,
+        -73.7663,
+        "Glenmont NY-Center Point"
+    ],
+    [
+        42.58298,
+        -73.7663,
+        "Glenmont NY-Center Point"
+    ],
+    [
+        42.5863,
+        -73.76704,
+        "Glenmont NY-CITGO"
+    ],
+    [
+        42.5863,
+        -73.76704,
+        "Glenmont NY-CITGO"
+    ],
+    [
+        40.828955,
+        -73.647575,
+        "Glenwood Landing NY-Global"
+    ],
+    [
+        29.132824,
+        -90.199778,
+        "Golden Meadow LA-Martin"
+    ],
+    [
+        41.30543,
+        -82.02065,
+        "Grafton OH-Buckeye"
+    ],
+    [
+        47.933443,
+        -97.086226,
+        "Grand Forks ND-Magellan"
+    ],
+    [
+        41.75048,
+        -86.11538,
+        "Granger IN-Buckeye"
+    ],
+    [
+        41.75048,
+        -86.11538,
+        "Granger IN-Buckeye"
+    ],
+    [
+        41.75048,
+        -86.11538,
+        "Granger IN-Buckeye"
+    ],
+    [
+        32.921141,
+        -97.11756,
+        "Grapevine TX-Magellan"
+    ],
+    [
+        32.921141,
+        -97.11756,
+        "Grapevine TX-Magellan"
+    ],
+    [
+        32.92941,
+        -97.1009,
+        "Grapevine TX-Nustar"
+    ],
+    [
+        38.368619,
+        -98.691984,
+        "Great Bend KS-Magellan"
+    ],
+    [
+        47.522603,
+        -111.290465,
+        "Great Falls MT-Calumet"
+    ],
+    [
+        47.52226,
+        -111.22117,
+        "Great Falls MT-Phillips 66"
+    ],
+    [
+        44.53752,
+        -88.01824,
+        "Green Bay WI-CITGO"
+    ],
+    [
+        44.54199,
+        -88.02182,
+        "Green Bay WI-Marathon"
+    ],
+    [
+        44.53002,
+        -88.01134,
+        "Green Bay WI-US Oil (Broadway)"
+    ],
+    [
+        44.54086,
+        -88.02342,
+        "Green Bay WI-US Oil (Hurlbut)"
+    ],
+    [
+        44.53346,
+        -88.01322,
+        "Green Bay WI-US Oil (Prairie)"
+    ],
+    [
+        44.53213,
+        -87.99433,
+        "Green Bay WI-US Oil (Quincy)"
+    ],
+    [
+        44.533318,
+        -87.999847,
+        "Green Bay WI-West Shore Pipeli"
+    ],
+    [
+        36.07971,
+        -79.92495,
+        "Greensboro NC-Center Point"
+    ],
+    [
+        36.07482,
+        -79.93438,
+        "Greensboro NC-KM (Burnt Poplr)"
+    ],
+    [
+        36.0782,
+        -79.92647,
+        "Greensboro NC-KM (Market)"
+    ],
+    [
+        36.075737,
+        -79.918563,
+        "Greensboro NC-Motiva"
+    ],
+    [
+        36.07667,
+        -79.92189,
+        "Greensboro NC-TransMontaigne"
+    ],
+    [
+        40.302898,
+        -79.54409,
+        "Greensburg PA-Buckeye"
+    ],
+    [
+        33.425121,
+        -91.049667,
+        "Greenville MS-Scott Petroleum"
+    ],
+    [
+        33.40498,
+        -91.06912,
+        "Greenville MS-TPSI (Short Clay"
+    ],
+    [
+        33.402992,
+        -91.069202,
+        "Greenville MS-TPSI (Walthall)"
+    ],
+    [
+        29.92227,
+        -90.05962,
+        "Gretna LA-John W Stone"
+    ],
+    [
+        33.28102,
+        -84.26325,
+        "Griffin GA-TransMontaigne"
+    ],
+    [
+        41.51209,
+        -87.44696,
+        "Griffith  IN-Petrogas"
+    ],
+    [
+        41.33686,
+        -72.07769,
+        "Groton CT-Buckeye"
+    ],
+    [
+        29.894501,
+        -93.932354,
+        "GT Gulfway"
+    ],
+    [
+        30.037463,
+        -92.637812,
+        "Gueydan LA-Martin"
+    ],
+    [
+        41.587345,
+        -73.949765,
+        "Hamburg NY-Nw Hamburg Term"
+    ],
+    [
+        41.607456,
+        -87.46682,
+        "Hammond IN-Buckeye"
+    ],
+    [
+        41.634106,
+        -87.515778,
+        "Hammond IN-ExxonMobil"
+    ],
+    [
+        41.63753,
+        -87.50163,
+        "Hammond IN-Marathon"
+    ],
+    [
+        41.637306,
+        -87.504172,
+        "Hammond IN-Valero"
+    ],
+    [
+        41.605419,
+        -87.490417,
+        "Hammond IN-West Shore Pipeline"
+    ],
+    [
+        44.77857,
+        -68.7837,
+        "Hampden ME-Coldbrook"
+    ],
+    [
+        26.190835,
+        -97.647215,
+        "Harlingen TX-Nustar"
+    ],
+    [
+        40.255275,
+        -76.801277,
+        "Harrisburg PA-Lucknow"
+    ],
+    [
+        39.840777,
+        -89.103907,
+        "Harristown IL-Buckeye"
+    ],
+    [
+        38.83343,
+        -90.0894,
+        "Hartford IL-Buckeye"
+    ],
+    [
+        38.84123,
+        -90.0967,
+        "Hartford IL-HWRT"
+    ],
+    [
+        38.818371,
+        -90.087021,
+        "Hartford IL-Kinder Morgan"
+    ],
+    [
+        38.820862,
+        -90.095141,
+        "Hartford IL-Omega Partners"
+    ],
+    [
+        38.81321,
+        -90.09522,
+        "Hartford IL-Phillips 66"
+    ],
+    [
+        29.91435,
+        -90.07113,
+        "Harvey LA-IMTT"
+    ],
+    [
+        29.90503,
+        -90.0831,
+        "Harvey LA-Retif Oil & Fuel"
+    ],
+    [
+        40.16125,
+        -75.11625,
+        "Hatboro PA-Sunoco"
+    ],
+    [
+        36.233164,
+        -89.741285,
+        "Hayti MO-Oakmar"
+    ],
+    [
+        30.90234,
+        -96.606065,
+        "Hearne TX-Motiva"
+    ],
+    [
+        30.858561,
+        -96.578006,
+        "Hearne TX-Sunoco"
+    ],
+    [
+        40.029617,
+        -82.468361,
+        "Heath OH-Marathon"
+    ],
+    [
+        46.60476,
+        -112.08629,
+        "Helena MT-ExxonMobil"
+    ],
+    [
+        46.59328,
+        -111.98053,
+        "Helena MT-Phillips 66"
+    ],
+    [
+        37.81579,
+        -87.6692,
+        "Henderson KY-Omega Partners"
+    ],
+    [
+        37.87604,
+        -87.57349,
+        "Henderson KY-TransMontaigne"
+    ],
+    [
+        40.29973,
+        -88.94804,
+        "Heyworth IL-Magellan"
+    ],
+    [
+        19.72769,
+        -155.05524,
+        "Hilo HI-Aloha(661Kalanianaole)"
+    ],
+    [
+        19.73034,
+        -155.04994,
+        "Hilo HI-Aloha(999Kalanianaole)"
+    ],
+    [
+        19.72601,
+        -155.0548,
+        "Hilo HI-IES Downstream"
+    ],
+    [
+        19.72747,
+        -155.05571,
+        "Hilo HI-Tesoro(607Kalanianaole"
+    ],
+    [
+        19.72789,
+        -155.05483,
+        "Hilo HI-Tesoro(701Kalanianaole"
+    ],
+    [
+        42.738693,
+        -86.087418,
+        "Holland MI-Holland"
+    ],
+    [
+        40.81307,
+        -73.06574,
+        "Holtsville NY-Northville Ind"
+    ],
+    [
+        21.31283,
+        -157.87388,
+        "Honolulu HI-Aloha"
+    ],
+    [
+        21.31551,
+        -157.87514,
+        "Honolulu HI-IES Downstream"
+    ],
+    [
+        21.332959,
+        -157.922761,
+        "Honolulu HI-Signature Flight"
+    ],
+    [
+        21.3157,
+        -157.88937,
+        "Honolulu HI-Tesoro"
+    ],
+    [
+        46.968383,
+        -123.845916,
+        "Hoquiam WA-Reg Grays Harbor"
+    ],
+    [
+        29.74915,
+        -95.12368,
+        "Houston TX-Enterprise"
+    ],
+    [
+        29.97717,
+        -95.39121,
+        "Houston TX-ERPC"
+    ],
+    [
+        29.88656,
+        -95.41013,
+        "Houston TX-ExxonMob(8700 North"
+    ],
+    [
+        29.66527,
+        -95.39253,
+        "Houston TX-ExxonMobil (Almeda)"
+    ],
+    [
+        29.97525,
+        -95.36877,
+        "Houston TX-Gulf Coast Energy"
+    ],
+    [
+        29.79136,
+        -95.28526,
+        "Houston TX-Magellan"
+    ],
+    [
+        29.79446,
+        -95.34977,
+        "Houston TX-Petroleum Wholesale"
+    ],
+    [
+        29.751219,
+        -95.122896,
+        "Houston TX-Petromax"
+    ],
+    [
+        29.94727,
+        -95.41724,
+        "Houston TX-US Oil"
+    ],
+    [
+        29.72202,
+        -95.25418,
+        "Houston TX-Valero"
+    ],
+    [
+        38.210499,
+        -81.376038,
+        "Hugheston WV-Baker Oil"
+    ],
+    [
+        33.70263,
+        -118.0008,
+        "Huntington Beach CA-Chevron"
+    ],
+    [
+        40.882675,
+        -85.493828,
+        "Huntington IN-Buckeye"
+    ],
+    [
+        40.89358,
+        -85.44986,
+        "Huntington IN-CITGO"
+    ],
+    [
+        40.8987,
+        -85.44819,
+        "Huntington IN-Gladieux Trading"
+    ],
+    [
+        40.89509,
+        -85.45065,
+        "Huntington IN-Lassus Brothers"
+    ],
+    [
+        40.89711,
+        -85.45429,
+        "Huntington IN-Marathon"
+    ],
+    [
+        40.8983,
+        -85.45051,
+        "Huntington IN-Sunoco"
+    ],
+    [
+        38.043373,
+        -97.87495,
+        "Hutchinson KS-Nustar"
+    ],
+    [
+        32.825555,
+        -115.564859,
+        "Imperial CA-SFPP - KM"
+    ],
+    [
+        39.8128,
+        -86.333,
+        "Indianapolis IN-Buckey Rcwy Rd"
+    ],
+    [
+        39.808974,
+        -86.333574,
+        "Indianapolis IN-Buckeye (300N)"
+    ],
+    [
+        39.808974,
+        -86.333574,
+        "Indianapolis IN-Buckeye (300N)"
+    ],
+    [
+        39.92491,
+        -86.25354,
+        "Indianapolis IN-Buckeye (96th)"
+    ],
+    [
+        39.92491,
+        -86.25354,
+        "Indianapolis IN-Buckeye (96th)"
+    ],
+    [
+        39.803719,
+        -86.222404,
+        "Indianapolis IN-Kinder Morgan"
+    ],
+    [
+        39.78398,
+        -86.22569,
+        "Indianapolis IN-Marathon (Olin"
+    ],
+    [
+        39.78398,
+        -86.22569,
+        "Indianapolis IN-Marathon (Olin"
+    ],
+    [
+        39.918239,
+        -86.245716,
+        "Indianapolis IN-Mrthn (Robison"
+    ],
+    [
+        39.81473,
+        -86.33273,
+        "Indianapolis IN-US Oil"
+    ],
+    [
+        40.565749,
+        -79.85943,
+        "Indianola PA-Buckeye"
+    ],
+    [
+        40.626875,
+        -73.746429,
+        "Inwood NY-Global"
+    ],
+    [
+        32.83987,
+        -96.93535,
+        "Irving TX-ExxonMobil"
+    ],
+    [
+        32.83987,
+        -96.93535,
+        "Irving TX-ExxonMobil"
+    ],
+    [
+        42.307987,
+        -84.420898,
+        "Jackson MI-CITGO"
+    ],
+    [
+        42.31103,
+        -84.42335,
+        "Jackson MI-Marathon"
+    ],
+    [
+        30.41222,
+        -81.562575,
+        "Jacksonville FL-Buckeye"
+    ],
+    [
+        30.357731,
+        -81.622879,
+        "Jacksonville FL-Center Point"
+    ],
+    [
+        30.415794,
+        -81.609413,
+        "Jacksonville FL-Marathon"
+    ],
+    [
+        30.37955,
+        -81.63409,
+        "Jacksonville FL-Sunoco"
+    ],
+    [
+        30.37955,
+        -81.63409,
+        "Jacksonville FL-Sunoco"
+    ],
+    [
+        30.36045,
+        -81.62407,
+        "Jacksonville FL-TransMontaigne"
+    ],
+    [
+        46.86426,
+        -98.71266,
+        "Jamestown ND-Nustar (Hwy 281)"
+    ],
+    [
+        46.907799,
+        -98.706947,
+        "Jamestown ND-Nustar (I94 Stand"
+    ],
+    [
+        35.479685,
+        -108.43389,
+        "Jamestown NM-Western"
+    ],
+    [
+        35.479685,
+        -108.43389,
+        "Jamestown NM-Western"
+    ],
+    [
+        37.31345,
+        -94.30337,
+        "Jasper MO-Magellan"
+    ],
+    [
+        38.549385,
+        -92.214138,
+        "Jefferson City MO-Phillips 66"
+    ],
+    [
+        36.01099,
+        -95.996774,
+        "Jenks OK-Phillips 66"
+    ],
+    [
+        31.582564,
+        -91.945954,
+        "Jonesville LA-Archie"
+    ],
+    [
+        44.59703,
+        -89.77604,
+        "Junction City WI-Flint Hills"
+    ],
+    [
+        20.8932,
+        -156.46153,
+        "Kahului HI-Aloha"
+    ],
+    [
+        20.8941,
+        -156.46147,
+        "Kahului HI-IES Downstream"
+    ],
+    [
+        20.895542,
+        -156.463443,
+        "Kahului HI-Tesoro"
+    ],
+    [
+        20.03766,
+        -155.82894,
+        "Kamuela HI-Midpac"
+    ],
+    [
+        41.11982,
+        -87.861794,
+        "Kankakee IL-Buckeye"
+    ],
+    [
+        39.07898,
+        -94.653894,
+        "Kansas City KS-BNSF"
+    ],
+    [
+        39.13827,
+        -94.60253,
+        "Kansas City KS-Magellan"
+    ],
+    [
+        39.12751,
+        -94.60968,
+        "Kansas City KS-Phillips 66"
+    ],
+    [
+        39.08719,
+        -94.667243,
+        "Kansas City KS-Sinclair"
+    ],
+    [
+        29.541538,
+        -92.309634,
+        "Kaplan LA-Martin"
+    ],
+    [
+        21.303131,
+        -158.102064,
+        "Kapolei HI-Aloha"
+    ],
+    [
+        21.312688,
+        -158.115972,
+        "Kapolei HI-IES Downstream"
+    ],
+    [
+        21.090599,
+        -157.021545,
+        "Kaunakakai HI-Island Petroleum"
+    ],
+    [
+        29.986255,
+        -90.266685,
+        "Kenner LA-Equi"
+    ],
+    [
+        29.986255,
+        -90.266685,
+        "Kenner LA-Equi"
+    ],
+    [
+        34.177678,
+        -77.951374,
+        "Kinder Morgan Terminals Wilmington LLC"
+    ],
+    [
+        41.92782,
+        -73.9627,
+        "Kingston NY-Heritagenergy"
+    ],
+    [
+        35.96138,
+        -84.001137,
+        "Knoxville TN-CITGO"
+    ],
+    [
+        35.96243,
+        -83.99715,
+        "Knoxville TN-Equi"
+    ],
+    [
+        35.96272,
+        -83.99894,
+        "Knoxville TN-Kinder Morgan"
+    ],
+    [
+        35.96308,
+        -84.00299,
+        "Knoxville TN-Marathon"
+    ],
+    [
+        35.95901,
+        -83.99788,
+        "Knoxville TN-PBF (CTI) WEST"
+    ],
+    [
+        35.969753,
+        -83.936401,
+        "Knoxville TN-PBF EAST"
+    ],
+    [
+        37.99142,
+        -103.496903,
+        "La Junta CO-Phillips 66"
+    ],
+    [
+        30.183865,
+        -93.32535,
+        "Lake Charles LA-CITGO"
+    ],
+    [
+        30.165649,
+        -93.233368,
+        "Lake Charles LA-Martin"
+    ],
+    [
+        40.0671,
+        -76.33031,
+        "Lancaster PA-Lucknow"
+    ],
+    [
+        42.782673,
+        -84.649483,
+        "Lansing MI-Marathon"
+    ],
+    [
+        27.680496,
+        -99.463425,
+        "Laredo TX-Nustar"
+    ],
+    [
+        36.25232,
+        -115.0435,
+        "Las Vegas NV-Kinder Morgan"
+    ],
+    [
+        36.249989,
+        -115.046417,
+        "Las Vegas NV-Pro Petroleum"
+    ],
+    [
+        36.25247,
+        -115.04235,
+        "Las Vegas NV-Rebel Oil"
+    ],
+    [
+        45.65927,
+        -108.76334,
+        "Laurel MT-CHS"
+    ],
+    [
+        45.65927,
+        -108.76334,
+        "Laurel MT-CHS"
+    ],
+    [
+        40.6336,
+        -73.742327,
+        "Lawrence NY-Equi"
+    ],
+    [
+        40.628279,
+        -73.737165,
+        "Lawrence NY-Sprague"
+    ],
+    [
+        42.79964,
+        -96.174037,
+        "Le Mars IA-Nustar"
+    ],
+    [
+        42.79964,
+        -96.174037,
+        "Le Mars IA-Nustar"
+    ],
+    [
+        40.02592,
+        -86.47891,
+        "Lebanon IN-NGL"
+    ],
+    [
+        39.480331,
+        -84.223679,
+        "Lebanon OH-ERPC"
+    ],
+    [
+        39.48303,
+        -84.21559,
+        "Lebanon OH-Marathon"
+    ],
+    [
+        41.64097,
+        -88.048815,
+        "Lemont IL-CITGO"
+    ],
+    [
+        38.06017,
+        -84.53998,
+        "Lexington KY-Marathon"
+    ],
+    [
+        38.059521,
+        -84.539192,
+        "Lexington KY-Valero"
+    ],
+    [
+        21.95498,
+        -159.35709,
+        "Lihue HI-Aloha"
+    ],
+    [
+        21.95569,
+        -159.35595,
+        "Lihue HI-Kauai Petroleum"
+    ],
+    [
+        40.71033,
+        -84.13106,
+        "Lima OH-Buckeye (Buckeye Rd)"
+    ],
+    [
+        40.72531,
+        -84.11689,
+        "Lima OH-Buckeye (Vine)"
+    ],
+    [
+        40.718868,
+        -84.123573,
+        "Lima OH-Lima Refining"
+    ],
+    [
+        40.69675,
+        -84.12407,
+        "Lima OH-Marathon"
+    ],
+    [
+        40.815247,
+        -96.711487,
+        "Lincoln NE-BNSF"
+    ],
+    [
+        40.612548,
+        -74.224567,
+        "Linden NJ-CITGO"
+    ],
+    [
+        40.605093,
+        -74.236046,
+        "Linden NJ-Gulf Oil LP"
+    ],
+    [
+        40.613005,
+        -74.22543,
+        "Linden NJ-Phillips 66"
+    ],
+    [
+        40.599622,
+        -74.207595,
+        "Linden NJ-Phillips 66 TRMLY PT"
+    ],
+    [
+        40.61327,
+        -74.225924,
+        "Linden NJ-Sunoco"
+    ],
+    [
+        39.16718,
+        -75.447995,
+        "Little Creek DE-Delaware S&P"
+    ],
+    [
+        34.71363,
+        -92.18056,
+        "Little Rock  AR-Midcon"
+    ],
+    [
+        41.650203,
+        -88.041778,
+        "Lockport IL-ExxonMobil"
+    ],
+    [
+        33.87369,
+        -118.16217,
+        "g Beach CA-A"
+    ],
+    [
+        33.87369,
+        -118.16217,
+        "g Beach CA-A"
+    ],
+    [
+        33.807265,
+        -118.226729,
+        "g Beach CA-Chemoil"
+    ],
+    [
+        33.807265,
+        -118.226729,
+        "g Beach CA-Chemoil"
+    ],
+    [
+        33.862912,
+        -118.160546,
+        "g Beach CA-Marathon"
+    ],
+    [
+        33.862912,
+        -118.160546,
+        "g Beach CA-Marathon"
+    ],
+    [
+        33.782452,
+        -118.192245,
+        "g Beach CA-Petro-Diamond"
+    ],
+    [
+        33.782452,
+        -118.192245,
+        "g Beach CA-Petro-Diamond"
+    ],
+    [
+        38.73411,
+        -77.19144,
+        "Lorton VA-Kinder Morgan"
+    ],
+    [
+        33.909023,
+        -118.278355,
+        "Los Angeles CA-Phillips 66"
+    ],
+    [
+        38.233569,
+        -85.830828,
+        "Louisville KY-Buckeye"
+    ],
+    [
+        38.20715,
+        -85.85061,
+        "Louisville KY-CITGO"
+    ],
+    [
+        38.2312,
+        -85.82895,
+        "Louisville KY-Mrthn(Algonquin)"
+    ],
+    [
+        38.20582,
+        -85.84811,
+        "Louisville KY-Mrthon (Kramers)"
+    ],
+    [
+        38.14017,
+        -85.8977,
+        "Louisville KY-Thornton"
+    ],
+    [
+        38.22351,
+        -85.84565,
+        "Louisville KY-TransMontaigne"
+    ],
+    [
+        38.22712,
+        -85.8326,
+        "Louisville KY-Valero"
+    ],
+    [
+        33.61162,
+        -101.882275,
+        "Lubbock TX-Phillips 66"
+    ],
+    [
+        33.610974,
+        -101.880955,
+        "Lubbock TX-Pro Petroleum"
+    ],
+    [
+        42.187272,
+        -72.501382,
+        "Ludlow MA-Buckeye"
+    ],
+    [
+        35.355305,
+        -109.0547,
+        "Lupton AZ-Lupton"
+    ],
+    [
+        32.7367,
+        -83.657632,
+        "Macon GA-Epic Midstream"
+    ],
+    [
+        32.743076,
+        -83.659946,
+        "Macon GA-Marathon"
+    ],
+    [
+        32.88308,
+        -83.7275,
+        "Macon GA-TransMontaigne"
+    ],
+    [
+        32.73829,
+        -83.66145,
+        "Macon GA-Vecenergy"
+    ],
+    [
+        40.547627,
+        -75.552378,
+        "Macungie PA-Buckeye (Shipper)"
+    ],
+    [
+        40.516155,
+        -75.536903,
+        "Macungie PA-Buckeye Buckeye Rd"
+    ],
+    [
+        40.516602,
+        -75.557785,
+        "Macungie PA-Global"
+    ],
+    [
+        40.042725,
+        -75.518395,
+        "Malvern PA-Sunoco"
+    ],
+    [
+        40.042725,
+        -75.518395,
+        "Malvern PA-Sunoco"
+    ],
+    [
+        38.79994,
+        -77.504094,
+        "Manassas VA-Sunoco"
+    ],
+    [
+        38.79994,
+        -77.504094,
+        "Manassas VA-Sunoco"
+    ],
+    [
+        46.834274,
+        -100.893776,
+        "Mandan ND-BNSF"
+    ],
+    [
+        46.84329,
+        -100.88086,
+        "Mandan ND-Marathon"
+    ],
+    [
+        44.153889,
+        -94.067139,
+        "Mankato MN-Magellan"
+    ],
+    [
+        39.811492,
+        -75.414367,
+        "Marcus Hook PA-Sunoco"
+    ],
+    [
+        39.815481,
+        -75.420717,
+        "Marcus Hook PA-Sunoco"
+    ],
+    [
+        43.13091,
+        -75.25426,
+        "Marcy NY-Buckeye"
+    ],
+    [
+        43.12824,
+        -75.24764,
+        "Marcy NY-Sunoco LLC"
+    ],
+    [
+        39.387796,
+        -81.487841,
+        "Marietta OH-Marathon"
+    ],
+    [
+        42.249839,
+        -84.963841,
+        "Marshall MI-Buckeye"
+    ],
+    [
+        44.450515,
+        -95.75076,
+        "Marshall MN-Magellan"
+    ],
+    [
+        38.022871,
+        -122.067734,
+        "Martinez CA-Chevron"
+    ],
+    [
+        38.022871,
+        -122.067734,
+        "Martinez CA-Chevron"
+    ],
+    [
+        38.027284,
+        -122.069484,
+        "Martinez CA-Marathon"
+    ],
+    [
+        38.027284,
+        -122.069484,
+        "Martinez CA-Marathon"
+    ],
+    [
+        38.023102,
+        -122.125086,
+        "Martinez CA-PBF"
+    ],
+    [
+        38.023102,
+        -122.125086,
+        "Martinez CA-PBF"
+    ],
+    [
+        42.8937,
+        -82.48868,
+        "Marysville MI-Mrysv Hydrocarbn"
+    ],
+    [
+        39.54772,
+        -119.49751,
+        "McCarran NV-Golden Gate/SET"
+    ],
+    [
+        43.03767,
+        -89.29787,
+        "McFarland WI-CHS"
+    ],
+    [
+        43.03143,
+        -89.30476,
+        "McFarland WI-CITGO"
+    ],
+    [
+        43.033385,
+        -89.302403,
+        "McFarland WI-Flint Hills"
+    ],
+    [
+        43.03701,
+        -89.304904,
+        "McFarland WI-US Oil (4306 Term"
+    ],
+    [
+        43.03445,
+        -89.30493,
+        "McFarland WI-US Oil (4402 Term"
+    ],
+    [
+        43.02774,
+        -89.30597,
+        "McFarland WI-US Oil (Sigglekow"
+    ],
+    [
+        43.03238,
+        -89.30367,
+        "McFarland WI-West Shore Pipeli"
+    ],
+    [
+        43.038959,
+        -89.298084,
+        "McFarland WI-Zenith Energy"
+    ],
+    [
+        38.347141,
+        -97.668694,
+        "McPherson KS-CHS"
+    ],
+    [
+        40.222843,
+        -77.045662,
+        "Mechanicsburg PA-Lucknow"
+    ],
+    [
+        40.222843,
+        -77.045662,
+        "Mechanicsburg PA-Lucknow"
+    ],
+    [
+        40.21966,
+        -76.97599,
+        "Mechanicsburg PA-Sunoco"
+    ],
+    [
+        40.22109,
+        -76.96911,
+        "Mechanicsburg PA-Zenith Energy"
+    ],
+    [
+        35.06947,
+        -89.976606,
+        "Memphis TN-Buckeye"
+    ],
+    [
+        35.114555,
+        -90.077253,
+        "Memphis TN-Center Point"
+    ],
+    [
+        35.11935,
+        -90.07501,
+        "Memphis TN-Delek"
+    ],
+    [
+        35.12081,
+        -90.07685,
+        "Memphis TN-ExxonMobil"
+    ],
+    [
+        35.08597,
+        -90.07442,
+        "Memphis TN-Valero"
+    ],
+    [
+        29.93092,
+        -89.945188,
+        "Meraux LA-Valero"
+    ],
+    [
+        29.93092,
+        -89.945188,
+        "Meraux LA-Valero"
+    ],
+    [
+        32.35473,
+        -88.7424,
+        "Meridian MS-CITGO"
+    ],
+    [
+        32.353127,
+        -88.746277,
+        "Meridian MS-MGC"
+    ],
+    [
+        32.35072,
+        -88.74954,
+        "Meridian MS-Murphy"
+    ],
+    [
+        32.370792,
+        -88.744581,
+        "Meridian MS-TransMontaigne"
+    ],
+    [
+        32.060693,
+        -96.890731,
+        "Mertens  TX-Magellan"
+    ],
+    [
+        32.060693,
+        -96.890731,
+        "Mertens  TX-Magellan"
+    ],
+    [
+        25.762951,
+        -80.141838,
+        "Miami Beach FL-TransMontaigne"
+    ],
+    [
+        39.46337,
+        -84.39711,
+        "Middletown OH-ERPC"
+    ],
+    [
+        40.22125,
+        -76.79095,
+        "Middletown PA-Lucknow"
+    ],
+    [
+        40.22125,
+        -76.79095,
+        "Middletown PA-Lucknow"
+    ],
+    [
+        40.630644,
+        -80.441228,
+        "Midland PA-Marathon"
+    ],
+    [
+        43.325012,
+        -95.152504,
+        "Milford IA-Magellan"
+    ],
+    [
+        43.324144,
+        -95.149977,
+        "Milford IA-Nustar"
+    ],
+    [
+        43.18237,
+        -88.04665,
+        "Milwaukee WI-Buckeye"
+    ],
+    [
+        43.163044,
+        -88.037575,
+        "Milwaukee WI-CITGO"
+    ],
+    [
+        43.187893,
+        -88.044816,
+        "Milwaukee WI-Flint Hills"
+    ],
+    [
+        43.013812,
+        -87.897288,
+        "Milwaukee WI-US Oil (S Harbor)"
+    ],
+    [
+        43.18476,
+        -88.04776,
+        "Milwaukee WI-US Oil 9125 107th"
+    ],
+    [
+        43.190609,
+        -88.045087,
+        "Milwaukee WI-US Oil 9135 107th"
+    ],
+    [
+        43.190724,
+        -88.044905,
+        "Milwaukee WI-US Oil 9451 107th"
+    ],
+    [
+        43.19086,
+        -88.04614,
+        "Milwaukee WI-US Oil 9521 107th"
+    ],
+    [
+        43.188297,
+        -88.05143,
+        "Milwaukee WI-West Shore Pipeli"
+    ],
+    [
+        45.048575,
+        -93.272327,
+        "Minneapolis MN-BNSF"
+    ],
+    [
+        48.22972,
+        -101.29009,
+        "Minot ND-CHS"
+    ],
+    [
+        46.90054,
+        -114.03269,
+        "Missoula MT-CHS"
+    ],
+    [
+        46.89746,
+        -114.0304,
+        "Missoula MT-Phillips 66"
+    ],
+    [
+        43.70302,
+        -97.925785,
+        "Mitchell SD-Nustar"
+    ],
+    [
+        30.696501,
+        -88.043404,
+        "Mobile AL-Alabama Bulk Term"
+    ],
+    [
+        30.733351,
+        -88.046924,
+        "Mobile AL-Barcliff (Bay Bridge"
+    ],
+    [
+        30.696147,
+        -88.031529,
+        "Mobile AL-Barcliff (Cochran)"
+    ],
+    [
+        30.720851,
+        -88.035998,
+        "Mobile AL-Center Point"
+    ],
+    [
+        30.720851,
+        -88.035998,
+        "Mobile AL-Center Point"
+    ],
+    [
+        30.687345,
+        -88.01615,
+        "Mobile AL-Martin"
+    ],
+    [
+        32.41061,
+        -92.1052,
+        "Monroe LA-Monroe"
+    ],
+    [
+        34.00562,
+        -118.12381,
+        "Montebello CA-Chevron"
+    ],
+    [
+        33.270275,
+        -86.80969,
+        "Montgomery AL-Buckeye"
+    ],
+    [
+        32.35571,
+        -86.38692,
+        "Montgomery AL-Epic Midstream"
+    ],
+    [
+        32.3251,
+        -86.307182,
+        "Montgomery AL-Marathon"
+    ],
+    [
+        32.35441,
+        -86.386,
+        "Montgomery AL-Murphy"
+    ],
+    [
+        32.350982,
+        -86.384626,
+        "Montgomery AL-PlantatnTransmix"
+    ],
+    [
+        32.35258,
+        -86.38322,
+        "Montgomery AL-Vecenergy"
+    ],
+    [
+        41.250042,
+        -76.933151,
+        "Montoursville PA-Superior Plus"
+    ],
+    [
+        40.580651,
+        -91.429598,
+        "Montrose IA-Sinclair"
+    ],
+    [
+        37.373625,
+        -79.702625,
+        "Montvale VA-Motiva"
+    ],
+    [
+        37.387665,
+        -79.733814,
+        "Montvale VA-TM(Lnchbrg Slm TP)"
+    ],
+    [
+        37.38383,
+        -79.73693,
+        "Montvale VA-TPSI(Hwy 460E)"
+    ],
+    [
+        46.8636,
+        -96.74398,
+        "Moorhead MN-Nustar"
+    ],
+    [
+        34.99732,
+        -106.02573,
+        "Moriarty NM-Holly Energy"
+    ],
+    [
+        35.81826,
+        -78.84227,
+        "Morrisville NC-R-D Airp Author"
+    ],
+    [
+        47.125607,
+        -119.274582,
+        "Moses Lake WA-Phillips 66"
+    ],
+    [
+        32.986755,
+        -87.638284,
+        "Moundville AL-Epic Midstream"
+    ],
+    [
+        32.986755,
+        -87.638284,
+        "Moundville AL-Epic Midstream"
+    ],
+    [
+        43.09138,
+        -83.67538,
+        "Mount Morris MI-Marathon"
+    ],
+    [
+        33.157041,
+        -94.983247,
+        "Mount Pleasant TX-Delek"
+    ],
+    [
+        37.94164,
+        -87.90749,
+        "Mount Vernon IN-Cntrymrk Coop"
+    ],
+    [
+        37.9255,
+        -87.90655,
+        "Mount Vernon IN-Marathon"
+    ],
+    [
+        37.097855,
+        -93.817169,
+        "Mount Vernon MO-Phillips 66"
+    ],
+    [
+        37.189118,
+        -93.777349,
+        "Mount Vernon MO-TransMontaigne"
+    ],
+    [
+        37.189118,
+        -93.777349,
+        "Mount Vernon MO-TransMontaigne"
+    ],
+    [
+        40.89625,
+        -73.82037,
+        "Mount Vernon NY-Sprague"
+    ],
+    [
+        40.278514,
+        -85.365612,
+        "Muncie IN-Buckeye"
+    ],
+    [
+        40.27825,
+        -85.36102,
+        "Muncie IN-Marathon"
+    ],
+    [
+        33.59679,
+        -81.94946,
+        "N Augusta SC-Buckeye"
+    ],
+    [
+        33.56819,
+        -81.93363,
+        "N Augusta SC-KM (Laurel)"
+    ],
+    [
+        33.594031,
+        -81.951217,
+        "N Augusta SC-KM (Sweetwater)"
+    ],
+    [
+        36.379906,
+        -114.927016,
+        "N Las Vegas NV  -Holly Energy"
+    ],
+    [
+        36.379906,
+        -114.927016,
+        "N Las Vegas NV  -Holly Energy"
+    ],
+    [
+        34.75006,
+        -92.22295,
+        "N Little Rock AR-Bruce Oakley"
+    ],
+    [
+        34.74921,
+        -92.23073,
+        "N Little Rock AR-Center Point"
+    ],
+    [
+        34.77839,
+        -92.17498,
+        "N Little Rock AR-Delek"
+    ],
+    [
+        34.77662,
+        -92.17523,
+        "N Little Rock AR-HWRT"
+    ],
+    [
+        34.779887,
+        -92.177692,
+        "N Little Rock AR-Mgln(2725Cntr"
+    ],
+    [
+        34.778023,
+        -92.179466,
+        "N Little Rock AR-Mgln(3222Cntr"
+    ],
+    [
+        34.77233,
+        -92.17784,
+        "N Little Rock AR-Sunoco"
+    ],
+    [
+        41.2836,
+        -70.095725,
+        "Nantucket MA-Harbor Fuel Oil"
+    ],
+    [
+        42.16541,
+        -84.2601,
+        "Napoleon MI-Buckeye"
+    ],
+    [
+        36.161353,
+        -86.766923,
+        "Nashville TN-CITGO"
+    ],
+    [
+        36.148079,
+        -86.932388,
+        "Nashville TN-Cumberland"
+    ],
+    [
+        36.1825,
+        -86.78583,
+        "Nashville TN-Delek"
+    ],
+    [
+        36.16916,
+        -86.85947,
+        "Nashville TN-Equi"
+    ],
+    [
+        36.181129,
+        -86.828239,
+        "Nashville TN-ExxonMobil"
+    ],
+    [
+        36.165712,
+        -86.849196,
+        "Nashville TN-Marathon (51st)"
+    ],
+    [
+        36.17055,
+        -86.77519,
+        "Nashville TN-Mrthn(Five Main)"
+    ],
+    [
+        36.1847,
+        -86.83278,
+        "Nashville TN-Mrthn(Hydes Ferry"
+    ],
+    [
+        29.988849,
+        -93.976329,
+        "Nederland TX-Phillips 66"
+    ],
+    [
+        38.270897,
+        -85.834767,
+        "New Albany IN-TransMontaigne"
+    ],
+    [
+        41.629455,
+        -70.920434,
+        "New Bedford MA-Sprague"
+    ],
+    [
+        41.29413,
+        -72.90418,
+        "New Haven CT-400 Waterfront"
+    ],
+    [
+        41.300463,
+        -72.910353,
+        "New Haven CT-Buckeye (East St)"
+    ],
+    [
+        41.29781,
+        -72.90005,
+        "New Haven CT-Buckeye (Forbes)"
+    ],
+    [
+        41.29202,
+        -72.9051,
+        "New Haven CT-Buckeye 280 Water"
+    ],
+    [
+        41.286824,
+        -72.898422,
+        "New Haven CT-Equi"
+    ],
+    [
+        41.295354,
+        -72.903857,
+        "New Haven CT-Gulf Oil LP"
+    ],
+    [
+        41.290007,
+        -72.902954,
+        "New Haven CT-NH Term 100 Water"
+    ],
+    [
+        41.35001,
+        -72.09923,
+        "New don CT-HOP Energy"
+    ],
+    [
+        41.479615,
+        -74.011215,
+        "New Windsor NY-Global (1096 R)"
+    ],
+    [
+        41.481444,
+        -74.013981,
+        "New Windsor NY-Global (1184 R)"
+    ],
+    [
+        41.48684,
+        -74.00855,
+        "New Windsor NY-Global (1281 R)"
+    ],
+    [
+        41.48522,
+        -74.00862,
+        "New Windsor NY-Global 1254 Riv"
+    ],
+    [
+        40.707092,
+        -74.124028,
+        "Newark NJ-Buckeye"
+    ],
+    [
+        40.70976,
+        -74.12577,
+        "Newark NJ-Center Point"
+    ],
+    [
+        40.70644,
+        -74.121297,
+        "Newark NJ-Equi"
+    ],
+    [
+        40.71762,
+        -74.12509,
+        "Newark NJ-Sunoco"
+    ],
+    [
+        41.56489,
+        -73.979367,
+        "Newburgh NY-Buckeye"
+    ],
+    [
+        43.84933,
+        -104.215,
+        "Newcastle WY-Wyoming Refining"
+    ],
+    [
+        40.615738,
+        -80.599335,
+        "Newell WV-Ergon"
+    ],
+    [
+        40.615738,
+        -80.599335,
+        "Newell WV-Ergon"
+    ],
+    [
+        43.108001,
+        -70.800681,
+        "Newington NH-Sprague 194 Shat"
+    ],
+    [
+        43.11141,
+        -70.81309,
+        "Newington NH-Sprague 372 Shat"
+    ],
+    [
+        38.735355,
+        -77.191581,
+        "Newington VA-Kinder Morgan"
+    ],
+    [
+        38.735355,
+        -77.191581,
+        "Newington VA-Kinder Morgan"
+    ],
+    [
+        44.87813,
+        -93.01117,
+        "Newport MN-Newport Terminal"
+    ],
+    [
+        36.96693,
+        -76.41241,
+        "Newport News VA-PAPCO"
+    ],
+    [
+        30.51234,
+        -86.48094,
+        "Niceville FL-CITGO"
+    ],
+    [
+        41.790063,
+        -86.258474,
+        "Niles MI-Buckeye (2150 S 3rd)"
+    ],
+    [
+        41.78527,
+        -86.2538,
+        "Niles MI-Buckeye (2303 S 3rd)"
+    ],
+    [
+        41.78642,
+        -86.25363,
+        "Niles MI-CITGO"
+    ],
+    [
+        41.789955,
+        -86.256157,
+        "Niles MI-Marathon (2140 S 3rd)"
+    ],
+    [
+        41.788202,
+        -86.257164,
+        "Niles MI-Marathon (2216 S 3rd)"
+    ],
+    [
+        41.20221,
+        -80.73026,
+        "Niles OH-Buckeye (Yngstwn Wrrn"
+    ],
+    [
+        29.26195,
+        -97.78707,
+        "Nixon TX-Lazarus Energy"
+    ],
+    [
+        30.004417,
+        -90.392111,
+        "Norco LA-Diamond Green Diesel"
+    ],
+    [
+        29.988201,
+        -90.391621,
+        "Norco LA-Valero"
+    ],
+    [
+        42.020385,
+        -97.42648,
+        "Norfolk NE-Nustar"
+    ],
+    [
+        37.933352,
+        -88.387657,
+        "Norris City IL-HWRT"
+    ],
+    [
+        32.88949,
+        -79.97006,
+        "North Charleston SC-Buckeye"
+    ],
+    [
+        41.78294,
+        -91.63284,
+        "North Liberty IA-Buckeye"
+    ],
+    [
+        43.26938,
+        -86.24447,
+        "North Muskegon MI-Marathon"
+    ],
+    [
+        41.136318,
+        -100.763328,
+        "North Pte NE-Nustar"
+    ],
+    [
+        64.73225,
+        -147.3482,
+        "North Pole  AK-Petro Star"
+    ],
+    [
+        64.73452,
+        -147.350858,
+        "North Pole AK-Flint Hills"
+    ],
+    [
+        40.839883,
+        -111.92134,
+        "North Salt Lake UT-Big West"
+    ],
+    [
+        40.86152,
+        -111.90604,
+        "North Salt Lake UT-Phillips 66"
+    ],
+    [
+        40.959339,
+        -76.591425,
+        "Northumberland PA-Lucknow"
+    ],
+    [
+        40.959339,
+        -76.591425,
+        "Northumberland PA-Sunoco"
+    ],
+    [
+        42.47668,
+        -83.44734,
+        "Novi MI-Delta Fuels"
+    ],
+    [
+        38.3233,
+        -87.38999,
+        "Oakland City IN-ERPC"
+    ],
+    [
+        31.82744,
+        -102.33087,
+        "Odessa TX-Magellan"
+    ],
+    [
+        35.473411,
+        -97.461631,
+        "Oklahoma City OK-Magellan"
+    ],
+    [
+        35.476203,
+        -97.434391,
+        "Oklahoma City OK-Phillips 66"
+    ],
+    [
+        35.47693,
+        -97.43445,
+        "Oklahoma City OK-TransMontaign"
+    ],
+    [
+        38.88188,
+        -94.74433,
+        "Ohe KS-Magellan"
+    ],
+    [
+        47.457401,
+        -122.224456,
+        "Olympic Pipe Line Company - Renton  "
+    ],
+    [
+        45.638196,
+        -122.695935,
+        "Olympic Pipe Line Company - Vancouver"
+    ],
+    [
+        45.590426,
+        -122.777449,
+        "Olympic Pipeline Company - Portland "
+    ],
+    [
+        41.278764,
+        -95.930208,
+        "Omaha NE-Magellan"
+    ],
+    [
+        41.304709,
+        -95.879899,
+        "Omaha NE-Signature Flight"
+    ],
+    [
+        41.30551,
+        -95.88139,
+        "Omaha NE-Truman Arnold"
+    ],
+    [
+        30.53723,
+        -92.081012,
+        "Opelousas LA-Buckeye"
+    ],
+    [
+        33.81084,
+        -117.86981,
+        "Orange CA-SFPP - KM"
+    ],
+    [
+        41.6866,
+        -83.44865,
+        "Oregon OH-CITGO"
+    ],
+    [
+        41.6866,
+        -83.44865,
+        "Oregon OH-CITGO"
+    ],
+    [
+        41.65334,
+        -83.45117,
+        "Oregon OH-Marathon"
+    ],
+    [
+        41.65334,
+        -83.45117,
+        "Oregon OH-Marathon"
+    ],
+    [
+        28.422202,
+        -81.370692,
+        "Orlando FL-Kinder Morgan"
+    ],
+    [
+        41.17804,
+        -97.548134,
+        "Osceola NE-Nustar"
+    ],
+    [
+        41.01174,
+        -92.48279,
+        "Ottumwa IA-Buckeye"
+    ],
+    [
+        37.79204,
+        -87.06637,
+        "Owensboro KY-Southern States"
+    ],
+    [
+        37.77923,
+        -87.07264,
+        "Owensboro KY-TransMontaigne"
+    ],
+    [
+        42.997525,
+        -84.17251,
+        "Owosso MI-Sunoco"
+    ],
+    [
+        40.874915,
+        -73.52634,
+        "Oyster Bay NY-Global"
+    ],
+    [
+        37.022565,
+        -88.53099,
+        "Paducah KY-Marathon"
+    ],
+    [
+        37.0716,
+        -88.587352,
+        "Paducah KY-TransMontaigne"
+    ],
+    [
+        27.63625,
+        -82.55576,
+        "Palmetto FL-TransMontaigne"
+    ],
+    [
+        39.881365,
+        -91.545765,
+        "Palmyra MO-Magellan"
+    ],
+    [
+        30.15758,
+        -85.66702,
+        "Panama City FL-Chevron"
+    ],
+    [
+        33.898463,
+        -118.148566,
+        "Paramount CA-AltAir Paramount"
+    ],
+    [
+        33.898463,
+        -118.148566,
+        "Paramount CA-AltAir Paramount"
+    ],
+    [
+        34.002053,
+        -114.226562,
+        "Parker AZ-Liquidtitan"
+    ],
+    [
+        29.689573,
+        -95.171215,
+        "Pasadena TX-Enterprise"
+    ],
+    [
+        29.689573,
+        -95.171215,
+        "Pasadena TX-Enterprise"
+    ],
+    [
+        29.73317,
+        -95.16452,
+        "Pasadena TX-Intercontinental"
+    ],
+    [
+        29.73317,
+        -95.16452,
+        "Pasadena TX-Intercontinental"
+    ],
+    [
+        29.730358,
+        -95.204655,
+        "Pasadena TX-KM (Witter)"
+    ],
+    [
+        29.730358,
+        -95.204655,
+        "Pasadena TX-KM (Witter)"
+    ],
+    [
+        29.717382,
+        -95.184251,
+        "Pasadena TX-KM(Jefferson)"
+    ],
+    [
+        29.717382,
+        -95.184251,
+        "Pasadena TX-KM(Jefferson)"
+    ],
+    [
+        29.713721,
+        -95.22541,
+        "Pasadena TX-Motiva"
+    ],
+    [
+        29.713721,
+        -95.22541,
+        "Pasadena TX-Motiva"
+    ],
+    [
+        29.648841,
+        -95.01515,
+        "Pasadena TX-Phillips 66"
+    ],
+    [
+        29.648841,
+        -95.01515,
+        "Pasadena TX-Phillips 66"
+    ],
+    [
+        30.354392,
+        -88.49415,
+        "Pascagoula MS-Chevron"
+    ],
+    [
+        30.354658,
+        -88.507896,
+        "Pascagoula MS-Martin"
+    ],
+    [
+        46.259489,
+        -119.094258,
+        "Pasco WA-BNSF"
+    ],
+    [
+        46.215133,
+        -119.030267,
+        "Pasco WA-Marathon"
+    ],
+    [
+        46.219516,
+        -119.026711,
+        "Pasco WA-Tidewater"
+    ],
+    [
+        39.845645,
+        -75.249435,
+        "Paulsboro NJ-Nustar"
+    ],
+    [
+        39.846085,
+        -75.245145,
+        "Paulsboro NJ-PBF"
+    ],
+    [
+        39.847429,
+        -75.24304,
+        "Paulsboro NJ-Sunoco"
+    ],
+    [
+        39.98037,
+        -75.06519,
+        "Pennsauken NJ-Buckeye"
+    ],
+    [
+        30.401556,
+        -87.224686,
+        "Pensacola FL-TransMontaigne"
+    ],
+    [
+        42.48338,
+        -90.78724,
+        "Peosta IA-BP"
+    ],
+    [
+        40.539301,
+        -74.266365,
+        "Perth Amboy NJ-Buckeye (Mauer)"
+    ],
+    [
+        40.539301,
+        -74.266365,
+        "Perth Amboy NJ-Buckeye (Mauer)"
+    ],
+    [
+        40.51386,
+        -74.28697,
+        "Perth Amboy NJ-Buckeye (SmithC"
+    ],
+    [
+        40.51386,
+        -74.28697,
+        "Perth Amboy NJ-Buckeye (SmithC"
+    ],
+    [
+        40.52353,
+        -74.25945,
+        "Perth Amboy NJ-Kinder Morgan"
+    ],
+    [
+        40.52353,
+        -74.25945,
+        "Perth Amboy NJ-Kinder Morgan"
+    ],
+    [
+        40.7466,
+        -86.10793,
+        "Peru IN-Countrymark Coop"
+    ],
+    [
+        31.373368,
+        -89.266832,
+        "Petal MS-e Star NGL"
+    ],
+    [
+        40.01343,
+        -89.837421,
+        "Petersburg IL-Growmark"
+    ],
+    [
+        40.01343,
+        -89.837421,
+        "Petersburg IL-Growmark"
+    ],
+    [
+        40.013371,
+        -75.116356,
+        "Philadelphia PA-HOP Energy"
+    ],
+    [
+        39.916995,
+        -75.216215,
+        "Philadelphia PA-KM (63rd)"
+    ],
+    [
+        39.979566,
+        -75.093524,
+        "Philadelphia PA-KM (Delwre Ave"
+    ],
+    [
+        40.01208,
+        -75.11195,
+        "Philadelphia PA-Monroe"
+    ],
+    [
+        39.93559,
+        -75.21023,
+        "Philadelphia PA-PBF (51st)"
+    ],
+    [
+        39.906291,
+        -75.223266,
+        "Philadelphia PA-PBF (67th)"
+    ],
+    [
+        39.906505,
+        -75.219099,
+        "Philadelphia PA-PBF (Essington"
+    ],
+    [
+        39.92044,
+        -75.193,
+        "Philadelphia PA-Sunoco"
+    ],
+    [
+        33.443062,
+        -111.998108,
+        "Phoenix AZ-Arizona Fueling"
+    ],
+    [
+        33.44871,
+        -112.17694,
+        "Phoenix AZ-Caljet"
+    ],
+    [
+        33.45019,
+        -112.17696,
+        "Phoenix AZ-Circle K Terminal"
+    ],
+    [
+        33.44708,
+        -112.17102,
+        "Phoenix AZ-KM (5110 W Madison)"
+    ],
+    [
+        33.440387,
+        -112.155243,
+        "Phoenix AZ-Pro Petroleum"
+    ],
+    [
+        33.44769,
+        -112.17505,
+        "Phoenix AZ-SFPP - KM"
+    ],
+    [
+        34.226835,
+        -91.985535,
+        "Pine Bluff AR-Union Pacific"
+    ],
+    [
+        38.153472,
+        -76.527683,
+        "Piney Point MD-Nustar"
+    ],
+    [
+        40.55223,
+        -74.43381,
+        "Piscataway NJ-Sunoco"
+    ],
+    [
+        40.498896,
+        -80.085299,
+        "Pittsburgh PA-Lucknow (Grand)"
+    ],
+    [
+        40.50157,
+        -80.09505,
+        "Pittsburgh PA-Lucknow (Neville"
+    ],
+    [
+        40.48541,
+        -79.945809,
+        "Pittsburgh PA-Sunoco (Butler)"
+    ],
+    [
+        40.498,
+        -79.85476,
+        "Pittsburgh PA-Sunoco (Freeport"
+    ],
+    [
+        40.498,
+        -79.85476,
+        "Pittsburgh PA-Sunoco (Freeport"
+    ],
+    [
+        41.31387,
+        -75.73951,
+        "Pittston PA-Lucknow"
+    ],
+    [
+        41.31387,
+        -75.73951,
+        "Pittston PA-Lucknow"
+    ],
+    [
+        41.312763,
+        -75.741306,
+        "Pittston Township PA-Zenith"
+    ],
+    [
+        41.312763,
+        -75.741306,
+        "Pittston Township PA-Zenith"
+    ],
+    [
+        41.569218,
+        -93.525617,
+        "Pleasant Hill IA-Phillips 66"
+    ],
+    [
+        42.917007,
+        -112.534455,
+        "Pocatello ID-Marathon"
+    ],
+    [
+        36.68059,
+        -97.05392,
+        "Ponca City OK-Phillips 66"
+    ],
+    [
+        30.476815,
+        -91.211244,
+        "Port Allen LA-Placid"
+    ],
+    [
+        30.476815,
+        -91.211244,
+        "Port Allen LA-Placid"
+    ],
+    [
+        29.869893,
+        -93.996652,
+        "Port Arthur TX-GT Logistics"
+    ],
+    [
+        29.869893,
+        -93.996652,
+        "Port Arthur TX-GT Logistics"
+    ],
+    [
+        29.830883,
+        -93.967328,
+        "Port Arthur TX-Martin"
+    ],
+    [
+        29.830883,
+        -93.967328,
+        "Port Arthur TX-Martin"
+    ],
+    [
+        29.95745,
+        -93.8979,
+        "Port Arthur TX-Total"
+    ],
+    [
+        29.95745,
+        -93.8979,
+        "Port Arthur TX-Total"
+    ],
+    [
+        40.995886,
+        -73.660541,
+        "Port Chester NY-Westmore"
+    ],
+    [
+        29.375868,
+        -90.260378,
+        "Port Fourchon LA-Martin"
+    ],
+    [
+        26.197832,
+        -97.603517,
+        "Port Harlingen Terminal"
+    ],
+    [
+        40.565667,
+        -74.249686,
+        "Port Reading NJ-Buckeye"
+    ],
+    [
+        41.57015,
+        -72.64522,
+        "Portland CT-B and B Petroleum"
+    ],
+    [
+        41.57184,
+        -72.64609,
+        "Portland CT-Safety-Kleen"
+    ],
+    [
+        45.5958,
+        -122.78316,
+        "Portland OR-BP West Coast"
+    ],
+    [
+        45.565268,
+        -122.740095,
+        "Portland OR-Chevron"
+    ],
+    [
+        45.565504,
+        -122.745274,
+        "Portland OR-Kinder Morgan"
+    ],
+    [
+        45.56162,
+        -122.73577,
+        "Portland OR-McCall"
+    ],
+    [
+        45.59042,
+        -122.77745,
+        "Portland OR-Nustar"
+    ],
+    [
+        45.562,
+        -122.74092,
+        "Portland OR-Phillips 66"
+    ],
+    [
+        45.55035,
+        -122.72647,
+        "Portland OR-Shell Oil"
+    ],
+    [
+        45.561733,
+        -122.736361,
+        "Portland OR-Zenith Energy"
+    ],
+    [
+        43.09069,
+        -70.76707,
+        "Portsmouth NH-Irving"
+    ],
+    [
+        43.09069,
+        -70.76707,
+        "Portsmouth NH-Irving"
+    ],
+    [
+        41.69067,
+        -73.93847,
+        "Poughkeepsie NY-Meenan"
+    ],
+    [
+        33.86302,
+        -84.63047,
+        "Powder Springs GA-Marathon"
+    ],
+    [
+        33.86302,
+        -84.63047,
+        "Powder Springs GA-Marathon"
+    ],
+    [
+        32.58902,
+        -93.51468,
+        "Princeton LA-Calumet"
+    ],
+    [
+        46.707943,
+        -92.287874,
+        "Proctor MN-Superior (Old Husky"
+    ],
+    [
+        41.79941,
+        -71.3996,
+        "Providence RI-Equi"
+    ],
+    [
+        41.795867,
+        -71.392985,
+        "Providence RI-NE Petroleum"
+    ],
+    [
+        41.810361,
+        -71.40457,
+        "Providence RI-Sprague"
+    ],
+    [
+        26.06195,
+        -97.216085,
+        "Pt Isabel TX-Pt Isabel Logisti"
+    ],
+    [
+        42.251129,
+        -71.003662,
+        "Quincy MA-Sprague 740"
+    ],
+    [
+        42.251717,
+        -70.984367,
+        "Quincy MA-Sprague 782"
+    ],
+    [
+        38.570992,
+        -121.3359,
+        "Rancho Cordova CA-SFPP - KM"
+    ],
+    [
+        44.094765,
+        -103.163925,
+        "Rapid City SD-Magellan"
+    ],
+    [
+        41.78615,
+        -107.237143,
+        "Rawlins WY-Union Pacific"
+    ],
+    [
+        40.379379,
+        -75.923988,
+        "Reading PA-Buckeye"
+    ],
+    [
+        37.50268,
+        -122.21092,
+        "Redwood City CA-Seaport Ref"
+    ],
+    [
+        39.509623,
+        -119.763209,
+        "Reno NV-Reno FuelingFacilities"
+    ],
+    [
+        42.61113,
+        -73.75182,
+        "Rensselaer NY-Buckeye"
+    ],
+    [
+        42.61113,
+        -73.75182,
+        "Rensselaer NY-Buckeye"
+    ],
+    [
+        42.634432,
+        -73.749627,
+        "Rensselaer NY-IPT"
+    ],
+    [
+        42.634432,
+        -73.749627,
+        "Rensselaer NY-IPT"
+    ],
+    [
+        42.618872,
+        -73.753452,
+        "Rensselaer NY-Petroleum Fuel"
+    ],
+    [
+        42.618872,
+        -73.753452,
+        "Rensselaer NY-Petroleum Fuel"
+    ],
+    [
+        42.616495,
+        -73.7511,
+        "Rensselaer NY-Sprague"
+    ],
+    [
+        42.616495,
+        -73.7511,
+        "Rensselaer NY-Sprague"
+    ],
+    [
+        47.45651,
+        -122.22448,
+        "Renton WA-Phillips 66"
+    ],
+    [
+        42.39891,
+        -71.00811,
+        "Revere MA-Global"
+    ],
+    [
+        42.39608,
+        -71.00901,
+        "Revere MA-Irving"
+    ],
+    [
+        37.935941,
+        -122.376102,
+        "Richmond CA-BNSF"
+    ],
+    [
+        37.928257,
+        -122.38773,
+        "Richmond CA-Chevron"
+    ],
+    [
+        37.92273,
+        -122.36918,
+        "Richmond CA-IMTT (Cutting)"
+    ],
+    [
+        37.91266,
+        -122.36626,
+        "Richmond CA-KM (Canal)"
+    ],
+    [
+        37.91578,
+        -122.36774,
+        "Richmond CA-Phillips 66"
+    ],
+    [
+        37.91956,
+        -122.3644,
+        "Richmond CA-Plains Products"
+    ],
+    [
+        37.50369,
+        -77.43011,
+        "Richmond VA-Buckeye"
+    ],
+    [
+        37.52203,
+        -77.433755,
+        "Richmond VA-CITGO"
+    ],
+    [
+        37.52266,
+        -77.43275,
+        "Richmond VA-First Energy"
+    ],
+    [
+        37.50914,
+        -77.41277,
+        "Richmond VA-IMTT (Osborne)"
+    ],
+    [
+        37.479889,
+        -77.428291,
+        "Richmond VA-KM(3302 Deepwater)"
+    ],
+    [
+        37.47204,
+        -77.42553,
+        "Richmond VA-KM(4110 Deepwater)"
+    ],
+    [
+        37.45875,
+        -77.43349,
+        "Richmond VA-KM(Trenton Ave)"
+    ],
+    [
+        37.44532,
+        -77.43865,
+        "Richmond VA-Motiva"
+    ],
+    [
+        37.51186,
+        -77.42973,
+        "Richmond VA-TPSI (Goodes)"
+    ],
+    [
+        37.51181,
+        -77.43086,
+        "Richmond VA-TPSI(Commerce)"
+    ],
+    [
+        26.253242,
+        -97.581039,
+        "Rio Hondo TX-Petro Source"
+    ],
+    [
+        42.27666,
+        -83.12577,
+        "River Rouge MI-Buckeye"
+    ],
+    [
+        40.97942,
+        -72.64659,
+        "Riverhead NY-United Refining"
+    ],
+    [
+        26.767262,
+        -80.059928,
+        "Riviera Beach FL-Vecenergy"
+    ],
+    [
+        32.233138,
+        -108.962189,
+        "Road Forks NM-USA Petroleum"
+    ],
+    [
+        37.28009,
+        -79.92184,
+        "Roanoke VA-KM (Hollins)"
+    ],
+    [
+        37.21253,
+        -79.99055,
+        "Roanoke VA-KM(Terminal Road)"
+    ],
+    [
+        39.000304,
+        -87.727142,
+        "Robinson  IL-Mrthn (Mrthn Ave)"
+    ],
+    [
+        39.005928,
+        -87.712714,
+        "Robinson IL-Marathon (1050th)"
+    ],
+    [
+        40.69925,
+        -96.69523,
+        "Roca NE-Magellan"
+    ],
+    [
+        40.6964,
+        -96.70195,
+        "Roca NE-Phillips 66"
+    ],
+    [
+        41.913449,
+        -89.051618,
+        "Rochelle IL-Kinder Morgan"
+    ],
+    [
+        41.913449,
+        -89.051618,
+        "Rochelle IL-Kinder Morgan"
+    ],
+    [
+        43.1638,
+        -77.679,
+        "Rochester NY-Buckeye (Lyell)"
+    ],
+    [
+        43.13065,
+        -77.65486,
+        "Rochester NY-Buckeye 675 Brook"
+    ],
+    [
+        43.130436,
+        -77.654455,
+        "Rochester NY-Buckeye 754 Brook"
+    ],
+    [
+        43.16198,
+        -77.67734,
+        "Rochester NY-Center Point"
+    ],
+    [
+        43.164735,
+        -77.674931,
+        "Rochester NY-Sunoco"
+    ],
+    [
+        43.15679,
+        -77.66835,
+        "Rochester NY-Superior Plus"
+    ],
+    [
+        43.13729,
+        -77.6624,
+        "Rochester NY-United Refining"
+    ],
+    [
+        43.43275,
+        -96.067925,
+        "Rock Rapids IA-Nustar"
+    ],
+    [
+        41.56719,
+        -109.29264,
+        "Rock Springs WY-Phillips 66"
+    ],
+    [
+        42.262924,
+        -89.177704,
+        "Rockford IL-Buckeye"
+    ],
+    [
+        42.25853,
+        -89.18107,
+        "Rockford IL-Marathon"
+    ],
+    [
+        42.260206,
+        -89.178369,
+        "Rockford IL-West Shore Pipel"
+    ],
+    [
+        41.653564,
+        -72.630794,
+        "Rocky Hill CT-CITGO"
+    ],
+    [
+        36.35801,
+        -94.16104,
+        "Rogers AR-Magellan"
+    ],
+    [
+        45.409276,
+        -83.798439,
+        "Rogers City MI-US Oil"
+    ],
+    [
+        34.298402,
+        -85.111466,
+        "Rome GA-TransMontaigne"
+    ],
+    [
+        42.233046,
+        -83.342627,
+        "Romulus MI-Delta Fuels"
+    ],
+    [
+        42.244694,
+        -83.313005,
+        "Romulus MI-Marathon"
+    ],
+    [
+        42.24023,
+        -83.32256,
+        "Romulus MI-Sunoco"
+    ],
+    [
+        44.751653,
+        -93.037379,
+        "Rosemount MN-Flint Hills"
+    ],
+    [
+        44.751653,
+        -93.037379,
+        "Rosemount MN-Flint Hills"
+    ],
+    [
+        44.71816,
+        -93.13389,
+        "Rosemount MN-NGL"
+    ],
+    [
+        45.01959,
+        -93.19612,
+        "Roseville MN-Nustar"
+    ],
+    [
+        45.01959,
+        -93.19612,
+        "Roseville MN-Nustar"
+    ],
+    [
+        45.01959,
+        -93.19612,
+        "Roseville MN-Nustar"
+    ],
+    [
+        38.568584,
+        -121.514503,
+        "Sacramento CA-Chevron"
+    ],
+    [
+        38.56691,
+        -121.51471,
+        "Sacramento CA-Phillips 66"
+    ],
+    [
+        38.39696,
+        -81.84752,
+        "Saint Albans WV-Go-Mart"
+    ],
+    [
+        42.813424,
+        -82.505982,
+        "Saint Clair MI-Plains LPG"
+    ],
+    [
+        38.581192,
+        -90.222258,
+        "Saint Louis MO-American River"
+    ],
+    [
+        38.68043,
+        -90.20065,
+        "Saint Louis MO-Buckeye"
+    ],
+    [
+        38.58348,
+        -90.21771,
+        "Saint Louis MO-J D Streett"
+    ],
+    [
+        38.57929,
+        -90.22362,
+        "Saint Louis MO-Kinder Morgan"
+    ],
+    [
+        39.38772,
+        -81.205948,
+        "Saint Marys WV-St Marys Refin"
+    ],
+    [
+        45.0242,
+        -93.20039,
+        "Saint Paul MN-Magellan"
+    ],
+    [
+        44.85431,
+        -93.004872,
+        "Saint Paul Park MN-Marathon"
+    ],
+    [
+        44.85431,
+        -93.004872,
+        "Saint Paul Park MN-Marathon"
+    ],
+    [
+        38.79763,
+        -90.58666,
+        "Saint Peters MO-Magellan"
+    ],
+    [
+        29.951268,
+        -90.333674,
+        "Saint Rose LA-IMTT"
+    ],
+    [
+        38.8411,
+        -97.64201,
+        "Salina KS-Nustar"
+    ],
+    [
+        38.360025,
+        -75.620767,
+        "Salisbury MD-Center Point"
+    ],
+    [
+        38.36306,
+        -75.6163,
+        "Salisbury MD-Sunoco"
+    ],
+    [
+        38.36306,
+        -75.6163,
+        "Salisbury MD-Sunoco"
+    ],
+    [
+        40.822368,
+        -111.920892,
+        "Salt Lake City UT-Chevron"
+    ],
+    [
+        40.78922,
+        -111.90495,
+        "Salt Lake City UT-Marathon"
+    ],
+    [
+        31.494179,
+        -100.373199,
+        "San Angelo TX-Delek"
+    ],
+    [
+        29.436103,
+        -98.397164,
+        "San Antonio TX-CITGO"
+    ],
+    [
+        29.44123,
+        -98.43488,
+        "San Antonio TX-ExxonMobil"
+    ],
+    [
+        29.44868,
+        -98.395574,
+        "San Antonio TX-FHR(Cornerway)"
+    ],
+    [
+        29.42642,
+        -98.39332,
+        "San Antonio TX-FHR(Pop Gunn)"
+    ],
+    [
+        29.46088,
+        -98.40696,
+        "San Antonio TX-Motiva"
+    ],
+    [
+        29.31114,
+        -98.47678,
+        "San Antonio TX-Nustar (281 S)"
+    ],
+    [
+        29.45019,
+        -98.39888,
+        "San Antonio TX-Nustar CornerPW"
+    ],
+    [
+        29.3468,
+        -98.45945,
+        "San Antonio TX-TSAR"
+    ],
+    [
+        32.703883,
+        -117.156073,
+        "San Diego CA-Buckeye"
+    ],
+    [
+        32.69268,
+        -117.14056,
+        "San Diego CA-Chevron"
+    ],
+    [
+        32.703883,
+        -117.156073,
+        "San Diego CA-Jankovich"
+    ],
+    [
+        32.78982,
+        -117.115223,
+        "San Diego CA-SFPP - KM"
+    ],
+    [
+        32.69364,
+        -117.14183,
+        "San Diego CA-Tesoro"
+    ],
+    [
+        37.36365,
+        -121.88467,
+        "San Jose CA-Chevron"
+    ],
+    [
+        37.39224,
+        -121.91242,
+        "San Jose CA-SFPP - KM"
+    ],
+    [
+        37.3945,
+        -121.91114,
+        "San Jose CA-Shell Oil"
+    ],
+    [
+        33.730764,
+        -118.27602,
+        "San Pedro CA-Jankovich"
+    ],
+    [
+        33.76524,
+        -118.29191,
+        "San Pedro CA-Rancho LPG"
+    ],
+    [
+        33.76379,
+        -118.24121,
+        "San Pedro CA-Vopak"
+    ],
+    [
+        31.786711,
+        -89.033127,
+        "Sandersville MS-Hunt Refining"
+    ],
+    [
+        41.77119,
+        -70.49968,
+        "Sandwich MA-Global"
+    ],
+    [
+        31.861043,
+        -106.686566,
+        "Santa Teresa NM-Union Pacific"
+    ],
+    [
+        30.798428,
+        -88.083076,
+        "Saraland AL-Shell Chemical"
+    ],
+    [
+        30.798428,
+        -88.083076,
+        "Saraland AL-Shell Chemical"
+    ],
+    [
+        45.74206,
+        -94.97704,
+        "Sauk Centre MN-Nustar"
+    ],
+    [
+        32.082867,
+        -81.127419,
+        "Savannah GA-Coial"
+    ],
+    [
+        32.078331,
+        -81.047066,
+        "Savannah GA-Epic (2 Wahlstrom)"
+    ],
+    [
+        32.11111,
+        -81.12543,
+        "Savannah GA-Epic (7 Foundation"
+    ],
+    [
+        32.118167,
+        -81.149617,
+        "Savannah GA-Vopak"
+    ],
+    [
+        38.598429,
+        -100.906016,
+        "Scott City KS-Magellan"
+    ],
+    [
+        37.222887,
+        -89.490807,
+        "Scott City MO-ERPC"
+    ],
+    [
+        29.608305,
+        -95.027923,
+        "Seabrook TX-LBC"
+    ],
+    [
+        44.459651,
+        -68.899364,
+        "Searsport ME-Irving"
+    ],
+    [
+        44.459651,
+        -68.899364,
+        "Searsport ME-Irving"
+    ],
+    [
+        44.45355,
+        -68.9032,
+        "Searsport ME-Sprague"
+    ],
+    [
+        44.45355,
+        -68.9032,
+        "Searsport ME-Sprague"
+    ],
+    [
+        47.582085,
+        -122.356606,
+        "Seattle WA-BP West Coast"
+    ],
+    [
+        47.57914,
+        -122.35187,
+        "Seattle WA-Kinder Morgan"
+    ],
+    [
+        47.5802,
+        -122.35278,
+        "Seattle WA-Shell Oil"
+    ],
+    [
+        47.43227,
+        -122.30338,
+        "Seattle WA-Swissport"
+    ],
+    [
+        35.55289,
+        -78.30098,
+        "Selma NC-CITGO"
+    ],
+    [
+        35.550289,
+        -78.305191,
+        "Selma NC-KM (2101 West Oak)"
+    ],
+    [
+        35.55056,
+        -78.2988,
+        "Selma NC-KM (4086 Buffalo)"
+    ],
+    [
+        35.554183,
+        -78.3021,
+        "Selma NC-KM (4383 Buffalo)"
+    ],
+    [
+        35.55302,
+        -78.30557,
+        "Selma NC-KM(2200 West Oak)"
+    ],
+    [
+        35.54867,
+        -78.30639,
+        "Selma NC-Marathon (Buffalo)"
+    ],
+    [
+        35.55197,
+        -78.31054,
+        "Selma NC-Marathon (Oak)"
+    ],
+    [
+        35.55406,
+        -78.30768,
+        "Selma NC-TransMontaigne"
+    ],
+    [
+        35.55304,
+        -78.31262,
+        "Selma NC-Zenith Energy"
+    ],
+    [
+        40.53935,
+        -74.25917,
+        "Sewaren NJ-Equi"
+    ],
+    [
+        39.02381,
+        -85.83596,
+        "Seymour IN-HWRT"
+    ],
+    [
+        34.748983,
+        -87.715343,
+        "Sheffield AL-Murphy"
+    ],
+    [
+        44.66535,
+        -106.903,
+        "Sheridan WY-Phillips 66"
+    ],
+    [
+        32.46631,
+        -93.79278,
+        "Shreveport LA-Shreveport Refin"
+    ],
+    [
+        47.76161,
+        -104.1091,
+        "Sidney MT-Hiland Partners"
+    ],
+    [
+        41.15062,
+        -102.93381,
+        "Sidney NE-Holly Energy"
+    ],
+    [
+        33.800209,
+        -118.15169,
+        "Signal Hill CA-Shell Oil"
+    ],
+    [
+        33.800209,
+        -118.15169,
+        "Signal Hill CA-Shell Oil"
+    ],
+    [
+        33.801335,
+        -118.15836,
+        "Signal Hill CA-Tesoro"
+    ],
+    [
+        41.779566,
+        -107.105016,
+        "Sinclair WY-Sinclair (TCN 4054"
+    ],
+    [
+        41.779566,
+        -107.105016,
+        "Sinclair WY-Sinclair (TCN 4057"
+    ],
+    [
+        40.320393,
+        -76.033669,
+        "Sinking Spring PA-Lucknow"
+    ],
+    [
+        40.314993,
+        -76.032538,
+        "Sinking Spring PA-Sunoco"
+    ],
+    [
+        42.538277,
+        -96.359779,
+        "Sioux City IA-Magellan"
+    ],
+    [
+        43.54524,
+        -96.79578,
+        "Sioux Falls SD-Magellan"
+    ],
+    [
+        43.509252,
+        -96.741042,
+        "Sioux Falls SD-Nustar"
+    ],
+    [
+        33.36437,
+        -92.71683,
+        "Smackover AR-Martin"
+    ],
+    [
+        37.07002,
+        -84.61628,
+        "Somerset KY-Continental"
+    ],
+    [
+        41.628727,
+        -86.267714,
+        "South Bend IN-Buckeye"
+    ],
+    [
+        41.628727,
+        -86.267714,
+        "South Bend IN-Buckeye"
+    ],
+    [
+        33.95236,
+        -118.16738,
+        "South Gate CA-Marathon"
+    ],
+    [
+        33.95236,
+        -118.16738,
+        "South Gate CA-Marathon"
+    ],
+    [
+        43.637031,
+        -70.285921,
+        "South Portland ME-Buckeye"
+    ],
+    [
+        43.63721,
+        -70.26734,
+        "South Portland ME-CITGO"
+    ],
+    [
+        43.6346,
+        -70.283744,
+        "South Portland ME-Global"
+    ],
+    [
+        43.65046,
+        -70.23861,
+        "South Portland ME-Gulf Oil LP"
+    ],
+    [
+        43.63679,
+        -70.28627,
+        "South Portland ME-Sprague"
+    ],
+    [
+        39.53342,
+        -119.7494,
+        "Sparks NV-OP Reno"
+    ],
+    [
+        39.533349,
+        -119.746925,
+        "Sparks NV-SFPP - KM"
+    ],
+    [
+        34.92548,
+        -81.86506,
+        "Spartanburg SC-Buckeye"
+    ],
+    [
+        34.92271,
+        -81.87013,
+        "Spartanburg SC-CITGO"
+    ],
+    [
+        34.92798,
+        -81.88646,
+        "Spartanburg SC-Kinder Morgan"
+    ],
+    [
+        34.92468,
+        -81.87595,
+        "Spartanburg SC-Motiva"
+    ],
+    [
+        34.94561,
+        -81.930931,
+        "Spartanburg SC-TransMontaigne"
+    ],
+    [
+        47.67009,
+        -117.32061,
+        "Spokane WA-ExxonMobil"
+    ],
+    [
+        47.73011,
+        -117.36295,
+        "Spokane WA-Holly Energy"
+    ],
+    [
+        47.668442,
+        -117.275833,
+        "Spokane WA-Phillips 66"
+    ],
+    [
+        43.68052,
+        -92.3613,
+        "Spring Valley MN-Kinder Morgan"
+    ],
+    [
+        42.11825,
+        -72.57672,
+        "Springfield MA-Albany St Term"
+    ],
+    [
+        42.11757,
+        -72.57737,
+        "Springfield MA-Buckeye"
+    ],
+    [
+        42.14779,
+        -72.53624,
+        "Springfield MA-Global"
+    ],
+    [
+        42.11939,
+        -72.57457,
+        "Springfield MA-Roberts Energy"
+    ],
+    [
+        42.1164,
+        -72.58149,
+        "Springfield MA-Sprague 195 Arm"
+    ],
+    [
+        42.12561,
+        -72.56718,
+        "Springfield MA-Sprague 615 STJ"
+    ],
+    [
+        42.11471,
+        -72.57931,
+        "Springfield MA-Suburban Heatin"
+    ],
+    [
+        42.14663,
+        -72.54451,
+        "Springfld MA-Spngfld 1053 Page"
+    ],
+    [
+        42.14735,
+        -72.54258,
+        "Springfld MA-Sprfld 1095 Page"
+    ],
+    [
+        41.04247,
+        -73.54411,
+        "Stamford CT-Sprague"
+    ],
+    [
+        39.660788,
+        -79.98951,
+        "Star City WV-Guttman Realty"
+    ],
+    [
+        40.40227,
+        -80.62254,
+        "Steubenville OH-Marathon"
+    ],
+    [
+        37.950407,
+        -121.291336,
+        "Stockton CA-Buckeye"
+    ],
+    [
+        37.942089,
+        -121.334117,
+        "Stockton CA-Marathon"
+    ],
+    [
+        37.94119,
+        -121.3321,
+        "Stockton CA-Nustar"
+    ],
+    [
+        37.95171,
+        -121.34482,
+        "Stockton CA-Shell Oil"
+    ],
+    [
+        39.12038,
+        -94.4448,
+        "Sugar Creek MO-Buckeye"
+    ],
+    [
+        39.12038,
+        -94.4448,
+        "Sugar Creek MO-Buckeye"
+    ],
+    [
+        41.7636,
+        -87.83469,
+        "Summit Argo IL-Buckeye"
+    ],
+    [
+        41.76883,
+        -87.8214,
+        "Summit Argo IL-Kinder Morgan"
+    ],
+    [
+        36.016703,
+        -101.824616,
+        "Sunray TX-Diamond Shamrock"
+    ],
+    [
+        35.966164,
+        -101.881003,
+        "Sunray TX-Valero"
+    ],
+    [
+        35.966164,
+        -101.881003,
+        "Sunray TX-Valero"
+    ],
+    [
+        30.29411,
+        -91.15028,
+        "Sunshine LA-LBC"
+    ],
+    [
+        46.690949,
+        -92.067274,
+        "Superior WI-Superior(Old Husky"
+    ],
+    [
+        29.042761,
+        -95.698067,
+        "Sweeny TX-Phillips 66"
+    ],
+    [
+        39.035122,
+        -87.053207,
+        "Switz City IN-Countrymark Coop"
+    ],
+    [
+        47.254383,
+        -122.430348,
+        "Tacoma WA-Phillips 66"
+    ],
+    [
+        47.25574,
+        -122.39402,
+        "Tacoma WA-US Oil"
+    ],
+    [
+        41.07088,
+        -81.39823,
+        "Tallmadge OH-CITGO"
+    ],
+    [
+        40.81199,
+        -75.97551,
+        "Tamaqua PA-Sunoco"
+    ],
+    [
+        27.95058,
+        -82.43982,
+        "Tampa FL-Buckeye (19th)"
+    ],
+    [
+        27.92997,
+        -82.44278,
+        "Tampa FL-Buckeye (McCloskey)"
+    ],
+    [
+        27.85939,
+        -82.53771,
+        "Tampa FL-Chevron"
+    ],
+    [
+        27.93214,
+        -82.44362,
+        "Tampa FL-CITGO"
+    ],
+    [
+        27.91637,
+        -82.43676,
+        "Tampa FL-Kinder Morgan"
+    ],
+    [
+        27.94661,
+        -82.438982,
+        "Tampa FL-Marathon"
+    ],
+    [
+        27.90191,
+        -82.41581,
+        "Tampa FL-Martin"
+    ],
+    [
+        27.86072,
+        -82.54844,
+        "Tampa FL-Motiva"
+    ],
+    [
+        27.922613,
+        -82.444374,
+        "Tampa FL-Murphy"
+    ],
+    [
+        27.92447,
+        -82.44234,
+        "Tampa FL-TransMontaigne"
+    ],
+    [
+        42.25423,
+        -83.27509,
+        "Taylor MI-Buckeye (24501Ecorse"
+    ],
+    [
+        42.25381,
+        -83.2781,
+        "Taylor MI-Buckeye (24801Ecorse"
+    ],
+    [
+        42.2449,
+        -83.30154,
+        "Taylor MI-Buckeye (Inkster)"
+    ],
+    [
+        42.24653,
+        -83.29601,
+        "Taylor MI-Cousins"
+    ],
+    [
+        30.607488,
+        -97.462421,
+        "Taylor TX-Valero"
+    ],
+    [
+        31.095106,
+        -97.348506,
+        "Temple TX-BNSF"
+    ],
+    [
+        29.364875,
+        -94.918955,
+        "Texas City TX-Oiltanking"
+    ],
+    [
+        30.52896,
+        -88.10843,
+        "Theodore AL-Martin"
+    ],
+    [
+        28.45829,
+        -98.18059,
+        "Three Rivers TX-Diamond Shmrck"
+    ],
+    [
+        48.38733,
+        -102.95172,
+        "Tioga ND-Hess"
+    ],
+    [
+        41.67457,
+        -71.19327,
+        "Tiverton RI-Inland Fuel"
+    ],
+    [
+        41.67457,
+        -71.19327,
+        "Tiverton RI-Inland Fuel"
+    ],
+    [
+        41.63988,
+        -83.60418,
+        "Toledo OH-Buckeye"
+    ],
+    [
+        41.65679,
+        -83.50411,
+        "Toledo OH-Delta Fuels"
+    ],
+    [
+        41.632957,
+        -83.506668,
+        "Toledo OH-PBF"
+    ],
+    [
+        41.67674,
+        -83.49531,
+        "Toledo OH-Zenith Energy"
+    ],
+    [
+        42.9912,
+        -78.92539,
+        "Tonawanda NY-Marathon"
+    ],
+    [
+        42.9912,
+        -78.92539,
+        "Tonawanda NY-Marathon"
+    ],
+    [
+        42.979877,
+        -78.924217,
+        "Tonawanda NY-Sunoco"
+    ],
+    [
+        42.979877,
+        -78.924217,
+        "Tonawanda NY-Sunoco"
+    ],
+    [
+        42.99578,
+        -78.92605,
+        "Tonawanda NY-United Refining"
+    ],
+    [
+        42.99578,
+        -78.92605,
+        "Tonawanda NY-United Refining"
+    ],
+    [
+        37.75175,
+        -121.34697,
+        "Tracy CA-Chevron"
+    ],
+    [
+        37.75175,
+        -121.34697,
+        "Tracy CA-Chevron"
+    ],
+    [
+        40.176198,
+        -74.731068,
+        "Trenton NJ-Buckeye Terminal"
+    ],
+    [
+        40.17556,
+        -74.72894,
+        "Trenton NJ-SLF - Consumers Oil"
+    ],
+    [
+        32.18155,
+        -110.91342,
+        "Tucson AZ-Holly Energy"
+    ],
+    [
+        32.178145,
+        -110.911043,
+        "Tucson AZ-Kinder Morgan"
+    ],
+    [
+        32.178145,
+        -110.911043,
+        "Tucson AZ-SFPP - KM"
+    ],
+    [
+        40.116352,
+        -74.849281,
+        "Tullytown PA-Meenan"
+    ],
+    [
+        36.11249,
+        -96.0061,
+        "Tulsa OK-Holly (East)"
+    ],
+    [
+        36.137493,
+        -96.011516,
+        "Tulsa OK-Holly (West)"
+    ],
+    [
+        36.13156,
+        -96.03165,
+        "Tulsa OK-Magellan"
+    ],
+    [
+        33.200588,
+        -87.609314,
+        "Tuscaloosa AL-Hunt Refining"
+    ],
+    [
+        33.200588,
+        -87.609314,
+        "Tuscaloosa AL-Hunt Refining"
+    ],
+    [
+        32.45825,
+        -99.85289,
+        "Tye TX-Holly Energy"
+    ],
+    [
+        32.355064,
+        -95.280311,
+        "Tyler TX-Delek"
+    ],
+    [
+        45.914234,
+        -119.283768,
+        "Umatilla OR-Tidewater"
+    ],
+    [
+        43.1084,
+        -75.21586,
+        "Utica NY-Buckeye"
+    ],
+    [
+        37.81858,
+        -97.36951,
+        "Valley Center KS-Magellan"
+    ],
+    [
+        34.17996,
+        -118.46813,
+        "Van Nuys CA-Chevron"
+    ],
+    [
+        34.21783,
+        -118.47427,
+        "Van Nuys CA-Shell Oil"
+    ],
+    [
+        45.639881,
+        -122.647036,
+        "Vancouver WA-Marathon"
+    ],
+    [
+        45.66158,
+        -122.6944,
+        "Vancouver WA-Nustar(FruitVlly)"
+    ],
+    [
+        45.630699,
+        -122.674881,
+        "Vancouver WA-Nustar(Port of V2"
+    ],
+    [
+        29.27016,
+        -89.351873,
+        "Venice  LA-Martin"
+    ],
+    [
+        34.01027,
+        -118.22151,
+        "Vernon CA-Torrance Logistics"
+    ],
+    [
+        34.01027,
+        -118.22151,
+        "Vernon CA-Torrance Logistics"
+    ],
+    [
+        42.10059,
+        -76.00344,
+        "Vestal NY-Buckeye"
+    ],
+    [
+        42.103159,
+        -75.997581,
+        "Vestal NY-CITGO"
+    ],
+    [
+        32.390267,
+        -90.889983,
+        "Vicksburg MS-CITGO"
+    ],
+    [
+        32.338104,
+        -90.892929,
+        "Vicksburg MS-Hunt Refining"
+    ],
+    [
+        28.80785,
+        -96.9807,
+        "Victoria TX-CITGO"
+    ],
+    [
+        30.043733,
+        -94.025581,
+        "Vidor  TX-ERPC"
+    ],
+    [
+        31.56258,
+        -97.09967,
+        "Waco TX-Fikes Wholesale"
+    ],
+    [
+        31.56657,
+        -97.09979,
+        "Waco TX-Flint Hills"
+    ],
+    [
+        31.614934,
+        -97.108742,
+        "Waco TX-Motiva"
+    ],
+    [
+        43.098125,
+        -76.301438,
+        "Warners NY-Sunoco"
+    ],
+    [
+        43.098125,
+        -76.301438,
+        "Warners NY-Sunoco"
+    ],
+    [
+        41.829722,
+        -79.124209,
+        "Warren PA-United Refining"
+    ],
+    [
+        32.478046,
+        -94.06118,
+        "Waskom TX-Sunoco"
+    ],
+    [
+        42.438342,
+        -92.419289,
+        "Waterloo IA-Magellan"
+    ],
+    [
+        44.88875,
+        -97.08823,
+        "Watertown SD-Magellan"
+    ],
+    [
+        39.74988,
+        -94.92671,
+        "Wathena KS-Growmark"
+    ],
+    [
+        43.632977,
+        -88.748816,
+        "Waupun WI-Flint Hills"
+    ],
+    [
+        46.876964,
+        -96.882038,
+        "West Fargo ND-Magellan"
+    ],
+    [
+        35.13083,
+        -90.17499,
+        "West Memphis AR-NGL"
+    ],
+    [
+        35.14562,
+        -90.174615,
+        "West Memphis AR-Valero"
+    ],
+    [
+        38.56846,
+        -121.52224,
+        "West Sacramento CA-Buckeye"
+    ],
+    [
+        38.57026,
+        -121.52009,
+        "West Sacramento CA-Shell Oil"
+    ],
+    [
+        36.69929,
+        -107.97671,
+        "Western Refining - Bloomfield"
+    ],
+    [
+        40.04367,
+        -86.22278,
+        "Westfield IN-Countrymark Coop"
+    ],
+    [
+        30.24399,
+        -93.26951,
+        "Westlake LA-Phillips 66"
+    ],
+    [
+        30.24399,
+        -93.26951,
+        "Westlake LA-Phillips 66"
+    ],
+    [
+        39.867172,
+        -75.155042,
+        "Westville NJ-Sunoco"
+    ],
+    [
+        41.719622,
+        -72.649349,
+        "Wethersfield CT-Buckeye"
+    ],
+    [
+        41.71682,
+        -72.64803,
+        "Wethersfield CT-Global"
+    ],
+    [
+        40.646294,
+        -75.484587,
+        "Whitehall PA-Lucknow"
+    ],
+    [
+        40.646294,
+        -75.484587,
+        "Whitehall PA-Lucknow"
+    ],
+    [
+        40.643604,
+        -75.480377,
+        "Whitehall PA-Sunoco"
+    ],
+    [
+        40.643604,
+        -75.480377,
+        "Whitehall PA-Sunoco"
+    ],
+    [
+        41.668161,
+        -87.487936,
+        "Whiting IN-BP"
+    ],
+    [
+        33.93676,
+        -98.49275,
+        "Wichita Falls TX-Holly Energy"
+    ],
+    [
+        37.75709,
+        -97.30654,
+        "Wichita KS-P66 (East 37th)"
+    ],
+    [
+        37.650075,
+        -97.244297,
+        "Wichita KS-P66 (Oak Knoll)"
+    ],
+    [
+        41.23911,
+        -76.96216,
+        "Williamsport PA-Buckeye"
+    ],
+    [
+        41.242145,
+        -76.983371,
+        "Williamsport PA-Zenith Energy"
+    ],
+    [
+        33.790948,
+        -118.238808,
+        "Wilmington CA-Marathon"
+    ],
+    [
+        33.78986,
+        -118.263222,
+        "Wilmington CA-Shore"
+    ],
+    [
+        33.78108,
+        -118.23374,
+        "Wilmington CA-Ultramar"
+    ],
+    [
+        33.765552,
+        -118.259267,
+        "Wilmington CA-Vopak"
+    ],
+    [
+        39.711823,
+        -75.529872,
+        "Wilmington DE-Magellan"
+    ],
+    [
+        34.18744,
+        -77.9538,
+        "Wilmington NC-Apex Oil"
+    ],
+    [
+        34.218712,
+        -77.950218,
+        "Wilmington NC-Buckeye"
+    ],
+    [
+        34.22179,
+        -77.94787,
+        "Wilmington NC-CTI"
+    ],
+    [
+        34.209502,
+        -77.950845,
+        "Wilmington NC-Kinder Morgan"
+    ],
+    [
+        44.40424,
+        -98.474975,
+        "Wolsey SD-Nustar"
+    ],
+    [
+        39.82043,
+        -75.17988,
+        "Woodbury-Thorofare NJ-Gulf Oil"
+    ],
+    [
+        39.82043,
+        -75.17988,
+        "Woodbury-Thorofare NJ-Gulf Oil"
+    ],
+    [
+        39.82043,
+        -75.17988,
+        "Woodbury-Thorofare NJ-Gulf Oil"
+    ],
+    [
+        42.139451,
+        -83.24786,
+        "Woodhaven MI-Buckeye"
+    ],
+    [
+        40.88654,
+        -111.90142,
+        "Woods Cross UT-Holly Energy"
+    ],
+    [
+        40.88654,
+        -111.90142,
+        "Woods Cross UT-HollyFrontier"
+    ],
+    [
+        40.86631,
+        -111.9115,
+        "Woods Cross UT-Silver Eagle"
+    ],
+    [
+        46.632814,
+        -92.391525,
+        "Wrenshall MN-Magellan"
+    ],
+    [
+        34.63675,
+        -97.167986,
+        "Wynnewood OK-Wynnewood Energy"
+    ],
+    [
+        42.880402,
+        -97.349686,
+        "Yankton SD-Nustar"
+    ],
+    [
+        37.227161,
+        -76.55278,
+        "Yorktown VA-Plains Marketing"
+    ],
+    [
+        41.087059,
+        -80.702309,
+        "Youngstown OH-Marathon"
+    ],
+    [
+        41.03369,
+        -80.65524,
+        "Youngstown OH-Sunoco"
+    ]
+  ]
