@@ -1,8 +1,5 @@
-<div id="map" class="map">
-  <!-- <div class="map-marker"
-       *ngFor="let marker of markers"
-       [style.top]="(marker.lat | number:'1.0-6') + 'px'"
-       [style.left]="(marker.lon | number:'1.0-6') + 'px'"
-       [attr.data-tooltip]="marker.name">
-  </div> -->
+<div id="map" style="width: 100%; height: 750px;" class="map"></div>
+<div  #popup  id="popup" class="ol-popup">
+  <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+  <div id="popup-content" class="popup-content"></div>
 </div>
